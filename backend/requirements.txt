@@ -1,0 +1,8 @@
+Flask
+requests
+numpy
+scikit-learn
+xgboost
+imbalanced-learn
+gunicorn
+# Add any other libraries you use

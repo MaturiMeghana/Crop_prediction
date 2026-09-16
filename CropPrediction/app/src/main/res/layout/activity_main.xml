@@ -1,0 +1,67 @@
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:padding="16dp">
+
+        <EditText
+            android:id="@+id/etN"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="Nitrogen (N)"
+            android:inputType="numberDecimal" />
+
+        <EditText
+            android:id="@+id/etP"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="Phosphorus (P)"
+            android:inputType="numberDecimal" />
+
+        <EditText
+            android:id="@+id/etK"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="Potassium (K)"
+            android:inputType="numberDecimal" />
+
+        <EditText
+            android:id="@+id/etTemp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="Temperature (°C)"
+            android:inputType="numberDecimal" />
+
+        <EditText
+            android:id="@+id/etHumidity"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="Humidity (%)"
+            android:inputType="numberDecimal" />
+
+        <EditText
+            android:id="@+id/etPH"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="pH value"
+            android:inputType="numberDecimal" />
+
+        <EditText
+            android:id="@+id/etRainfall"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="Rainfall (mm)"
+            android:inputType="numberDecimal" />
+
+        <Button
+            android:id="@+id/btnPredict"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Recommend Crop" />
+
+    </LinearLayout>
+</ScrollView>

@@ -1,0 +1,58 @@
+/build
+ · GITIGNORE
+# ---------- Android / Kotlin / Gradle ----------
+*.iml
+.gradle/
+.idea/
+.kotlin/
+local.properties
+captures/
+.externalNativeBuild/
+.cxx/
+*.apk
+*.aab
+*.ap_
+*.dex
+ 
+# Build outputs
+**/build/
+app/build/
+app/release/
+app/debug/
+ 
+# Log files
+*.log
+.kotlin/errors/
+ 
+# Signing keys (never commit these)
+*.jks
+*.keystore
+ 
+# ---------- Python / Flask ----------
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyc
+venv/
+env/
+.venv/
+*.egg-info/
+instance/
+.pytest_cache/
+ 
+# Environment variables / secrets
+.env
+*.env
+config.py
+ 
+# ---------- OS / IDE ----------
+.DS_Store
+Thumbs.db
+.vscode/
+*.swp
+ 
+# ---------- Large data / model files (optional) ----------
+# Uncomment if your dataset or model files are large and you don't want to commit them
+# *.csv
+# *.h5
+# *.tflite

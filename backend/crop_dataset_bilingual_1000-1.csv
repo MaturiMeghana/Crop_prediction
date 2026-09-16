@@ -1,0 +1,1001 @@
+Season_EN,Season_TE,Soil_EN,Soil_TE,N,P,K,pH,Temperature,Rainfall,Humidity,Crop_EN,Crop_TE,Organic_Fertilizer_EN,Organic_Fertilizer_TE,Inorganic_Fertilizer_EN,Inorganic_Fertilizer_TE,Organic_Pesticide_EN,Organic_Pesticide_TE,Inorganic_Pesticide_EN,Inorganic_Pesticide_TE
+Kharif,ఖరీఫ్,Clay,బంకమట్టి,118,31,56,5.75,23,266,48,Drumstick,మునగ,Neem Cake,వేపపిండి,Urea,యూరియా,Chili Spray,మిరప స్ప్రే,Chlorpyrifos,క్లోరోపైరిఫాస్
+Kharif,ఖరీఫ్,Loamy,లోమీ,93,38,102,6.98,29,225,66,Grapes,ద్రాక్ష,Neem Cake,వేపపిండి,NPK,ఎన్‌పీకే,Neem Oil,వేప నూనె,Chlorpyrifos,క్లోరోపైరిఫాస్
+Kharif,ఖరీఫ్,Loamy,లోమీ,91,36,78,7.04,34,187,58,Beetroot,బీట్‌రూట్,Vermicompost,వర్మి కంపోస్ట్,NPK,ఎన్‌పీకే,Neem Oil,వేప నూనె,Chlorpyrifos,క్లోరోపైరిఫాస్
+Kharif,ఖరీఫ్,Black,నల్ల మట్టి,71,29,55,7.15,20,189,82,Cabbage,క్యాబేజీ,Compost,కంపోస్ట్,MOP,పొటాష్,Garlic Spray,వెల్లుల్లి స్ప్రే,Chlorpyrifos,క్లోరోపైరిఫాస్
+Kharif,ఖరీఫ్,Loamy,లోమీ,94,25,38,6.43,31,69,63,Beetroot,బీట్‌రూట్,Vermicompost,వర్మి కంపోస్ట్,DAP,డిఏపీ,Chili Spray,మిరప స్ప్రే,Chlorpyrifos,క్లోరోపైరిఫాస్
+Kharif,ఖరీఫ్,Clay,బంకమట్టి,83,108,16,7.07,31,152,57,Coriander,కొత్తిమీర,Vermicompost,వర్మి కంపోస్ట్,MOP,పొటాష్,Garlic Spray,వెల్లుల్లి స్ప్రే,Chlorpyrifos,క్లోరోపైరిఫాస్
+Zaid,జైద్,Black,నల్ల మట్టి,67,92,21,5.52,39,232,78,Gram,సెనగ,Farmyard Manure,పశువుల ఎరువు,Urea,యూరియా,Garlic Spray,వెల్లుల్లి స్ప్రే,Cypermethrin,సైపర్‌మెత్రిన్
+Rabi,రబీ,Red,ఎర్ర మట్టి,35,120,108,7.64,30,105,74,Pumpkin,గుమ్మడికాయ,Farmyard Manure,పశువుల ఎరువు,DAP,డిఏపీ,Chili Spray,మిరప స్ప్రే,Chlorpyrifos,క్లోరోపైరిఫాస్
+Kharif,ఖరీఫ్,Black,నల్ల మట్టి,64,66,26,7.58,33,296,56,Cotton,పత్తి,Farmyard Manure,పశువుల ఎరువు,MOP,పొటాష్,Garlic Spray,వెల్లుల్లి స్ప్రే,Cypermethrin,సైపర్‌మెత్రిన్
+Zaid,జైద్,Black,నల్ల మట్టి,24,52,95,7.65,21,209,43,Drumstick,మునగ,Farmyard Manure,పశువుల ఎరువు,MOP,పొటాష్,Garlic Spray,వెల్లుల్లి స్ప్రే,Cypermethrin,సైపర్‌మెత్రిన్
+Zaid,జైద్,Black,నల్ల మట్టి,112,97,51,7.54,40,82,30,Gram,సెనగ,Vermicompost,వర్మి కంపోస్ట్,DAP,డిఏపీ,Garlic Spray,వెల్లుల్లి స్ప్రే,Chlorpyrifos,క్లోరోపైరిఫాస్
+Kharif,ఖరీఫ్,Sandy,మణల్,31,17,76,6.36,36,207,46,Grapes,ద్రాక్ష,Vermicompost,వర్మి కంపోస్ట్,Urea,యూరియా,Chili Spray,మిరప స్ప్రే,Chlorpyrifos,క్లోరోపైరిఫాస్
+Zaid,జైద్,Clay,బంకమట్టి,119,80,93,8.0,36,252,74,Rice,వరి,Vermicompost,వర్మి కంపోస్ట్,NPK,ఎన్‌పీకే,Chili Spray,మిరప స్ప్రే,Imidacloprid,ఇమిడాక్లోప్రిడ్
+Zaid,జైద్,Loamy,లోమీ,61,42,26,5.59,33,101,63,Watermelon,పుచ్చకాయ,Neem Cake,వేపపిండి,MOP,పొటాష్,Garlic Spray,వెల్లుల్లి స్ప్రే,Imidacloprid,ఇమిడాక్లోప్రిడ్
+Rabi,రబీ,Loamy,లోమీ,39,102,104,6.1,40,152,58,Cauliflower,కాలీఫ్లవర్,Vermicompost,వర్మి కంపోస్ట్,Urea,యూరియా,Neem Oil,వేప నూనె,Chlorpyrifos,క్లోరోపైరిఫాస్
+Kharif,ఖరీఫ్,Sandy,మణల్,112,48,78,6.72,17,95,33,Guava,జామ,Neem Cake,వేపపిండి,MOP,పొటాష్,Chili Spray,మిరప స్ప్రే,Chlorpyrifos,క్లోరోపైరిఫాస్
+Zaid,జైద్,Black,నల్ల మట్టి,108,30,17,5.57,30,237,76,Lemon,నిమ్మ,Farmyard Manure,పశువుల ఎరువు,Urea,యూరియా,Chili Spray,మిరప స్ప్రే,Cypermethrin,సైపర్‌మెత్రిన్
+Kharif,ఖరీఫ్,Red,ఎర్ర మట్టి,55,57,49,7.39,35,239,74,Lentil,పప్పు,Compost,కంపోస్ట్,DAP,డిఏపీ,Chili Spray,మిరప స్ప్రే,Chlorpyrifos,క్లోరోపైరిఫాస్
+Zaid,జైద్,Red,ఎర్ర మట్టి,74,69,19,7.26,30,152,33,Radish,ముల్లంగి,Neem Cake,వేపపిండి,MOP,పొటాష్,Neem Oil,వేప నూనె,Cypermethrin,సైపర్‌మెత్రిన్
+Kharif,ఖరీఫ్,Clay,బంకమట్టి,118,96,39,6.86,30,208,85,Soybean,సోయాబీన్,Compost,కంపోస్ట్,MOP,పొటాష్,Chili Spray,మిరప స్ప్రే,Chlorpyrifos,క్లోరోపైరిఫాస్
+Zaid,జైద్,Red,ఎర్ర మట్టి,58,86,119,8.43,29,175,78,Fenugreek,మెంతికూర,Compost,కంపోస్ట్,DAP,డిఏపీ,Garlic Spray,వెల్లుల్లి స్ప్రే,Chlorpyrifos,క్లోరోపైరిఫాస్
+Rabi,రబీ,Clay,బంకమట్టి,53,58,118,5.66,24,100,52,Muskmelon,ఖర్బూజ,Compost,కంపోస్ట్,NPK,ఎన్‌పీకే,Neem Oil,వేప నూనె,Imidacloprid,ఇమిడాక్లోప్రిడ్
+Kharif,ఖరీఫ్,Clay,బంకమట్టి,35,51,73,7.34,39,127,86,Maize,మొక్కజొన్న,Farmyard Manure,పశువుల ఎరువు,MOP,పొటాష్,Chili Spray,మిరప స్ప్రే,Cypermethrin,సైపర్‌మెత్రిన్
+Rabi,రబీ,Black,నల్ల మట్టి,95,91,88,5.79,29,77,41,Cabbage,క్యాబేజీ,Farmyard Manure,పశువుల ఎరువు,Urea,యూరియా,Neem Oil,వేప నూనె,Imidacloprid,ఇమిడాక్లోప్రిడ్
+Kharif,ఖరీఫ్,Loamy,లోమీ,108,47,105,6.56,24,152,63,Guava,జామ,Farmyard Manure,పశువుల ఎరువు,NPK,ఎన్‌పీకే,Neem Oil,వేప నూనె,Chlorpyrifos,క్లోరోపైరిఫాస్
+Rabi,రబీ,Sandy,మణల్,32,25,90,7.51,37,155,66,Watermelon,పుచ్చకాయ,Farmyard Manure,పశువుల ఎరువు,DAP,డిఏపీ,Garlic Spray,వెల్లుల్లి స్ప్రే,Chlorpyrifos,క్లోరోపైరిఫాస్
+Kharif,ఖరీఫ్,Black,నల్ల మట్టి,119,99,86,7.82,24,247,30,Cauliflower,కాలీఫ్లవర్,Vermicompost,వర్మి కంపోస్ట్,Urea,యూరియా,Neem Oil,వేప నూనె,Cypermethrin,సైపర్‌మెత్రిన్
+Rabi,రబీ,Black,నల్ల మట్టి,12,52,117,6.57,21,186,47,Fenugreek,మెంతికూర,Vermicompost,వర్మి కంపోస్ట్,NPK,ఎన్‌పీకే,Chili Spray,మిరప స్ప్రే,Imidacloprid,ఇమిడాక్లోప్రిడ్
+Zaid,జైద్,Red,ఎర్ర మట్టి,89,18,47,6.07,40,190,55,Sunflower,సూర్యకాంతి,Neem Cake,వేపపిండి,Urea,యూరియా,Garlic Spray,వెల్లుల్లి స్ప్రే,Chlorpyrifos,క్లోరోపైరిఫాస్
+Kharif,ఖరీఫ్,Clay,బంకమట్టి,66,89,70,6.38,19,118,58,Pumpkin,గుమ్మడికాయ,Neem Cake,వేపపిండి,MOP,పొటాష్,Neem Oil,వేప నూనె,Imidacloprid,ఇమిడాక్లోప్రిడ్
+Zaid,జైద్,Black,నల్ల మట్టి,27,53,56,8.48,23,196,70,Papaya,బొప్పాయి,Compost,కంపోస్ట్,Urea,యూరియా,Neem Oil,వేప నూనె,Imidacloprid,ఇమిడాక్లోప్రిడ్
+Kharif,ఖరీఫ్,Loamy,లోమీ,31,93,33,6.89,20,116,45,Muskmelon,ఖర్బూజ,Compost,కంపోస్ట్,NPK,ఎన్‌పీకే,Chili Spray,మిరప స్ప్రే,Imidacloprid,ఇమిడాక్లోప్రిడ్
+Rabi,రబీ,Sandy,మణల్,74,55,71,6.13,29,175,88,Chilli,మిర్చి,Farmyard Manure,పశువుల ఎరువు,MOP,పొటాష్,Chili Spray,మిరప స్ప్రే,Cypermethrin,సైపర్‌మెత్రిన్
+Kharif,ఖరీఫ్,Sandy,మణల్,70,41,101,5.81,32,88,33,Lentil,పప్పు,Vermicompost,వర్మి కంపోస్ట్,Urea,యూరియా,Chili Spray,మిరప స్ప్రే,Chlorpyrifos,క్లోరోపైరిఫాస్
+Zaid,జైద్,Loamy,లోమీ,102,87,98,8.23,39,92,53,Radish,ముల్లంగి,Farmyard Manure,పశువుల ఎరువు,NPK,ఎన్‌పీకే,Garlic Spray,వెల్లుల్లి స్ప్రే,Imidacloprid,ఇమిడాక్లోప్రిడ్
+Kharif,ఖరీఫ్,Sandy,మణల్,91,79,58,7.03,20,299,54,Turnip,టర్నిప్,Farmyard Manure,పశువుల ఎరువు,Urea,యూరియా,Chili Spray,మిరప స్ప్రే,Chlorpyrifos,క్లోరోపైరిఫాస్
+Rabi,రబీ,Black,నల్ల మట్టి,104,106,34,7.7,34,111,40,Mustard,ఆవాలు,Neem Cake,వేపపిండి,NPK,ఎన్‌పీకే,Chili Spray,మిరప స్ప్రే,Imidacloprid,ఇమిడాక్లోప్రిడ్
+Zaid,జైద్,Clay,బంకమట్టి,83,86,68,6.55,31,271,56,Carrot,గాజర్,Farmyard Manure,పశువుల ఎరువు,NPK,ఎన్‌పీకే,Neem Oil,వేప నూనె,Cypermethrin,సైపర్‌మెత్రిన్
+Kharif,ఖరీఫ్,Black,నల్ల మట్టి,32,104,87,6.94,26,159,81,Onion,ఉల్లి,Compost,కంపోస్ట్,MOP,పొటాష్,Garlic Spray,వెల్లుల్లి స్ప్రే,Imidacloprid,ఇమిడాక్లోప్రిడ్
+Rabi,రబీ,Red,ఎర్ర మట్టి,46,34,52,6.1,40,279,83,Bottle Gourd,సొరకాయ,Compost,కంపోస్ట్,Urea,యూరియా,Neem Oil,వేప నూనె,Chlorpyrifos,క్లోరోపైరిఫాస్
+Zaid,జైద్,Clay,బంకమట్టి,76,72,85,5.6,16,62,39,Millet,సజ్జ,Vermicompost,వర్మి కంపోస్ట్,DAP,డిఏపీ,Garlic Spray,వెల్లుల్లి స్ప్రే,Imidacloprid,ఇమిడాక్లోప్రిడ్
+Kharif,ఖరీఫ్,Black,నల్ల మట్టి,19,85,90,5.66,22,233,90,Drumstick,మునగ,Vermicompost,వర్మి కంపోస్ట్,MOP,పొటాష్,Chili Spray,మిరప స్ప్రే,Cypermethrin,సైపర్‌మెత్రిన్
+Zaid,జైద్,Red,ఎర్ర మట్టి,80,47,106,7.39,33,211,83,Tomato,టమోటా,Farmyard Manure,పశువుల ఎరువు,DAP,డిఏపీ,Garlic Spray,వెల్లుల్లి స్ప్రే,Chlorpyrifos,క్లోరోపైరిఫాస్
+Zaid,జైద్,Sandy,మణల్,48,43,80,5.74,34,229,49,Sugarcane,చెరకు,Vermicompost,వర్మి కంపోస్ట్,Urea,యూరియా,Neem Oil,వేప నూనె,Cypermethrin,సైపర్‌మెత్రిన్
+Kharif,ఖరీఫ్,Sandy,మణల్,42,66,20,7.63,19,286,67,Apple,సేపు,Compost,కంపోస్ట్,NPK,ఎన్‌పీకే,Chili Spray,మిరప స్ప్రే,Chlorpyrifos,క్లోరోపైరిఫాస్
+Rabi,రబీ,Clay,బంకమట్టి,108,81,41,7.4,19,94,52,Turnip,టర్నిప్,Farmyard Manure,పశువుల ఎరువు,Urea,యూరియా,Garlic Spray,వెల్లుల్లి స్ప్రే,Imidacloprid,ఇమిడాక్లోప్రిడ్
+Kharif,ఖరీఫ్,Black,నల్ల మట్టి,89,109,81,7.87,26,87,33,Cauliflower,కాలీఫ్లవర్,Vermicompost,వర్మి కంపోస్ట్,NPK,ఎన్‌పీకే,Garlic Spray,వెల్లుల్లి స్ప్రే,Imidacloprid,ఇమిడాక్లోప్రిడ్
+Rabi,రబీ,Sandy,మణల్,77,35,23,6.82,22,113,58,Bottle Gourd,సొరకాయ,Neem Cake,వేపపిండి,NPK,ఎన్‌పీకే,Neem Oil,వేప నూనె,Imidacloprid,ఇమిడాక్లోప్రిడ్
+Zaid,జైద్,Black,నల్ల మట్టి,16,59,61,5.59,20,279,79,Soybean,సోయాబీన్,Farmyard Manure,పశువుల ఎరువు,MOP,పొటాష్,Neem Oil,వేప నూనె,Chlorpyrifos,క్లోరోపైరిఫాస్
+Kharif,ఖరీఫ్,Red,ఎర్ర మట్టి,60,72,59,7.39,26,294,76,Wheat,గోధుమ,Neem Cake,వేపపిండి,Urea,యూరియా,Neem Oil,వేప నూనె,Chlorpyrifos,క్లోరోపైరిఫాస్
+Rabi,రబీ,Sandy,మణల్,28,23,28,5.69,31,284,78,Gram,సెనగ,Vermicompost,వర్మి కంపోస్ట్,DAP,డిఏపీ,Garlic Spray,వెల్లుల్లి స్ప్రే,Chlorpyrifos,క్లోరోపైరిఫాస్
+Kharif,ఖరీఫ్,Red,ఎర్ర మట్టి,114,17,101,5.69,28,138,31,Brinjal,వంకాయ,Farmyard Manure,పశువుల ఎరువు,DAP,డిఏపీ,Chili Spray,మిరప స్ప్రే,Imidacloprid,ఇమిడాక్లోప్రిడ్
+Rabi,రబీ,Clay,బంకమట్టి,33,115,36,5.72,33,63,34,Chilli,మిర్చి,Neem Cake,వేపపిండి,DAP,డిఏపీ,Chili Spray,మిరప స్ప్రే,Cypermethrin,సైపర్‌మెత్రిన్
+Rabi,రబీ,Clay,బంకమట్టి,29,67,11,6.36,25,291,69,Watermelon,పుచ్చకాయ,Vermicompost,వర్మి కంపోస్ట్,MOP,పొటాష్,Garlic Spray,వెల్లుల్లి స్ప్రే,Imidacloprid,ఇమిడాక్లోప్రిడ్
+Rabi,రబీ,Red,ఎర్ర మట్టి,63,43,76,7.71,32,64,49,Drumstick,మునగ,Compost,కంపోస్ట్,DAP,డిఏపీ,Garlic Spray,వెల్లుల్లి స్ప్రే,Imidacloprid,ఇమిడాక్లోప్రిడ్
+Zaid,జైద్,Sandy,మణల్,40,84,109,8.26,33,234,35,Cauliflower,కాలీఫ్లవర్,Compost,కంపోస్ట్,Urea,యూరియా,Garlic Spray,వెల్లుల్లి స్ప్రే,Chlorpyrifos,క్లోరోపైరిఫాస్
+Rabi,రబీ,Red,ఎర్ర మట్టి,20,51,46,6.69,29,292,51,Cauliflower,కాలీఫ్లవర్,Farmyard Manure,పశువుల ఎరువు,DAP,డిఏపీ,Garlic Spray,వెల్లుల్లి స్ప్రే,Chlorpyrifos,క్లోరోపైరిఫాస్
+Rabi,రబీ,Sandy,మణల్,37,105,23,6.26,37,181,82,Potato,ఆలుగడ్డ,Farmyard Manure,పశువుల ఎరువు,Urea,యూరియా,Garlic Spray,వెల్లుల్లి స్ప్రే,Imidacloprid,ఇమిడాక్లోప్రిడ్
+Rabi,రబీ,Red,ఎర్ర మట్టి,58,56,116,8.41,15,295,69,Mustard,ఆవాలు,Neem Cake,వేపపిండి,MOP,పొటాష్,Neem Oil,వేప నూనె,Imidacloprid,ఇమిడాక్లోప్రిడ్
+Rabi,రబీ,Sandy,మణల్,101,11,25,5.84,25,206,34,Banana,అరటి,Farmyard Manure,పశువుల ఎరువు,NPK,ఎన్‌పీకే,Garlic Spray,వెల్లుల్లి స్ప్రే,Chlorpyrifos,క్లోరోపైరిఫాస్
+Kharif,ఖరీఫ్,Sandy,మణల్,92,38,66,5.63,33,238,57,Sorghum,జొన్న,Farmyard Manure,పశువుల ఎరువు,MOP,పొటాష్,Neem Oil,వేప నూనె,Imidacloprid,ఇమిడాక్లోప్రిడ్
+Kharif,ఖరీఫ్,Loamy,లోమీ,102,58,84,7.92,31,139,70,Rice,వరి,Compost,కంపోస్ట్,MOP,పొటాష్,Chili Spray,మిరప స్ప్రే,Chlorpyrifos,క్లోరోపైరిఫాస్
+Zaid,జైద్,Red,ఎర్ర మట్టి,51,53,92,7.17,25,121,49,Drumstick,మునగ,Vermicompost,వర్మి కంపోస్ట్,Urea,యూరియా,Neem Oil,వేప నూనె,Cypermethrin,సైపర్‌మెత్రిన్
+Kharif,ఖరీఫ్,Loamy,లోమీ,110,112,63,7.45,19,186,73,Onion,ఉల్లి,Vermicompost,వర్మి కంపోస్ట్,NPK,ఎన్‌పీకే,Neem Oil,వేప నూనె,Imidacloprid,ఇమిడాక్లోప్రిడ్
+Kharif,ఖరీఫ్,Loamy,లోమీ,62,14,67,6.27,20,144,44,Coriander,కొత్తిమీర,Compost,కంపోస్ట్,MOP,పొటాష్,Neem Oil,వేప నూనె,Cypermethrin,సైపర్‌మెత్రిన్
+Kharif,ఖరీఫ్,Sandy,మణల్,56,116,50,5.95,16,143,86,Barley,యవ,Vermicompost,వర్మి కంపోస్ట్,DAP,డిఏపీ,Chili Spray,మిరప స్ప్రే,Cypermethrin,సైపర్‌మెత్రిన్
+Rabi,రబీ,Loamy,లోమీ,23,32,68,7.44,20,172,48,Potato,ఆలుగడ్డ,Vermicompost,వర్మి కంపోస్ట్,Urea,యూరియా,Chili Spray,మిరప స్ప్రే,Imidacloprid,ఇమిడాక్లోప్రిడ్
+Kharif,ఖరీఫ్,Black,నల్ల మట్టి,69,107,45,8.02,30,156,72,Beetroot,బీట్‌రూట్,Compost,కంపోస్ట్,MOP,పొటాష్,Neem Oil,వేప నూనె,Chlorpyrifos,క్లోరోపైరిఫాస్
+Rabi,రబీ,Red,ఎర్ర మట్టి,40,52,106,8.32,20,181,43,Mustard,ఆవాలు,Compost,కంపోస్ట్,Urea,యూరియా,Neem Oil,వేప నూనె,Imidacloprid,ఇమిడాక్లోప్రిడ్
+Rabi,రబీ,Sandy,మణల్,78,26,50,8.22,33,288,39,Onion,ఉల్లి,Farmyard Manure,పశువుల ఎరువు,NPK,ఎన్‌పీకే,Garlic Spray,వెల్లుల్లి స్ప్రే,Imidacloprid,ఇమిడాక్లోప్రిడ్
+Zaid,జైద్,Black,నల్ల మట్టి,86,120,98,7.42,34,59,58,Carrot,గాజర్,Farmyard Manure,పశువుల ఎరువు,DAP,డిఏపీ,Chili Spray,మిరప స్ప్రే,Chlorpyrifos,క్లోరోపైరిఫాస్
+Kharif,ఖరీఫ్,Red,ఎర్ర మట్టి,96,74,116,6.52,39,287,86,Rice,వరి,Farmyard Manure,పశువుల ఎరువు,NPK,ఎన్‌పీకే,Garlic Spray,వెల్లుల్లి స్ప్రే,Chlorpyrifos,క్లోరోపైరిఫాస్
+Rabi,రబీ,Black,నల్ల మట్టి,101,92,88,6.79,40,176,67,Tomato,టమోటా,Vermicompost,వర్మి కంపోస్ట్,Urea,యూరియా,Neem Oil,వేప నూనె,Chlorpyrifos,క్లోరోపైరిఫాస్
+Zaid,జైద్,Loamy,లోమీ,53,48,85,7.88,40,126,58,Muskmelon,ఖర్బూజ,Vermicompost,వర్మి కంపోస్ట్,NPK,ఎన్‌పీకే,Chili Spray,మిరప స్ప్రే,Imidacloprid,ఇమిడాక్లోప్రిడ్
+Zaid,జైద్,Loamy,లోమీ,16,31,54,7.93,30,201,89,Apple,సేపు,Compost,కంపోస్ట్,Urea,యూరియా,Neem Oil,వేప నూనె,Imidacloprid,ఇమిడాక్లోప్రిడ్
+Kharif,ఖరీఫ్,Loamy,లోమీ,116,103,38,5.91,15,249,61,Turmeric,పసుపు,Compost,కంపోస్ట్,NPK,ఎన్‌పీకే,Chili Spray,మిరప స్ప్రే,Imidacloprid,ఇమిడాక్లోప్రిడ్
+Zaid,జైద్,Clay,బంకమట్టి,18,111,24,8.39,20,204,44,Rice,వరి,Neem Cake,వేపపిండి,NPK,ఎన్‌పీకే,Neem Oil,వేప నూనె,Cypermethrin,సైపర్‌మెత్రిన్
+Rabi,రబీ,Sandy,మణల్,83,90,113,7.19,15,88,35,Watermelon,పుచ్చకాయ,Neem Cake,వేపపిండి,MOP,పొటాష్,Garlic Spray,వెల్లుల్లి స్ప్రే,Cypermethrin,సైపర్‌మెత్రిన్
+Rabi,రబీ,Red,ఎర్ర మట్టి,89,71,94,7.37,17,227,67,Sugarcane,చెరకు,Farmyard Manure,పశువుల ఎరువు,NPK,ఎన్‌పీకే,Garlic Spray,వెల్లుల్లి స్ప్రే,Imidacloprid,ఇమిడాక్లోప్రిడ్
+Rabi,రబీ,Clay,బంకమట్టి,26,94,119,5.91,31,190,57,Cauliflower,కాలీఫ్లవర్,Vermicompost,వర్మి కంపోస్ట్,NPK,ఎన్‌పీకే,Garlic Spray,వెల్లుల్లి స్ప్రే,Chlorpyrifos,క్లోరోపైరిఫాస్
+Zaid,జైద్,Red,ఎర్ర మట్టి,75,80,113,7.05,40,287,44,Sorghum,జొన్న,Vermicompost,వర్మి కంపోస్ట్,NPK,ఎన్‌పీకే,Garlic Spray,వెల్లుల్లి స్ప్రే,Imidacloprid,ఇమిడాక్లోప్రిడ్
+Zaid,జైద్,Loamy,లోమీ,69,58,89,6.57,36,217,83,Watermelon,పుచ్చకాయ,Vermicompost,వర్మి కంపోస్ట్,NPK,ఎన్‌పీకే,Garlic Spray,వెల్లుల్లి స్ప్రే,Chlorpyrifos,క్లోరోపైరిఫాస్
+Zaid,జైద్,Loamy,లోమీ,74,46,69,6.49,34,222,67,Cotton,పత్తి,Compost,కంపోస్ట్,MOP,పొటాష్,Garlic Spray,వెల్లుల్లి స్ప్రే,Cypermethrin,సైపర్‌మెత్రిన్
+Kharif,ఖరీఫ్,Clay,బంకమట్టి,45,27,98,6.41,28,61,43,Groundnut,వేరుశెనగ,Compost,కంపోస్ట్,DAP,డిఏపీ,Neem Oil,వేప నూనె,Imidacloprid,ఇమిడాక్లోప్రిడ్
+Kharif,ఖరీఫ్,Loamy,లోమీ,12,74,83,7.26,36,183,36,Ridge Gourd,బీరకాయ,Farmyard Manure,పశువుల ఎరువు,NPK,ఎన్‌పీకే,Chili Spray,మిరప స్ప్రే,Imidacloprid,ఇమిడాక్లోప్రిడ్
+Zaid,జైద్,Red,ఎర్ర మట్టి,87,82,91,7.59,30,87,34,Okra,బెండకాయ,Vermicompost,వర్మి కంపోస్ట్,NPK,ఎన్‌పీకే,Chili Spray,మిరప స్ప్రే,Chlorpyrifos,క్లోరోపైరిఫాస్
+Kharif,ఖరీఫ్,Loamy,లోమీ,54,67,113,5.63,19,196,37,Gram,సెనగ,Compost,కంపోస్ట్,MOP,పొటాష్,Neem Oil,వేప నూనె,Chlorpyrifos,క్లోరోపైరిఫాస్
+Rabi,రబీ,Red,ఎర్ర మట్టి,97,83,97,8.27,33,252,63,Rice,వరి,Compost,కంపోస్ట్,NPK,ఎన్‌పీకే,Neem Oil,వేప నూనె,Cypermethrin,సైపర్‌మెత్రిన్
+Kharif,ఖరీఫ్,Red,ఎర్ర మట్టి,65,118,77,6.72,28,56,72,Ridge Gourd,బీరకాయ,Compost,కంపోస్ట్,Urea,యూరియా,Chili Spray,మిరప స్ప్రే,Cypermethrin,సైపర్‌మెత్రిన్
+Zaid,జైద్,Loamy,లోమీ,92,47,69,6.44,18,101,71,Sugarcane,చెరకు,Neem Cake,వేపపిండి,NPK,ఎన్‌పీకే,Garlic Spray,వెల్లుల్లి స్ప్రే,Cypermethrin,సైపర్‌మెత్రిన్
+Rabi,రబీ,Loamy,లోమీ,77,57,43,6.8,33,203,72,Fenugreek,మెంతికూర,Compost,కంపోస్ట్,DAP,డిఏపీ,Neem Oil,వేప నూనె,Cypermethrin,సైపర్‌మెత్రిన్
+Kharif,ఖరీఫ్,Loamy,లోమీ,99,64,88,5.7,21,158,38,Drumstick,మునగ,Vermicompost,వర్మి కంపోస్ట్,MOP,పొటాష్,Neem Oil,వేప నూనె,Cypermethrin,సైపర్‌మెత్రిన్
+Rabi,రబీ,Black,నల్ల మట్టి,113,26,22,5.97,26,245,70,Onion,ఉల్లి,Neem Cake,వేపపిండి,DAP,డిఏపీ,Garlic Spray,వెల్లుల్లి స్ప్రే,Chlorpyrifos,క్లోరోపైరిఫాస్
+Rabi,రబీ,Red,ఎర్ర మట్టి,108,64,100,6.13,27,163,39,Pomegranate,దానిమ్మ,Neem Cake,వేపపిండి,NPK,ఎన్‌పీకే,Chili Spray,మిరప స్ప్రే,Cypermethrin,సైపర్‌మెత్రిన్
+Zaid,జైద్,Red,ఎర్ర మట్టి,82,87,87,7.72,20,190,82,Beetroot,బీట్‌రూట్,Farmyard Manure,పశువుల ఎరువు,MOP,పొటాష్,Chili Spray,మిరప స్ప్రే,Cypermethrin,సైపర్‌మెత్రిన్
+Kharif,ఖరీఫ్,Red,ఎర్ర మట్టి,63,114,66,7.35,23,179,48,Apple,సేపు,Vermicompost,వర్మి కంపోస్ట్,DAP,డిఏపీ,Garlic Spray,వెల్లుల్లి స్ప్రే,Imidacloprid,ఇమిడాక్లోప్రిడ్
+Kharif,ఖరీఫ్,Red,ఎర్ర మట్టి,98,50,102,7.03,18,147,57,Garlic,వెల్లులి,Neem Cake,వేపపిండి,DAP,డిఏపీ,Garlic Spray,వెల్లుల్లి స్ప్రే,Imidacloprid,ఇమిడాక్లోప్రిడ్
+Zaid,జైద్,Sandy,మణల్,118,97,55,8.5,17,69,87,Beetroot,బీట్‌రూట్,Compost,కంపోస్ట్,Urea,యూరియా,Chili Spray,మిరప స్ప్రే,Cypermethrin,సైపర్‌మెత్రిన్
+Rabi,రబీ,Black,నల్ల మట్టి,42,83,19,6.57,28,139,79,Turmeric,పసుపు,Vermicompost,వర్మి కంపోస్ట్,DAP,డిఏపీ,Chili Spray,మిరప స్ప్రే,Chlorpyrifos,క్లోరోపైరిఫాస్
+Rabi,రబీ,Loamy,లోమీ,23,77,115,7.97,16,160,45,Mango,మామిడి,Compost,కంపోస్ట్,Urea,యూరియా,Chili Spray,మిరప స్ప్రే,Imidacloprid,ఇమిడాక్లోప్రిడ్
+Kharif,ఖరీఫ్,Sandy,మణల్,84,120,78,8.26,30,215,70,Wheat,గోధుమ,Compost,కంపోస్ట్,Urea,యూరియా,Garlic Spray,వెల్లుల్లి స్ప్రే,Cypermethrin,సైపర్‌మెత్రిన్
+Zaid,జైద్,Red,ఎర్ర మట్టి,36,115,16,7.68,31,133,79,Pea,బఠాణి,Farmyard Manure,పశువుల ఎరువు,DAP,డిఏపీ,Neem Oil,వేప నూనె,Cypermethrin,సైపర్‌మెత్రిన్
+Kharif,ఖరీఫ్,Black,నల్ల మట్టి,26,82,16,8.24,36,254,63,Cucumber,దోసకాయ,Compost,కంపోస్ట్,DAP,డిఏపీ,Garlic Spray,వెల్లుల్లి స్ప్రే,Cypermethrin,సైపర్‌మెత్రిన్
+Zaid,జైద్,Sandy,మణల్,111,70,17,6.24,33,256,85,Bitter Gourd,కాకరకాయ,Vermicompost,వర్మి కంపోస్ట్,Urea,యూరియా,Garlic Spray,వెల్లుల్లి స్ప్రే,Chlorpyrifos,క్లోరోపైరిఫాస్
+Rabi,రబీ,Loamy,లోమీ,25,74,103,6.93,21,261,54,Pea,బఠాణి,Neem Cake,వేపపిండి,DAP,డిఏపీ,Neem Oil,వేప నూనె,Cypermethrin,సైపర్‌మెత్రిన్
+Kharif,ఖరీఫ్,Black,నల్ల మట్టి,75,89,15,7.22,35,168,67,Banana,అరటి,Farmyard Manure,పశువుల ఎరువు,MOP,పొటాష్,Chili Spray,మిరప స్ప్రే,Cypermethrin,సైపర్‌మెత్రిన్
+Kharif,ఖరీఫ్,Clay,బంకమట్టి,110,68,80,5.87,30,230,53,Pea,బఠాణి,Neem Cake,వేపపిండి,DAP,డిఏపీ,Neem Oil,వేప నూనె,Cypermethrin,సైపర్‌మెత్రిన్
+Zaid,జైద్,Black,నల్ల మట్టి,64,17,31,7.14,30,244,82,Ginger,అల్లం,Farmyard Manure,పశువుల ఎరువు,MOP,పొటాష్,Chili Spray,మిరప స్ప్రే,Chlorpyrifos,క్లోరోపైరిఫాస్
+Kharif,ఖరీఫ్,Black,నల్ల మట్టి,17,33,78,5.97,29,210,43,Coriander,కొత్తిమీర,Compost,కంపోస్ట్,NPK,ఎన్‌పీకే,Garlic Spray,వెల్లుల్లి స్ప్రే,Imidacloprid,ఇమిడాక్లోప్రిడ్
+Kharif,ఖరీఫ్,Black,నల్ల మట్టి,101,28,94,7.69,27,182,39,Turnip,టర్నిప్,Neem Cake,వేపపిండి,Urea,యూరియా,Chili Spray,మిరప స్ప్రే,Chlorpyrifos,క్లోరోపైరిఫాస్
+Kharif,ఖరీఫ్,Black,నల్ల మట్టి,24,74,82,6.36,35,180,50,Coriander,కొత్తిమీర,Neem Cake,వేపపిండి,DAP,డిఏపీ,Garlic Spray,వెల్లుల్లి స్ప్రే,Cypermethrin,సైపర్‌మెత్రిన్
+Kharif,ఖరీఫ్,Black,నల్ల మట్టి,49,22,100,6.22,32,201,73,Millet,సజ్జ,Vermicompost,వర్మి కంపోస్ట్,Urea,యూరియా,Chili Spray,మిరప స్ప్రే,Chlorpyrifos,క్లోరోపైరిఫాస్
+Kharif,ఖరీఫ్,Clay,బంకమట్టి,120,38,16,6.53,22,92,38,Groundnut,వేరుశెనగ,Farmyard Manure,పశువుల ఎరువు,MOP,పొటాష్,Neem Oil,వేప నూనె,Cypermethrin,సైపర్‌మెత్రిన్
+Kharif,ఖరీఫ్,Sandy,మణల్,58,60,33,6.01,15,216,47,Mustard,ఆవాలు,Compost,కంపోస్ట్,MOP,పొటాష్,Neem Oil,వేప నూనె,Imidacloprid,ఇమిడాక్లోప్రిడ్
+Kharif,ఖరీఫ్,Red,ఎర్ర మట్టి,11,24,61,6.1,16,69,75,Pea,బఠాణి,Neem Cake,వేపపిండి,MOP,పొటాష్,Chili Spray,మిరప స్ప్రే,Imidacloprid,ఇమిడాక్లోప్రిడ్
+Zaid,జైద్,Loamy,లోమీ,97,94,34,6.85,27,192,44,Apple,సేపు,Neem Cake,వేపపిండి,DAP,డిఏపీ,Chili Spray,మిరప స్ప్రే,Cypermethrin,సైపర్‌మెత్రిన్
+Rabi,రబీ,Sandy,మణల్,17,32,46,6.3,23,167,53,Mango,మామిడి,Vermicompost,వర్మి కంపోస్ట్,Urea,యూరియా,Chili Spray,మిరప స్ప్రే,Chlorpyrifos,క్లోరోపైరిఫాస్
+Zaid,జైద్,Black,నల్ల మట్టి,65,25,23,8.14,18,94,75,Okra,బెండకాయ,Farmyard Manure,పశువుల ఎరువు,NPK,ఎన్‌పీకే,Neem Oil,వేప నూనె,Chlorpyrifos,క్లోరోపైరిఫాస్
+Rabi,రబీ,Sandy,మణల్,31,11,21,8.28,32,61,72,Okra,బెండకాయ,Compost,కంపోస్ట్,DAP,డిఏపీ,Neem Oil,వేప నూనె,Chlorpyrifos,క్లోరోపైరిఫాస్
+Kharif,ఖరీఫ్,Clay,బంకమట్టి,110,59,94,7.85,39,168,59,Muskmelon,ఖర్బూజ,Compost,కంపోస్ట్,Urea,యూరియా,Garlic Spray,వెల్లుల్లి స్ప్రే,Chlorpyrifos,క్లోరోపైరిఫాస్
+Kharif,ఖరీఫ్,Clay,బంకమట్టి,41,105,76,8.1,31,285,62,Gram,సెనగ,Vermicompost,వర్మి కంపోస్ట్,NPK,ఎన్‌పీకే,Garlic Spray,వెల్లుల్లి స్ప్రే,Imidacloprid,ఇమిడాక్లోప్రిడ్
+Rabi,రబీ,Red,ఎర్ర మట్టి,57,103,52,8.27,17,248,59,Fenugreek,మెంతికూర,Vermicompost,వర్మి కంపోస్ట్,Urea,యూరియా,Chili Spray,మిరప స్ప్రే,Chlorpyrifos,క్లోరోపైరిఫాస్
+Kharif,ఖరీఫ్,Clay,బంకమట్టి,87,115,39,8.41,30,107,68,Lentil,పప్పు,Neem Cake,వేపపిండి,Urea,యూరియా,Garlic Spray,వెల్లుల్లి స్ప్రే,Chlorpyrifos,క్లోరోపైరిఫాస్
+Zaid,జైద్,Sandy,మణల్,20,120,105,5.61,20,137,60,Turnip,టర్నిప్,Vermicompost,వర్మి కంపోస్ట్,NPK,ఎన్‌పీకే,Chili Spray,మిరప స్ప్రే,Chlorpyrifos,క్లోరోపైరిఫాస్
+Rabi,రబీ,Black,నల్ల మట్టి,99,84,87,5.6,27,238,56,Tomato,టమోటా,Vermicompost,వర్మి కంపోస్ట్,DAP,డిఏపీ,Neem Oil,వేప నూనె,Chlorpyrifos,క్లోరోపైరిఫాస్
+Zaid,జైద్,Clay,బంకమట్టి,83,56,35,7.2,30,243,65,Rice,వరి,Farmyard Manure,పశువుల ఎరువు,DAP,డిఏపీ,Chili Spray,మిరప స్ప్రే,Imidacloprid,ఇమిడాక్లోప్రిడ్
+Kharif,ఖరీఫ్,Clay,బంకమట్టి,57,10,33,8.18,21,108,87,Cotton,పత్తి,Farmyard Manure,పశువుల ఎరువు,NPK,ఎన్‌పీకే,Chili Spray,మిరప స్ప్రే,Chlorpyrifos,క్లోరోపైరిఫాస్
+Kharif,ఖరీఫ్,Clay,బంకమట్టి,13,105,75,8.02,15,218,31,Watermelon,పుచ్చకాయ,Farmyard Manure,పశువుల ఎరువు,MOP,పొటాష్,Chili Spray,మిరప స్ప్రే,Cypermethrin,సైపర్‌మెత్రిన్
+Rabi,రబీ,Black,నల్ల మట్టి,38,90,88,7.8,18,254,42,Banana,అరటి,Vermicompost,వర్మి కంపోస్ట్,Urea,యూరియా,Garlic Spray,వెల్లుల్లి స్ప్రే,Chlorpyrifos,క్లోరోపైరిఫాస్
+Rabi,రబీ,Sandy,మణల్,29,20,38,6.93,40,150,36,Pomegranate,దానిమ్మ,Neem Cake,వేపపిండి,MOP,పొటాష్,Chili Spray,మిరప స్ప్రే,Cypermethrin,సైపర్‌మెత్రిన్
+Kharif,ఖరీఫ్,Black,నల్ల మట్టి,102,84,63,7.4,32,223,77,Garlic,వెల్లులి,Compost,కంపోస్ట్,DAP,డిఏపీ,Chili Spray,మిరప స్ప్రే,Cypermethrin,సైపర్‌మెత్రిన్
+Rabi,రబీ,Black,నల్ల మట్టి,68,56,12,6.44,30,119,89,Guava,జామ,Farmyard Manure,పశువుల ఎరువు,DAP,డిఏపీ,Neem Oil,వేప నూనె,Imidacloprid,ఇమిడాక్లోప్రిడ్
+Zaid,జైద్,Red,ఎర్ర మట్టి,34,11,71,5.65,36,71,52,Gram,సెనగ,Farmyard Manure,పశువుల ఎరువు,MOP,పొటాష్,Neem Oil,వేప నూనె,Imidacloprid,ఇమిడాక్లోప్రిడ్
+Kharif,ఖరీఫ్,Loamy,లోమీ,65,73,113,5.83,40,233,43,Garlic,వెల్లులి,Compost,కంపోస్ట్,NPK,ఎన్‌పీకే,Chili Spray,మిరప స్ప్రే,Imidacloprid,ఇమిడాక్లోప్రిడ్
+Kharif,ఖరీఫ్,Sandy,మణల్,33,93,36,6.53,36,280,72,Sugarcane,చెరకు,Neem Cake,వేపపిండి,MOP,పొటాష్,Chili Spray,మిరప స్ప్రే,Cypermethrin,సైపర్‌మెత్రిన్
+Rabi,రబీ,Red,ఎర్ర మట్టి,42,59,75,7.64,34,262,55,Sunflower,సూర్యకాంతి,Neem Cake,వేపపిండి,DAP,డిఏపీ,Neem Oil,వేప నూనె,Chlorpyrifos,క్లోరోపైరిఫాస్
+Kharif,ఖరీఫ్,Loamy,లోమీ,44,118,80,6.3,18,257,42,Rice,వరి,Vermicompost,వర్మి కంపోస్ట్,DAP,డిఏపీ,Garlic Spray,వెల్లుల్లి స్ప్రే,Imidacloprid,ఇమిడాక్లోప్రిడ్
+Kharif,ఖరీఫ్,Red,ఎర్ర మట్టి,53,115,56,7.67,18,222,63,Soybean,సోయాబీన్,Neem Cake,వేపపిండి,MOP,పొటాష్,Neem Oil,వేప నూనె,Imidacloprid,ఇమిడాక్లోప్రిడ్
+Kharif,ఖరీఫ్,Clay,బంకమట్టి,40,116,58,8.24,18,126,89,Mango,మామిడి,Compost,కంపోస్ట్,Urea,యూరియా,Chili Spray,మిరప స్ప్రే,Chlorpyrifos,క్లోరోపైరిఫాస్
+Zaid,జైద్,Black,నల్ల మట్టి,67,14,46,7.78,24,271,90,Soybean,సోయాబీన్,Compost,కంపోస్ట్,NPK,ఎన్‌పీకే,Chili Spray,మిరప స్ప్రే,Imidacloprid,ఇమిడాక్లోప్రిడ్
+Zaid,జైద్,Black,నల్ల మట్టి,73,54,27,8.21,15,226,71,Brinjal,వంకాయ,Compost,కంపోస్ట్,Urea,యూరియా,Chili Spray,మిరప స్ప్రే,Chlorpyrifos,క్లోరోపైరిఫాస్
+Zaid,జైద్,Sandy,మణల్,19,24,40,7.93,31,155,40,Mango,మామిడి,Farmyard Manure,పశువుల ఎరువు,DAP,డిఏపీ,Neem Oil,వేప నూనె,Chlorpyrifos,క్లోరోపైరిఫాస్
+Zaid,జైద్,Sandy,మణల్,66,70,51,5.52,25,255,59,Ginger,అల్లం,Neem Cake,వేపపిండి,NPK,ఎన్‌పీకే,Chili Spray,మిరప స్ప్రే,Cypermethrin,సైపర్‌మెత్రిన్
+Rabi,రబీ,Red,ఎర్ర మట్టి,15,57,100,8.47,35,118,87,Brinjal,వంకాయ,Compost,కంపోస్ట్,Urea,యూరియా,Neem Oil,వేప నూనె,Chlorpyrifos,క్లోరోపైరిఫాస్
+Rabi,రబీ,Red,ఎర్ర మట్టి,108,79,60,5.88,16,283,36,Soybean,సోయాబీన్,Compost,కంపోస్ట్,NPK,ఎన్‌పీకే,Neem Oil,వేప నూనె,Cypermethrin,సైపర్‌మెత్రిన్
+Rabi,రబీ,Sandy,మణల్,96,89,91,6.87,34,133,82,Lemon,నిమ్మ,Farmyard Manure,పశువుల ఎరువు,Urea,యూరియా,Neem Oil,వేప నూనె,Imidacloprid,ఇమిడాక్లోప్రిడ్
+Zaid,జైద్,Loamy,లోమీ,96,85,71,7.83,31,211,70,Banana,అరటి,Compost,కంపోస్ట్,Urea,యూరియా,Chili Spray,మిరప స్ప్రే,Chlorpyrifos,క్లోరోపైరిఫాస్
+Kharif,ఖరీఫ్,Sandy,మణల్,57,28,29,6.64,24,77,61,Brinjal,వంకాయ,Neem Cake,వేపపిండి,NPK,ఎన్‌పీకే,Chili Spray,మిరప స్ప్రే,Chlorpyrifos,క్లోరోపైరిఫాస్
+Kharif,ఖరీఫ్,Black,నల్ల మట్టి,30,83,51,5.89,37,158,38,Fenugreek,మెంతికూర,Neem Cake,వేపపిండి,DAP,డిఏపీ,Garlic Spray,వెల్లుల్లి స్ప్రే,Chlorpyrifos,క్లోరోపైరిఫాస్
+Zaid,జైద్,Clay,బంకమట్టి,100,40,81,6.3,35,259,48,Carrot,గాజర్,Neem Cake,వేపపిండి,NPK,ఎన్‌పీకే,Chili Spray,మిరప స్ప్రే,Cypermethrin,సైపర్‌మెత్రిన్
+Zaid,జైద్,Clay,బంకమట్టి,87,35,53,6.97,32,253,54,Pumpkin,గుమ్మడికాయ,Compost,కంపోస్ట్,NPK,ఎన్‌పీకే,Chili Spray,మిరప స్ప్రే,Cypermethrin,సైపర్‌మెత్రిన్
+Rabi,రబీ,Loamy,లోమీ,34,41,96,6.31,37,215,89,Orange,నారింజ,Farmyard Manure,పశువుల ఎరువు,DAP,డిఏపీ,Garlic Spray,వెల్లుల్లి స్ప్రే,Cypermethrin,సైపర్‌మెత్రిన్
+Rabi,రబీ,Red,ఎర్ర మట్టి,40,10,75,5.58,38,244,78,Banana,అరటి,Compost,కంపోస్ట్,MOP,పొటాష్,Garlic Spray,వెల్లుల్లి స్ప్రే,Imidacloprid,ఇమిడాక్లోప్రిడ్
+Kharif,ఖరీఫ్,Black,నల్ల మట్టి,31,52,39,7.86,34,81,88,Mango,మామిడి,Compost,కంపోస్ట్,MOP,పొటాష్,Garlic Spray,వెల్లుల్లి స్ప్రే,Chlorpyrifos,క్లోరోపైరిఫాస్
+Rabi,రబీ,Sandy,మణల్,58,22,119,7.21,38,273,33,Onion,ఉల్లి,Compost,కంపోస్ట్,MOP,పొటాష్,Neem Oil,వేప నూనె,Cypermethrin,సైపర్‌మెత్రిన్
+Zaid,జైద్,Sandy,మణల్,70,82,115,6.16,35,260,47,Barley,యవ,Farmyard Manure,పశువుల ఎరువు,MOP,పొటాష్,Garlic Spray,వెల్లుల్లి స్ప్రే,Imidacloprid,ఇమిడాక్లోప్రిడ్
+Kharif,ఖరీఫ్,Red,ఎర్ర మట్టి,62,72,119,7.17,31,146,70,Soybean,సోయాబీన్,Farmyard Manure,పశువుల ఎరువు,NPK,ఎన్‌పీకే,Neem Oil,వేప నూనె,Imidacloprid,ఇమిడాక్లోప్రిడ్
+Zaid,జైద్,Clay,బంకమట్టి,78,34,29,6.93,38,252,50,Sugarcane,చెరకు,Neem Cake,వేపపిండి,NPK,ఎన్‌పీకే,Neem Oil,వేప నూనె,Chlorpyrifos,క్లోరోపైరిఫాస్
+Zaid,జైద్,Clay,బంకమట్టి,47,79,92,8.31,37,59,61,Soybean,సోయాబీన్,Neem Cake,వేపపిండి,DAP,డిఏపీ,Neem Oil,వేప నూనె,Imidacloprid,ఇమిడాక్లోప్రిడ్
+Zaid,జైద్,Black,నల్ల మట్టి,45,22,86,7.05,20,107,44,Carrot,గాజర్,Compost,కంపోస్ట్,NPK,ఎన్‌పీకే,Garlic Spray,వెల్లుల్లి స్ప్రే,Imidacloprid,ఇమిడాక్లోప్రిడ్
+Zaid,జైద్,Black,నల్ల మట్టి,30,50,57,7.56,30,78,86,Carrot,గాజర్,Neem Cake,వేపపిండి,Urea,యూరియా,Chili Spray,మిరప స్ప్రే,Chlorpyrifos,క్లోరోపైరిఫాస్
+Rabi,రబీ,Clay,బంకమట్టి,16,111,22,7.24,39,80,60,Beetroot,బీట్‌రూట్,Farmyard Manure,పశువుల ఎరువు,MOP,పొటాష్,Chili Spray,మిరప స్ప్రే,Imidacloprid,ఇమిడాక్లోప్రిడ్
+Zaid,జైద్,Sandy,మణల్,100,116,51,8.1,18,190,41,Lentil,పప్పు,Vermicompost,వర్మి కంపోస్ట్,Urea,యూరియా,Neem Oil,వేప నూనె,Cypermethrin,సైపర్‌మెత్రిన్
+Rabi,రబీ,Black,నల్ల మట్టి,98,40,116,7.72,24,274,35,Sugarcane,చెరకు,Farmyard Manure,పశువుల ఎరువు,MOP,పొటాష్,Garlic Spray,వెల్లుల్లి స్ప్రే,Imidacloprid,ఇమిడాక్లోప్రిడ్
+Rabi,రబీ,Clay,బంకమట్టి,81,25,51,7.86,31,199,45,Sorghum,జొన్న,Farmyard Manure,పశువుల ఎరువు,MOP,పొటాష్,Neem Oil,వేప నూనె,Cypermethrin,సైపర్‌మెత్రిన్
+Zaid,జైద్,Sandy,మణల్,46,45,40,7.47,27,87,71,Mango,మామిడి,Compost,కంపోస్ట్,Urea,యూరియా,Chili Spray,మిరప స్ప్రే,Chlorpyrifos,క్లోరోపైరిఫాస్
+Zaid,జైద్,Loamy,లోమీ,71,107,92,8.49,17,191,86,Beetroot,బీట్‌రూట్,Farmyard Manure,పశువుల ఎరువు,MOP,పొటాష్,Chili Spray,మిరప స్ప్రే,Cypermethrin,సైపర్‌మెత్రిన్
+Zaid,జైద్,Loamy,లోమీ,66,86,36,7.45,37,248,81,Banana,అరటి,Vermicompost,వర్మి కంపోస్ట్,NPK,ఎన్‌పీకే,Chili Spray,మిరప స్ప్రే,Imidacloprid,ఇమిడాక్లోప్రిడ్
+Rabi,రబీ,Red,ఎర్ర మట్టి,29,92,70,5.71,29,124,46,Banana,అరటి,Vermicompost,వర్మి కంపోస్ట్,DAP,డిఏపీ,Neem Oil,వేప నూనె,Imidacloprid,ఇమిడాక్లోప్రిడ్
+Kharif,ఖరీఫ్,Red,ఎర్ర మట్టి,102,59,107,7.15,27,256,81,Cabbage,క్యాబేజీ,Vermicompost,వర్మి కంపోస్ట్,DAP,డిఏపీ,Neem Oil,వేప నూనె,Chlorpyrifos,క్లోరోపైరిఫాస్
+Kharif,ఖరీఫ్,Loamy,లోమీ,103,52,47,7.92,20,207,64,Garlic,వెల్లులి,Neem Cake,వేపపిండి,DAP,డిఏపీ,Chili Spray,మిరప స్ప్రే,Imidacloprid,ఇమిడాక్లోప్రిడ్
+Rabi,రబీ,Red,ఎర్ర మట్టి,19,45,78,5.57,15,259,86,Groundnut,వేరుశెనగ,Vermicompost,వర్మి కంపోస్ట్,Urea,యూరియా,Chili Spray,మిరప స్ప్రే,Chlorpyrifos,క్లోరోపైరిఫాస్
+Zaid,జైద్,Sandy,మణల్,22,102,111,7.06,21,226,43,Ridge Gourd,బీరకాయ,Vermicompost,వర్మి కంపోస్ట్,NPK,ఎన్‌పీకే,Garlic Spray,వెల్లుల్లి స్ప్రే,Cypermethrin,సైపర్‌మెత్రిన్
+Kharif,ఖరీఫ్,Red,ఎర్ర మట్టి,19,92,57,7.81,20,259,36,Gram,సెనగ,Neem Cake,వేపపిండి,DAP,డిఏపీ,Garlic Spray,వెల్లుల్లి స్ప్రే,Cypermethrin,సైపర్‌మెత్రిన్
+Zaid,జైద్,Clay,బంకమట్టి,49,36,24,7.3,39,116,32,Pumpkin,గుమ్మడికాయ,Compost,కంపోస్ట్,NPK,ఎన్‌పీకే,Neem Oil,వేప నూనె,Cypermethrin,సైపర్‌మెత్రిన్
+Zaid,జైద్,Sandy,మణల్,31,36,86,7.39,33,184,69,Sugarcane,చెరకు,Compost,కంపోస్ట్,DAP,డిఏపీ,Chili Spray,మిరప స్ప్రే,Imidacloprid,ఇమిడాక్లోప్రిడ్
+Kharif,ఖరీఫ్,Clay,బంకమట్టి,34,38,97,7.44,22,170,65,Mustard,ఆవాలు,Neem Cake,వేపపిండి,MOP,పొటాష్,Chili Spray,మిరప స్ప్రే,Cypermethrin,సైపర్‌మెత్రిన్
+Rabi,రబీ,Loamy,లోమీ,86,118,30,6.91,34,176,65,Groundnut,వేరుశెనగ,Vermicompost,వర్మి కంపోస్ట్,Urea,యూరియా,Chili Spray,మిరప స్ప్రే,Chlorpyrifos,క్లోరోపైరిఫాస్
+Zaid,జైద్,Black,నల్ల మట్టి,119,71,58,7.53,34,107,39,Sunflower,సూర్యకాంతి,Compost,కంపోస్ట్,MOP,పొటాష్,Garlic Spray,వెల్లుల్లి స్ప్రే,Chlorpyrifos,క్లోరోపైరిఫాస్
+Zaid,జైద్,Sandy,మణల్,73,86,74,8.1,34,275,69,Garlic,వెల్లులి,Vermicompost,వర్మి కంపోస్ట్,DAP,డిఏపీ,Chili Spray,మిరప స్ప్రే,Cypermethrin,సైపర్‌మెత్రిన్
+Rabi,రబీ,Clay,బంకమట్టి,95,58,29,8.0,21,192,33,Beetroot,బీట్‌రూట్,Neem Cake,వేపపిండి,DAP,డిఏపీ,Garlic Spray,వెల్లుల్లి స్ప్రే,Chlorpyrifos,క్లోరోపైరిఫాస్
+Kharif,ఖరీఫ్,Loamy,లోమీ,97,52,58,6.4,23,279,86,Chilli,మిర్చి,Neem Cake,వేపపిండి,MOP,పొటాష్,Neem Oil,వేప నూనె,Chlorpyrifos,క్లోరోపైరిఫాస్
+Zaid,జైద్,Red,ఎర్ర మట్టి,22,83,34,6.83,23,233,81,Rice,వరి,Neem Cake,వేపపిండి,Urea,యూరియా,Chili Spray,మిరప స్ప్రే,Imidacloprid,ఇమిడాక్లోప్రిడ్
+Rabi,రబీ,Clay,బంకమట్టి,54,101,51,5.79,32,161,63,Turmeric,పసుపు,Neem Cake,వేపపిండి,Urea,యూరియా,Neem Oil,వేప నూనె,Imidacloprid,ఇమిడాక్లోప్రిడ్
+Kharif,ఖరీఫ్,Black,నల్ల మట్టి,83,47,91,5.54,39,210,56,Watermelon,పుచ్చకాయ,Farmyard Manure,పశువుల ఎరువు,MOP,పొటాష్,Chili Spray,మిరప స్ప్రే,Imidacloprid,ఇమిడాక్లోప్రిడ్
+Zaid,జైద్,Loamy,లోమీ,27,99,92,6.09,21,105,48,Wheat,గోధుమ,Vermicompost,వర్మి కంపోస్ట్,Urea,యూరియా,Neem Oil,వేప నూనె,Cypermethrin,సైపర్‌మెత్రిన్
+Kharif,ఖరీఫ్,Black,నల్ల మట్టి,28,91,20,6.49,25,96,60,Maize,మొక్కజొన్న,Compost,కంపోస్ట్,NPK,ఎన్‌పీకే,Chili Spray,మిరప స్ప్రే,Cypermethrin,సైపర్‌మెత్రిన్
+Rabi,రబీ,Red,ఎర్ర మట్టి,46,99,92,6.56,32,179,89,Groundnut,వేరుశెనగ,Farmyard Manure,పశువుల ఎరువు,NPK,ఎన్‌పీకే,Chili Spray,మిరప స్ప్రే,Cypermethrin,సైపర్‌మెత్రిన్
+Zaid,జైద్,Black,నల్ల మట్టి,87,93,103,8.19,29,251,51,Barley,యవ,Compost,కంపోస్ట్,Urea,యూరియా,Neem Oil,వేప నూనె,Cypermethrin,సైపర్‌మెత్రిన్
+Rabi,రబీ,Sandy,మణల్,46,92,106,7.37,21,186,55,Lemon,నిమ్మ,Compost,కంపోస్ట్,Urea,యూరియా,Chili Spray,మిరప స్ప్రే,Chlorpyrifos,క్లోరోపైరిఫాస్
+Rabi,రబీ,Loamy,లోమీ,77,104,37,8.28,37,174,81,Wheat,గోధుమ,Compost,కంపోస్ట్,NPK,ఎన్‌పీకే,Garlic Spray,వెల్లుల్లి స్ప్రే,Imidacloprid,ఇమిడాక్లోప్రిడ్
+Rabi,రబీ,Red,ఎర్ర మట్టి,10,54,83,7.16,32,128,64,Guava,జామ,Neem Cake,వేపపిండి,DAP,డిఏపీ,Neem Oil,వేప నూనె,Cypermethrin,సైపర్‌మెత్రిన్
+Kharif,ఖరీఫ్,Black,నల్ల మట్టి,51,84,107,5.75,20,298,86,Tomato,టమోటా,Vermicompost,వర్మి కంపోస్ట్,MOP,పొటాష్,Garlic Spray,వెల్లుల్లి స్ప్రే,Cypermethrin,సైపర్‌మెత్రిన్
+Rabi,రబీ,Red,ఎర్ర మట్టి,99,104,26,7.27,19,157,72,Coriander,కొత్తిమీర,Vermicompost,వర్మి కంపోస్ట్,MOP,పొటాష్,Garlic Spray,వెల్లుల్లి స్ప్రే,Chlorpyrifos,క్లోరోపైరిఫాస్
+Kharif,ఖరీఫ్,Sandy,మణల్,53,19,63,7.79,32,200,88,Tomato,టమోటా,Farmyard Manure,పశువుల ఎరువు,NPK,ఎన్‌పీకే,Neem Oil,వేప నూనె,Chlorpyrifos,క్లోరోపైరిఫాస్
+Zaid,జైద్,Loamy,లోమీ,32,71,42,7.54,32,299,74,Cucumber,దోసకాయ,Compost,కంపోస్ట్,NPK,ఎన్‌పీకే,Neem Oil,వేప నూనె,Cypermethrin,సైపర్‌మెత్రిన్
+Kharif,ఖరీఫ్,Red,ఎర్ర మట్టి,67,60,109,6.11,19,87,87,Pumpkin,గుమ్మడికాయ,Farmyard Manure,పశువుల ఎరువు,Urea,యూరియా,Neem Oil,వేప నూనె,Imidacloprid,ఇమిడాక్లోప్రిడ్
+Rabi,రబీ,Clay,బంకమట్టి,107,13,95,6.93,27,234,49,Ridge Gourd,బీరకాయ,Vermicompost,వర్మి కంపోస్ట్,DAP,డిఏపీ,Garlic Spray,వెల్లుల్లి స్ప్రే,Imidacloprid,ఇమిడాక్లోప్రిడ్
+Zaid,జైద్,Clay,బంకమట్టి,113,92,91,5.51,27,87,73,Fenugreek,మెంతికూర,Vermicompost,వర్మి కంపోస్ట్,MOP,పొటాష్,Garlic Spray,వెల్లుల్లి స్ప్రే,Chlorpyrifos,క్లోరోపైరిఫాస్
+Rabi,రబీ,Red,ఎర్ర మట్టి,29,57,27,5.9,28,59,56,Sunflower,సూర్యకాంతి,Compost,కంపోస్ట్,MOP,పొటాష్,Neem Oil,వేప నూనె,Imidacloprid,ఇమిడాక్లోప్రిడ్
+Rabi,రబీ,Loamy,లోమీ,20,110,74,8.34,34,158,60,Tomato,టమోటా,Vermicompost,వర్మి కంపోస్ట్,MOP,పొటాష్,Neem Oil,వేప నూనె,Chlorpyrifos,క్లోరోపైరిఫాస్
+Zaid,జైద్,Sandy,మణల్,105,110,19,6.98,27,177,39,Turnip,టర్నిప్,Compost,కంపోస్ట్,Urea,యూరియా,Chili Spray,మిరప స్ప్రే,Chlorpyrifos,క్లోరోపైరిఫాస్
+Zaid,జైద్,Red,ఎర్ర మట్టి,84,81,108,7.78,23,195,79,Millet,సజ్జ,Neem Cake,వేపపిండి,Urea,యూరియా,Neem Oil,వేప నూనె,Cypermethrin,సైపర్‌మెత్రిన్
+Zaid,జైద్,Red,ఎర్ర మట్టి,115,64,12,5.64,25,290,72,Chilli,మిర్చి,Neem Cake,వేపపిండి,MOP,పొటాష్,Chili Spray,మిరప స్ప్రే,Imidacloprid,ఇమిడాక్లోప్రిడ్
+Zaid,జైద్,Black,నల్ల మట్టి,83,56,23,6.72,22,210,47,Turmeric,పసుపు,Farmyard Manure,పశువుల ఎరువు,NPK,ఎన్‌పీకే,Garlic Spray,వెల్లుల్లి స్ప్రే,Imidacloprid,ఇమిడాక్లోప్రిడ్
+Kharif,ఖరీఫ్,Black,నల్ల మట్టి,57,105,77,7.45,19,60,63,Sorghum,జొన్న,Neem Cake,వేపపిండి,NPK,ఎన్‌పీకే,Chili Spray,మిరప స్ప్రే,Chlorpyrifos,క్లోరోపైరిఫాస్
+Kharif,ఖరీఫ్,Red,ఎర్ర మట్టి,42,41,58,6.53,16,54,48,Cotton,పత్తి,Vermicompost,వర్మి కంపోస్ట్,NPK,ఎన్‌పీకే,Neem Oil,వేప నూనె,Chlorpyrifos,క్లోరోపైరిఫాస్
+Zaid,జైద్,Clay,బంకమట్టి,44,69,35,7.67,34,106,40,Apple,సేపు,Vermicompost,వర్మి కంపోస్ట్,Urea,యూరియా,Garlic Spray,వెల్లుల్లి స్ప్రే,Imidacloprid,ఇమిడాక్లోప్రిడ్
+Kharif,ఖరీఫ్,Red,ఎర్ర మట్టి,44,10,30,7.23,33,159,72,Brinjal,వంకాయ,Farmyard Manure,పశువుల ఎరువు,MOP,పొటాష్,Chili Spray,మిరప స్ప్రే,Chlorpyrifos,క్లోరోపైరిఫాస్
+Rabi,రబీ,Red,ఎర్ర మట్టి,34,73,113,5.82,24,280,70,Barley,యవ,Neem Cake,వేపపిండి,NPK,ఎన్‌పీకే,Chili Spray,మిరప స్ప్రే,Imidacloprid,ఇమిడాక్లోప్రిడ్
+Rabi,రబీ,Loamy,లోమీ,31,32,79,5.99,24,198,88,Mustard,ఆవాలు,Compost,కంపోస్ట్,NPK,ఎన్‌పీకే,Garlic Spray,వెల్లుల్లి స్ప్రే,Chlorpyrifos,క్లోరోపైరిఫాస్
+Rabi,రబీ,Loamy,లోమీ,75,69,59,6.12,22,194,61,Gram,సెనగ,Farmyard Manure,పశువుల ఎరువు,DAP,డిఏపీ,Garlic Spray,వెల్లుల్లి స్ప్రే,Chlorpyrifos,క్లోరోపైరిఫాస్
+Zaid,జైద్,Loamy,లోమీ,31,11,50,8.36,18,201,79,Carrot,గాజర్,Farmyard Manure,పశువుల ఎరువు,NPK,ఎన్‌పీకే,Garlic Spray,వెల్లుల్లి స్ప్రే,Imidacloprid,ఇమిడాక్లోప్రిడ్
+Kharif,ఖరీఫ్,Red,ఎర్ర మట్టి,45,66,88,6.15,40,226,54,Turnip,టర్నిప్,Neem Cake,వేపపిండి,Urea,యూరియా,Garlic Spray,వెల్లుల్లి స్ప్రే,Imidacloprid,ఇమిడాక్లోప్రిడ్
+Rabi,రబీ,Black,నల్ల మట్టి,84,53,30,7.56,35,224,54,Mustard,ఆవాలు,Farmyard Manure,పశువుల ఎరువు,NPK,ఎన్‌పీకే,Garlic Spray,వెల్లుల్లి స్ప్రే,Imidacloprid,ఇమిడాక్లోప్రిడ్
+Zaid,జైద్,Loamy,లోమీ,34,18,79,8.21,31,276,47,Apple,సేపు,Vermicompost,వర్మి కంపోస్ట్,NPK,ఎన్‌పీకే,Garlic Spray,వెల్లుల్లి స్ప్రే,Imidacloprid,ఇమిడాక్లోప్రిడ్
+Rabi,రబీ,Black,నల్ల మట్టి,82,119,43,6.23,15,198,50,Cucumber,దోసకాయ,Compost,కంపోస్ట్,DAP,డిఏపీ,Chili Spray,మిరప స్ప్రే,Chlorpyrifos,క్లోరోపైరిఫాస్
+Rabi,రబీ,Black,నల్ల మట్టి,116,91,54,5.66,40,279,75,Lentil,పప్పు,Neem Cake,వేపపిండి,DAP,డిఏపీ,Neem Oil,వేప నూనె,Imidacloprid,ఇమిడాక్లోప్రిడ్
+Rabi,రబీ,Red,ఎర్ర మట్టి,105,104,72,7.47,30,192,69,Maize,మొక్కజొన్న,Neem Cake,వేపపిండి,Urea,యూరియా,Chili Spray,మిరప స్ప్రే,Chlorpyrifos,క్లోరోపైరిఫాస్
+Kharif,ఖరీఫ్,Clay,బంకమట్టి,75,42,52,5.84,28,87,65,Turnip,టర్నిప్,Vermicompost,వర్మి కంపోస్ట్,Urea,యూరియా,Garlic Spray,వెల్లుల్లి స్ప్రే,Imidacloprid,ఇమిడాక్లోప్రిడ్
+Rabi,రబీ,Sandy,మణల్,79,118,32,6.46,16,299,67,Pumpkin,గుమ్మడికాయ,Farmyard Manure,పశువుల ఎరువు,MOP,పొటాష్,Chili Spray,మిరప స్ప్రే,Chlorpyrifos,క్లోరోపైరిఫాస్
+Zaid,జైద్,Sandy,మణల్,110,25,70,7.81,17,232,66,Bitter Gourd,కాకరకాయ,Neem Cake,వేపపిండి,NPK,ఎన్‌పీకే,Chili Spray,మిరప స్ప్రే,Imidacloprid,ఇమిడాక్లోప్రిడ్
+Kharif,ఖరీఫ్,Red,ఎర్ర మట్టి,14,109,13,6.61,20,203,78,Muskmelon,ఖర్బూజ,Neem Cake,వేపపిండి,DAP,డిఏపీ,Chili Spray,మిరప స్ప్రే,Imidacloprid,ఇమిడాక్లోప్రిడ్
+Rabi,రబీ,Clay,బంకమట్టి,70,106,87,5.81,36,96,88,Apple,సేపు,Farmyard Manure,పశువుల ఎరువు,MOP,పొటాష్,Garlic Spray,వెల్లుల్లి స్ప్రే,Imidacloprid,ఇమిడాక్లోప్రిడ్
+Rabi,రబీ,Sandy,మణల్,35,42,105,7.44,37,223,76,Millet,సజ్జ,Compost,కంపోస్ట్,DAP,డిఏపీ,Chili Spray,మిరప స్ప్రే,Chlorpyrifos,క్లోరోపైరిఫాస్
+Kharif,ఖరీఫ్,Loamy,లోమీ,16,19,89,7.05,20,228,38,Banana,అరటి,Neem Cake,వేపపిండి,NPK,ఎన్‌పీకే,Garlic Spray,వెల్లుల్లి స్ప్రే,Imidacloprid,ఇమిడాక్లోప్రిడ్
+Rabi,రబీ,Black,నల్ల మట్టి,66,119,48,5.56,21,201,57,Guava,జామ,Compost,కంపోస్ట్,DAP,డిఏపీ,Chili Spray,మిరప స్ప్రే,Cypermethrin,సైపర్‌మెత్రిన్
+Zaid,జైద్,Red,ఎర్ర మట్టి,58,20,69,6.06,19,253,61,Garlic,వెల్లులి,Vermicompost,వర్మి కంపోస్ట్,DAP,డిఏపీ,Neem Oil,వేప నూనె,Chlorpyrifos,క్లోరోపైరిఫాస్
+Zaid,జైద్,Clay,బంకమట్టి,92,105,16,6.35,22,54,63,Mustard,ఆవాలు,Farmyard Manure,పశువుల ఎరువు,MOP,పొటాష్,Neem Oil,వేప నూనె,Cypermethrin,సైపర్‌మెత్రిన్
+Zaid,జైద్,Black,నల్ల మట్టి,37,67,60,6.02,27,292,46,Turnip,టర్నిప్,Vermicompost,వర్మి కంపోస్ట్,MOP,పొటాష్,Neem Oil,వేప నూనె,Imidacloprid,ఇమిడాక్లోప్రిడ్
+Zaid,జైద్,Black,నల్ల మట్టి,101,118,84,7.08,31,180,69,Ginger,అల్లం,Farmyard Manure,పశువుల ఎరువు,MOP,పొటాష్,Neem Oil,వేప నూనె,Imidacloprid,ఇమిడాక్లోప్రిడ్
+Zaid,జైద్,Red,ఎర్ర మట్టి,120,90,97,6.86,23,184,45,Turmeric,పసుపు,Farmyard Manure,పశువుల ఎరువు,MOP,పొటాష్,Chili Spray,మిరప స్ప్రే,Imidacloprid,ఇమిడాక్లోప్రిడ్
+Rabi,రబీ,Black,నల్ల మట్టి,102,112,56,7.15,31,183,81,Wheat,గోధుమ,Farmyard Manure,పశువుల ఎరువు,MOP,పొటాష్,Neem Oil,వేప నూనె,Chlorpyrifos,క్లోరోపైరిఫాస్
+Rabi,రబీ,Sandy,మణల్,96,61,29,7.16,20,131,81,Soybean,సోయాబీన్,Farmyard Manure,పశువుల ఎరువు,NPK,ఎన్‌పీకే,Chili Spray,మిరప స్ప్రే,Imidacloprid,ఇమిడాక్లోప్రిడ్
+Zaid,జైద్,Sandy,మణల్,70,120,119,5.59,35,65,70,Guava,జామ,Farmyard Manure,పశువుల ఎరువు,DAP,డిఏపీ,Neem Oil,వేప నూనె,Cypermethrin,సైపర్‌మెత్రిన్
+Kharif,ఖరీఫ్,Red,ఎర్ర మట్టి,32,58,27,7.34,27,85,33,Apple,సేపు,Farmyard Manure,పశువుల ఎరువు,MOP,పొటాష్,Neem Oil,వేప నూనె,Chlorpyrifos,క్లోరోపైరిఫాస్
+Kharif,ఖరీఫ్,Black,నల్ల మట్టి,60,116,112,8.06,22,300,55,Cauliflower,కాలీఫ్లవర్,Neem Cake,వేపపిండి,DAP,డిఏపీ,Garlic Spray,వెల్లుల్లి స్ప్రే,Imidacloprid,ఇమిడాక్లోప్రిడ్
+Rabi,రబీ,Loamy,లోమీ,108,90,51,6.35,16,260,34,Turnip,టర్నిప్,Neem Cake,వేపపిండి,MOP,పొటాష్,Chili Spray,మిరప స్ప్రే,Chlorpyrifos,క్లోరోపైరిఫాస్
+Kharif,ఖరీఫ్,Loamy,లోమీ,88,115,33,8.46,21,294,31,Mango,మామిడి,Neem Cake,వేపపిండి,DAP,డిఏపీ,Garlic Spray,వెల్లుల్లి స్ప్రే,Chlorpyrifos,క్లోరోపైరిఫాస్
+Rabi,రబీ,Loamy,లోమీ,116,87,14,7.36,35,294,72,Muskmelon,ఖర్బూజ,Farmyard Manure,పశువుల ఎరువు,NPK,ఎన్‌పీకే,Neem Oil,వేప నూనె,Chlorpyrifos,క్లోరోపైరిఫాస్
+Kharif,ఖరీఫ్,Clay,బంకమట్టి,110,104,18,6.16,23,55,68,Bottle Gourd,సొరకాయ,Farmyard Manure,పశువుల ఎరువు,NPK,ఎన్‌పీకే,Garlic Spray,వెల్లుల్లి స్ప్రే,Imidacloprid,ఇమిడాక్లోప్రిడ్
+Kharif,ఖరీఫ్,Sandy,మణల్,105,96,10,7.94,28,58,79,Cotton,పత్తి,Vermicompost,వర్మి కంపోస్ట్,MOP,పొటాష్,Chili Spray,మిరప స్ప్రే,Imidacloprid,ఇమిడాక్లోప్రిడ్
+Kharif,ఖరీఫ్,Clay,బంకమట్టి,118,110,17,7.19,19,105,86,Turnip,టర్నిప్,Neem Cake,వేపపిండి,NPK,ఎన్‌పీకే,Garlic Spray,వెల్లుల్లి స్ప్రే,Imidacloprid,ఇమిడాక్లోప్రిడ్
+Zaid,జైద్,Clay,బంకమట్టి,45,75,96,8.33,27,212,78,Pomegranate,దానిమ్మ,Farmyard Manure,పశువుల ఎరువు,Urea,యూరియా,Garlic Spray,వెల్లుల్లి స్ప్రే,Chlorpyrifos,క్లోరోపైరిఫాస్
+Kharif,ఖరీఫ్,Sandy,మణల్,85,117,61,7.99,40,107,82,Onion,ఉల్లి,Compost,కంపోస్ట్,MOP,పొటాష్,Neem Oil,వేప నూనె,Cypermethrin,సైపర్‌మెత్రిన్
+Rabi,రబీ,Black,నల్ల మట్టి,17,13,58,6.95,18,110,73,Mango,మామిడి,Vermicompost,వర్మి కంపోస్ట్,Urea,యూరియా,Neem Oil,వేప నూనె,Cypermethrin,సైపర్‌మెత్రిన్
+Zaid,జైద్,Black,నల్ల మట్టి,98,16,58,7.82,19,116,83,Cotton,పత్తి,Neem Cake,వేపపిండి,Urea,యూరియా,Neem Oil,వేప నూనె,Imidacloprid,ఇమిడాక్లోప్రిడ్
+Kharif,ఖరీఫ్,Black,నల్ల మట్టి,49,108,20,8.11,28,85,85,Brinjal,వంకాయ,Compost,కంపోస్ట్,NPK,ఎన్‌పీకే,Chili Spray,మిరప స్ప్రే,Imidacloprid,ఇమిడాక్లోప్రిడ్
+Zaid,జైద్,Black,నల్ల మట్టి,59,90,48,8.47,16,168,63,Papaya,బొప్పాయి,Farmyard Manure,పశువుల ఎరువు,DAP,డిఏపీ,Neem Oil,వేప నూనె,Cypermethrin,సైపర్‌మెత్రిన్
+Kharif,ఖరీఫ్,Black,నల్ల మట్టి,60,72,23,7.57,21,65,73,Orange,నారింజ,Vermicompost,వర్మి కంపోస్ట్,DAP,డిఏపీ,Neem Oil,వేప నూనె,Imidacloprid,ఇమిడాక్లోప్రిడ్
+Rabi,రబీ,Loamy,లోమీ,84,58,98,6.74,17,256,51,Barley,యవ,Neem Cake,వేపపిండి,DAP,డిఏపీ,Garlic Spray,వెల్లుల్లి స్ప్రే,Imidacloprid,ఇమిడాక్లోప్రిడ్
+Zaid,జైద్,Red,ఎర్ర మట్టి,87,45,21,5.66,16,136,34,Ginger,అల్లం,Vermicompost,వర్మి కంపోస్ట్,Urea,యూరియా,Chili Spray,మిరప స్ప్రే,Imidacloprid,ఇమిడాక్లోప్రిడ్
+Zaid,జైద్,Loamy,లోమీ,115,17,10,6.4,16,218,59,Tomato,టమోటా,Neem Cake,వేపపిండి,MOP,పొటాష్,Chili Spray,మిరప స్ప్రే,Imidacloprid,ఇమిడాక్లోప్రిడ్
+Zaid,జైద్,Red,ఎర్ర మట్టి,106,12,76,7.82,16,59,63,Onion,ఉల్లి,Neem Cake,వేపపిండి,Urea,యూరియా,Chili Spray,మిరప స్ప్రే,Cypermethrin,సైపర్‌మెత్రిన్
+Rabi,రబీ,Loamy,లోమీ,77,63,57,6.47,24,220,78,Wheat,గోధుమ,Farmyard Manure,పశువుల ఎరువు,MOP,పొటాష్,Garlic Spray,వెల్లుల్లి స్ప్రే,Cypermethrin,సైపర్‌మెత్రిన్
+Kharif,ఖరీఫ్,Black,నల్ల మట్టి,46,101,12,6.94,18,183,80,Maize,మొక్కజొన్న,Neem Cake,వేపపిండి,NPK,ఎన్‌పీకే,Garlic Spray,వెల్లుల్లి స్ప్రే,Cypermethrin,సైపర్‌మెత్రిన్
+Zaid,జైద్,Red,ఎర్ర మట్టి,46,96,75,7.56,18,265,68,Chilli,మిర్చి,Farmyard Manure,పశువుల ఎరువు,MOP,పొటాష్,Chili Spray,మిరప స్ప్రే,Cypermethrin,సైపర్‌మెత్రిన్
+Rabi,రబీ,Red,ఎర్ర మట్టి,94,45,118,7.46,19,117,46,Sunflower,సూర్యకాంతి,Farmyard Manure,పశువుల ఎరువు,Urea,యూరియా,Neem Oil,వేప నూనె,Imidacloprid,ఇమిడాక్లోప్రిడ్
+Zaid,జైద్,Clay,బంకమట్టి,38,18,12,6.57,18,78,82,Brinjal,వంకాయ,Farmyard Manure,పశువుల ఎరువు,NPK,ఎన్‌పీకే,Garlic Spray,వెల్లుల్లి స్ప్రే,Imidacloprid,ఇమిడాక్లోప్రిడ్
+Kharif,ఖరీఫ్,Loamy,లోమీ,34,45,43,6.2,18,221,34,Okra,బెండకాయ,Compost,కంపోస్ట్,DAP,డిఏపీ,Chili Spray,మిరప స్ప్రే,Chlorpyrifos,క్లోరోపైరిఫాస్
+Rabi,రబీ,Black,నల్ల మట్టి,111,60,55,7.14,30,50,72,Muskmelon,ఖర్బూజ,Neem Cake,వేపపిండి,Urea,యూరియా,Garlic Spray,వెల్లుల్లి స్ప్రే,Cypermethrin,సైపర్‌మెత్రిన్
+Rabi,రబీ,Sandy,మణల్,33,89,102,6.77,23,155,39,Papaya,బొప్పాయి,Compost,కంపోస్ట్,DAP,డిఏపీ,Garlic Spray,వెల్లుల్లి స్ప్రే,Imidacloprid,ఇమిడాక్లోప్రిడ్
+Rabi,రబీ,Sandy,మణల్,66,116,32,6.21,23,264,50,Mustard,ఆవాలు,Compost,కంపోస్ట్,Urea,యూరియా,Chili Spray,మిరప స్ప్రే,Chlorpyrifos,క్లోరోపైరిఫాస్
+Kharif,ఖరీఫ్,Clay,బంకమట్టి,60,33,52,6.88,20,265,45,Carrot,గాజర్,Farmyard Manure,పశువుల ఎరువు,MOP,పొటాష్,Chili Spray,మిరప స్ప్రే,Imidacloprid,ఇమిడాక్లోప్రిడ్
+Zaid,జైద్,Red,ఎర్ర మట్టి,55,72,63,7.13,16,178,63,Bottle Gourd,సొరకాయ,Compost,కంపోస్ట్,MOP,పొటాష్,Chili Spray,మిరప స్ప్రే,Cypermethrin,సైపర్‌మెత్రిన్
+Kharif,ఖరీఫ్,Sandy,మణల్,112,80,78,8.08,17,267,58,Pumpkin,గుమ్మడికాయ,Compost,కంపోస్ట్,Urea,యూరియా,Chili Spray,మిరప స్ప్రే,Imidacloprid,ఇమిడాక్లోప్రిడ్
+Kharif,ఖరీఫ్,Red,ఎర్ర మట్టి,46,84,50,6.63,18,230,86,Turmeric,పసుపు,Neem Cake,వేపపిండి,NPK,ఎన్‌పీకే,Neem Oil,వేప నూనె,Imidacloprid,ఇమిడాక్లోప్రిడ్
+Zaid,జైద్,Clay,బంకమట్టి,106,119,71,8.21,28,79,35,Muskmelon,ఖర్బూజ,Neem Cake,వేపపిండి,Urea,యూరియా,Garlic Spray,వెల్లుల్లి స్ప్రే,Chlorpyrifos,క్లోరోపైరిఫాస్
+Zaid,జైద్,Red,ఎర్ర మట్టి,95,19,75,7.04,24,291,68,Pumpkin,గుమ్మడికాయ,Neem Cake,వేపపిండి,MOP,పొటాష్,Chili Spray,మిరప స్ప్రే,Chlorpyrifos,క్లోరోపైరిఫాస్
+Kharif,ఖరీఫ్,Clay,బంకమట్టి,17,118,20,7.81,28,266,61,Barley,యవ,Compost,కంపోస్ట్,Urea,యూరియా,Neem Oil,వేప నూనె,Chlorpyrifos,క్లోరోపైరిఫాస్
+Zaid,జైద్,Loamy,లోమీ,110,93,111,7.26,24,182,70,Guava,జామ,Farmyard Manure,పశువుల ఎరువు,MOP,పొటాష్,Chili Spray,మిరప స్ప్రే,Chlorpyrifos,క్లోరోపైరిఫాస్
+Rabi,రబీ,Red,ఎర్ర మట్టి,103,118,52,7.37,36,287,73,Mango,మామిడి,Vermicompost,వర్మి కంపోస్ట్,Urea,యూరియా,Neem Oil,వేప నూనె,Chlorpyrifos,క్లోరోపైరిఫాస్
+Rabi,రబీ,Black,నల్ల మట్టి,26,61,19,8.03,24,240,68,Soybean,సోయాబీన్,Vermicompost,వర్మి కంపోస్ట్,Urea,యూరియా,Chili Spray,మిరప స్ప్రే,Chlorpyrifos,క్లోరోపైరిఫాస్
+Kharif,ఖరీఫ్,Black,నల్ల మట్టి,50,56,31,6.72,30,284,56,Coriander,కొత్తిమీర,Farmyard Manure,పశువుల ఎరువు,DAP,డిఏపీ,Garlic Spray,వెల్లుల్లి స్ప్రే,Cypermethrin,సైపర్‌మెత్రిన్
+Kharif,ఖరీఫ్,Loamy,లోమీ,95,89,58,6.33,28,146,45,Muskmelon,ఖర్బూజ,Neem Cake,వేపపిండి,DAP,డిఏపీ,Neem Oil,వేప నూనె,Cypermethrin,సైపర్‌మెత్రిన్
+Rabi,రబీ,Black,నల్ల మట్టి,108,14,96,6.22,22,296,71,Mango,మామిడి,Vermicompost,వర్మి కంపోస్ట్,MOP,పొటాష్,Garlic Spray,వెల్లుల్లి స్ప్రే,Chlorpyrifos,క్లోరోపైరిఫాస్
+Kharif,ఖరీఫ్,Black,నల్ల మట్టి,11,61,66,8.08,18,152,32,Chilli,మిర్చి,Farmyard Manure,పశువుల ఎరువు,DAP,డిఏపీ,Garlic Spray,వెల్లుల్లి స్ప్రే,Chlorpyrifos,క్లోరోపైరిఫాస్
+Kharif,ఖరీఫ్,Loamy,లోమీ,57,104,94,7.52,28,224,69,Mango,మామిడి,Vermicompost,వర్మి కంపోస్ట్,MOP,పొటాష్,Chili Spray,మిరప స్ప్రే,Imidacloprid,ఇమిడాక్లోప్రిడ్
+Zaid,జైద్,Black,నల్ల మట్టి,94,100,94,6.47,19,138,79,Mango,మామిడి,Vermicompost,వర్మి కంపోస్ట్,DAP,డిఏపీ,Garlic Spray,వెల్లుల్లి స్ప్రే,Imidacloprid,ఇమిడాక్లోప్రిడ్
+Kharif,ఖరీఫ్,Red,ఎర్ర మట్టి,63,60,102,6.81,24,182,39,Carrot,గాజర్,Compost,కంపోస్ట్,DAP,డిఏపీ,Neem Oil,వేప నూనె,Imidacloprid,ఇమిడాక్లోప్రిడ్
+Rabi,రబీ,Red,ఎర్ర మట్టి,108,20,23,5.85,36,142,58,Grapes,ద్రాక్ష,Neem Cake,వేపపిండి,DAP,డిఏపీ,Chili Spray,మిరప స్ప్రే,Imidacloprid,ఇమిడాక్లోప్రిడ్
+Zaid,జైద్,Sandy,మణల్,36,44,18,5.86,19,201,57,Pomegranate,దానిమ్మ,Neem Cake,వేపపిండి,MOP,పొటాష్,Neem Oil,వేప నూనె,Chlorpyrifos,క్లోరోపైరిఫాస్
+Rabi,రబీ,Clay,బంకమట్టి,118,95,107,7.01,40,142,55,Muskmelon,ఖర్బూజ,Farmyard Manure,పశువుల ఎరువు,NPK,ఎన్‌పీకే,Garlic Spray,వెల్లుల్లి స్ప్రే,Cypermethrin,సైపర్‌మెత్రిన్
+Zaid,జైద్,Red,ఎర్ర మట్టి,41,76,54,8.31,23,202,79,Potato,ఆలుగడ్డ,Vermicompost,వర్మి కంపోస్ట్,NPK,ఎన్‌పీకే,Garlic Spray,వెల్లుల్లి స్ప్రే,Imidacloprid,ఇమిడాక్లోప్రిడ్
+Rabi,రబీ,Clay,బంకమట్టి,33,43,94,8.1,25,215,57,Tomato,టమోటా,Compost,కంపోస్ట్,DAP,డిఏపీ,Garlic Spray,వెల్లుల్లి స్ప్రే,Imidacloprid,ఇమిడాక్లోప్రిడ్
+Rabi,రబీ,Clay,బంకమట్టి,95,53,11,5.56,25,218,41,Bitter Gourd,కాకరకాయ,Farmyard Manure,పశువుల ఎరువు,MOP,పొటాష్,Chili Spray,మిరప స్ప్రే,Imidacloprid,ఇమిడాక్లోప్రిడ్
+Rabi,రబీ,Red,ఎర్ర మట్టి,20,100,10,6.13,32,86,63,Orange,నారింజ,Farmyard Manure,పశువుల ఎరువు,Urea,యూరియా,Garlic Spray,వెల్లుల్లి స్ప్రే,Cypermethrin,సైపర్‌మెత్రిన్
+Rabi,రబీ,Red,ఎర్ర మట్టి,99,90,86,5.68,29,150,30,Groundnut,వేరుశెనగ,Compost,కంపోస్ట్,DAP,డిఏపీ,Garlic Spray,వెల్లుల్లి స్ప్రే,Cypermethrin,సైపర్‌మెత్రిన్
+Zaid,జైద్,Loamy,లోమీ,21,17,46,6.37,36,159,55,Fenugreek,మెంతికూర,Vermicompost,వర్మి కంపోస్ట్,Urea,యూరియా,Garlic Spray,వెల్లుల్లి స్ప్రే,Chlorpyrifos,క్లోరోపైరిఫాస్
+Zaid,జైద్,Black,నల్ల మట్టి,42,70,115,6.62,37,291,41,Wheat,గోధుమ,Vermicompost,వర్మి కంపోస్ట్,NPK,ఎన్‌పీకే,Garlic Spray,వెల్లుల్లి స్ప్రే,Chlorpyrifos,క్లోరోపైరిఫాస్
+Rabi,రబీ,Loamy,లోమీ,29,92,70,5.8,18,186,37,Bottle Gourd,సొరకాయ,Neem Cake,వేపపిండి,DAP,డిఏపీ,Garlic Spray,వెల్లుల్లి స్ప్రే,Imidacloprid,ఇమిడాక్లోప్రిడ్
+Kharif,ఖరీఫ్,Sandy,మణల్,94,87,47,7.93,34,163,74,Grapes,ద్రాక్ష,Neem Cake,వేపపిండి,NPK,ఎన్‌పీకే,Garlic Spray,వెల్లుల్లి స్ప్రే,Imidacloprid,ఇమిడాక్లోప్రిడ్
+Kharif,ఖరీఫ్,Loamy,లోమీ,22,37,107,6.72,25,296,89,Ginger,అల్లం,Farmyard Manure,పశువుల ఎరువు,MOP,పొటాష్,Chili Spray,మిరప స్ప్రే,Imidacloprid,ఇమిడాక్లోప్రిడ్
+Kharif,ఖరీఫ్,Sandy,మణల్,64,10,71,5.75,30,119,89,Brinjal,వంకాయ,Vermicompost,వర్మి కంపోస్ట్,NPK,ఎన్‌పీకే,Chili Spray,మిరప స్ప్రే,Imidacloprid,ఇమిడాక్లోప్రిడ్
+Rabi,రబీ,Black,నల్ల మట్టి,72,52,108,7.97,21,175,68,Gram,సెనగ,Farmyard Manure,పశువుల ఎరువు,Urea,యూరియా,Garlic Spray,వెల్లుల్లి స్ప్రే,Cypermethrin,సైపర్‌మెత్రిన్
+Kharif,ఖరీఫ్,Black,నల్ల మట్టి,99,74,11,6.85,15,115,89,Carrot,గాజర్,Compost,కంపోస్ట్,DAP,డిఏపీ,Garlic Spray,వెల్లుల్లి స్ప్రే,Imidacloprid,ఇమిడాక్లోప్రిడ్
+Zaid,జైద్,Loamy,లోమీ,50,22,51,7.14,35,104,88,Ginger,అల్లం,Vermicompost,వర్మి కంపోస్ట్,Urea,యూరియా,Chili Spray,మిరప స్ప్రే,Chlorpyrifos,క్లోరోపైరిఫాస్
+Rabi,రబీ,Clay,బంకమట్టి,24,26,86,5.83,31,81,54,Fenugreek,మెంతికూర,Compost,కంపోస్ట్,NPK,ఎన్‌పీకే,Chili Spray,మిరప స్ప్రే,Imidacloprid,ఇమిడాక్లోప్రిడ్
+Zaid,జైద్,Sandy,మణల్,111,90,93,8.04,33,180,47,Grapes,ద్రాక్ష,Neem Cake,వేపపిండి,DAP,డిఏపీ,Garlic Spray,వెల్లుల్లి స్ప్రే,Cypermethrin,సైపర్‌మెత్రిన్
+Zaid,జైద్,Loamy,లోమీ,87,44,20,5.54,38,248,88,Okra,బెండకాయ,Compost,కంపోస్ట్,Urea,యూరియా,Neem Oil,వేప నూనె,Cypermethrin,సైపర్‌మెత్రిన్
+Kharif,ఖరీఫ్,Red,ఎర్ర మట్టి,95,85,77,6.63,19,270,82,Drumstick,మునగ,Compost,కంపోస్ట్,DAP,డిఏపీ,Neem Oil,వేప నూనె,Imidacloprid,ఇమిడాక్లోప్రిడ్
+Rabi,రబీ,Red,ఎర్ర మట్టి,55,104,20,8.34,17,62,57,Pumpkin,గుమ్మడికాయ,Vermicompost,వర్మి కంపోస్ట్,NPK,ఎన్‌పీకే,Garlic Spray,వెల్లుల్లి స్ప్రే,Chlorpyrifos,క్లోరోపైరిఫాస్
+Zaid,జైద్,Clay,బంకమట్టి,38,113,80,6.05,24,189,82,Sunflower,సూర్యకాంతి,Compost,కంపోస్ట్,Urea,యూరియా,Chili Spray,మిరప స్ప్రే,Cypermethrin,సైపర్‌మెత్రిన్
+Kharif,ఖరీఫ్,Red,ఎర్ర మట్టి,87,105,11,8.18,18,172,32,Onion,ఉల్లి,Compost,కంపోస్ట్,DAP,డిఏపీ,Chili Spray,మిరప స్ప్రే,Imidacloprid,ఇమిడాక్లోప్రిడ్
+Zaid,జైద్,Clay,బంకమట్టి,31,79,94,5.59,29,146,55,Apple,సేపు,Farmyard Manure,పశువుల ఎరువు,MOP,పొటాష్,Neem Oil,వేప నూనె,Chlorpyrifos,క్లోరోపైరిఫాస్
+Rabi,రబీ,Red,ఎర్ర మట్టి,103,27,13,7.96,34,268,47,Carrot,గాజర్,Neem Cake,వేపపిండి,Urea,యూరియా,Chili Spray,మిరప స్ప్రే,Imidacloprid,ఇమిడాక్లోప్రిడ్
+Rabi,రబీ,Red,ఎర్ర మట్టి,97,107,15,5.79,26,245,66,Lemon,నిమ్మ,Compost,కంపోస్ట్,DAP,డిఏపీ,Garlic Spray,వెల్లుల్లి స్ప్రే,Cypermethrin,సైపర్‌మెత్రిన్
+Kharif,ఖరీఫ్,Sandy,మణల్,60,108,34,7.64,21,53,69,Garlic,వెల్లులి,Compost,కంపోస్ట్,Urea,యూరియా,Chili Spray,మిరప స్ప్రే,Chlorpyrifos,క్లోరోపైరిఫాస్
+Kharif,ఖరీఫ్,Clay,బంకమట్టి,35,59,97,7.49,17,117,31,Radish,ముల్లంగి,Neem Cake,వేపపిండి,DAP,డిఏపీ,Neem Oil,వేప నూనె,Cypermethrin,సైపర్‌మెత్రిన్
+Kharif,ఖరీఫ్,Loamy,లోమీ,34,45,47,6.84,32,280,42,Gram,సెనగ,Compost,కంపోస్ట్,Urea,యూరియా,Chili Spray,మిరప స్ప్రే,Cypermethrin,సైపర్‌మెత్రిన్
+Rabi,రబీ,Clay,బంకమట్టి,105,38,97,8.45,38,246,38,Pea,బఠాణి,Neem Cake,వేపపిండి,Urea,యూరియా,Neem Oil,వేప నూనె,Cypermethrin,సైపర్‌మెత్రిన్
+Zaid,జైద్,Clay,బంకమట్టి,18,56,64,7.09,29,167,58,Carrot,గాజర్,Vermicompost,వర్మి కంపోస్ట్,Urea,యూరియా,Neem Oil,వేప నూనె,Imidacloprid,ఇమిడాక్లోప్రిడ్
+Rabi,రబీ,Clay,బంకమట్టి,114,28,95,6.92,17,257,77,Sorghum,జొన్న,Farmyard Manure,పశువుల ఎరువు,MOP,పొటాష్,Chili Spray,మిరప స్ప్రే,Imidacloprid,ఇమిడాక్లోప్రిడ్
+Kharif,ఖరీఫ్,Red,ఎర్ర మట్టి,12,11,75,6.81,17,153,84,Beetroot,బీట్‌రూట్,Farmyard Manure,పశువుల ఎరువు,MOP,పొటాష్,Garlic Spray,వెల్లుల్లి స్ప్రే,Imidacloprid,ఇమిడాక్లోప్రిడ్
+Kharif,ఖరీఫ్,Loamy,లోమీ,19,33,110,6.06,37,167,49,Tomato,టమోటా,Farmyard Manure,పశువుల ఎరువు,NPK,ఎన్‌పీకే,Chili Spray,మిరప స్ప్రే,Cypermethrin,సైపర్‌మెత్రిన్
+Kharif,ఖరీఫ్,Loamy,లోమీ,32,70,104,8.27,19,182,85,Grapes,ద్రాక్ష,Vermicompost,వర్మి కంపోస్ట్,MOP,పొటాష్,Garlic Spray,వెల్లుల్లి స్ప్రే,Chlorpyrifos,క్లోరోపైరిఫాస్
+Zaid,జైద్,Clay,బంకమట్టి,51,73,120,5.84,30,219,54,Ridge Gourd,బీరకాయ,Vermicompost,వర్మి కంపోస్ట్,NPK,ఎన్‌పీకే,Neem Oil,వేప నూనె,Chlorpyrifos,క్లోరోపైరిఫాస్
+Rabi,రబీ,Red,ఎర్ర మట్టి,97,10,30,7.61,26,238,61,Carrot,గాజర్,Compost,కంపోస్ట్,DAP,డిఏపీ,Chili Spray,మిరప స్ప్రే,Chlorpyrifos,క్లోరోపైరిఫాస్
+Zaid,జైద్,Loamy,లోమీ,79,51,99,6.47,18,84,68,Lentil,పప్పు,Neem Cake,వేపపిండి,Urea,యూరియా,Garlic Spray,వెల్లుల్లి స్ప్రే,Chlorpyrifos,క్లోరోపైరిఫాస్
+Rabi,రబీ,Loamy,లోమీ,36,14,23,7.68,16,273,41,Tomato,టమోటా,Vermicompost,వర్మి కంపోస్ట్,Urea,యూరియా,Neem Oil,వేప నూనె,Imidacloprid,ఇమిడాక్లోప్రిడ్
+Rabi,రబీ,Loamy,లోమీ,72,38,47,8.25,15,154,57,Drumstick,మునగ,Neem Cake,వేపపిండి,NPK,ఎన్‌పీకే,Garlic Spray,వెల్లుల్లి స్ప్రే,Cypermethrin,సైపర్‌మెత్రిన్
+Zaid,జైద్,Clay,బంకమట్టి,89,85,23,6.49,34,187,32,Wheat,గోధుమ,Neem Cake,వేపపిండి,DAP,డిఏపీ,Neem Oil,వేప నూనె,Imidacloprid,ఇమిడాక్లోప్రిడ్
+Kharif,ఖరీఫ్,Red,ఎర్ర మట్టి,118,119,119,6.06,29,67,58,Chilli,మిర్చి,Neem Cake,వేపపిండి,DAP,డిఏపీ,Neem Oil,వేప నూనె,Cypermethrin,సైపర్‌మెత్రిన్
+Kharif,ఖరీఫ్,Sandy,మణల్,48,48,42,5.51,19,259,81,Lentil,పప్పు,Neem Cake,వేపపిండి,NPK,ఎన్‌పీకే,Chili Spray,మిరప స్ప్రే,Imidacloprid,ఇమిడాక్లోప్రిడ్
+Rabi,రబీ,Black,నల్ల మట్టి,102,66,30,6.36,20,175,51,Cotton,పత్తి,Vermicompost,వర్మి కంపోస్ట్,DAP,డిఏపీ,Neem Oil,వేప నూనె,Chlorpyrifos,క్లోరోపైరిఫాస్
+Kharif,ఖరీఫ్,Clay,బంకమట్టి,89,52,53,7.08,26,252,83,Gram,సెనగ,Compost,కంపోస్ట్,MOP,పొటాష్,Neem Oil,వేప నూనె,Cypermethrin,సైపర్‌మెత్రిన్
+Rabi,రబీ,Loamy,లోమీ,18,17,35,8.05,27,173,63,Watermelon,పుచ్చకాయ,Farmyard Manure,పశువుల ఎరువు,Urea,యూరియా,Garlic Spray,వెల్లుల్లి స్ప్రే,Chlorpyrifos,క్లోరోపైరిఫాస్
+Zaid,జైద్,Black,నల్ల మట్టి,98,34,112,6.05,15,66,80,Ridge Gourd,బీరకాయ,Vermicompost,వర్మి కంపోస్ట్,Urea,యూరియా,Chili Spray,మిరప స్ప్రే,Chlorpyrifos,క్లోరోపైరిఫాస్
+Kharif,ఖరీఫ్,Sandy,మణల్,17,64,32,8.33,37,240,37,Papaya,బొప్పాయి,Farmyard Manure,పశువుల ఎరువు,DAP,డిఏపీ,Garlic Spray,వెల్లుల్లి స్ప్రే,Chlorpyrifos,క్లోరోపైరిఫాస్
+Kharif,ఖరీఫ్,Clay,బంకమట్టి,13,82,85,5.92,39,147,53,Beetroot,బీట్‌రూట్,Compost,కంపోస్ట్,Urea,యూరియా,Chili Spray,మిరప స్ప్రే,Cypermethrin,సైపర్‌మెత్రిన్
+Kharif,ఖరీఫ్,Sandy,మణల్,75,83,58,7.93,23,71,72,Apple,సేపు,Vermicompost,వర్మి కంపోస్ట్,Urea,యూరియా,Garlic Spray,వెల్లుల్లి స్ప్రే,Cypermethrin,సైపర్‌మెత్రిన్
+Kharif,ఖరీఫ్,Loamy,లోమీ,103,35,29,6.52,19,188,81,Orange,నారింజ,Vermicompost,వర్మి కంపోస్ట్,Urea,యూరియా,Garlic Spray,వెల్లుల్లి స్ప్రే,Cypermethrin,సైపర్‌మెత్రిన్
+Zaid,జైద్,Clay,బంకమట్టి,115,74,24,6.13,25,62,46,Sugarcane,చెరకు,Farmyard Manure,పశువుల ఎరువు,DAP,డిఏపీ,Garlic Spray,వెల్లుల్లి స్ప్రే,Chlorpyrifos,క్లోరోపైరిఫాస్
+Kharif,ఖరీఫ్,Loamy,లోమీ,109,95,85,8.41,32,247,88,Cucumber,దోసకాయ,Vermicompost,వర్మి కంపోస్ట్,MOP,పొటాష్,Chili Spray,మిరప స్ప్రే,Chlorpyrifos,క్లోరోపైరిఫాస్
+Rabi,రబీ,Loamy,లోమీ,39,63,120,7.97,40,283,54,Fenugreek,మెంతికూర,Neem Cake,వేపపిండి,Urea,యూరియా,Neem Oil,వేప నూనె,Chlorpyrifos,క్లోరోపైరిఫాస్
+Kharif,ఖరీఫ్,Loamy,లోమీ,52,32,92,7.3,20,268,88,Turnip,టర్నిప్,Neem Cake,వేపపిండి,DAP,డిఏపీ,Garlic Spray,వెల్లుల్లి స్ప్రే,Imidacloprid,ఇమిడాక్లోప్రిడ్
+Kharif,ఖరీఫ్,Red,ఎర్ర మట్టి,28,60,15,6.66,21,80,80,Gram,సెనగ,Farmyard Manure,పశువుల ఎరువు,Urea,యూరియా,Neem Oil,వేప నూనె,Chlorpyrifos,క్లోరోపైరిఫాస్
+Kharif,ఖరీఫ్,Sandy,మణల్,13,69,74,8.48,22,291,74,Brinjal,వంకాయ,Vermicompost,వర్మి కంపోస్ట్,DAP,డిఏపీ,Neem Oil,వేప నూనె,Chlorpyrifos,క్లోరోపైరిఫాస్
+Zaid,జైద్,Black,నల్ల మట్టి,116,28,47,7.45,27,296,66,Soybean,సోయాబీన్,Neem Cake,వేపపిండి,NPK,ఎన్‌పీకే,Chili Spray,మిరప స్ప్రే,Imidacloprid,ఇమిడాక్లోప్రిడ్
+Kharif,ఖరీఫ్,Clay,బంకమట్టి,27,25,33,6.61,24,75,59,Rice,వరి,Farmyard Manure,పశువుల ఎరువు,Urea,యూరియా,Chili Spray,మిరప స్ప్రే,Cypermethrin,సైపర్‌మెత్రిన్
+Zaid,జైద్,Red,ఎర్ర మట్టి,84,48,34,5.98,40,98,62,Cabbage,క్యాబేజీ,Compost,కంపోస్ట్,DAP,డిఏపీ,Neem Oil,వేప నూనె,Chlorpyrifos,క్లోరోపైరిఫాస్
+Rabi,రబీ,Clay,బంకమట్టి,18,104,50,8.0,40,111,63,Cucumber,దోసకాయ,Vermicompost,వర్మి కంపోస్ట్,Urea,యూరియా,Chili Spray,మిరప స్ప్రే,Imidacloprid,ఇమిడాక్లోప్రిడ్
+Kharif,ఖరీఫ్,Sandy,మణల్,69,73,80,8.11,27,54,50,Bitter Gourd,కాకరకాయ,Farmyard Manure,పశువుల ఎరువు,DAP,డిఏపీ,Garlic Spray,వెల్లుల్లి స్ప్రే,Cypermethrin,సైపర్‌మెత్రిన్
+Rabi,రబీ,Clay,బంకమట్టి,103,55,82,8.4,37,272,39,Onion,ఉల్లి,Neem Cake,వేపపిండి,MOP,పొటాష్,Neem Oil,వేప నూనె,Imidacloprid,ఇమిడాక్లోప్రిడ్
+Rabi,రబీ,Sandy,మణల్,72,51,71,7.86,22,141,54,Carrot,గాజర్,Compost,కంపోస్ట్,Urea,యూరియా,Chili Spray,మిరప స్ప్రే,Chlorpyrifos,క్లోరోపైరిఫాస్
+Kharif,ఖరీఫ్,Sandy,మణల్,113,53,52,8.19,35,144,39,Potato,ఆలుగడ్డ,Vermicompost,వర్మి కంపోస్ట్,Urea,యూరియా,Chili Spray,మిరప స్ప్రే,Chlorpyrifos,క్లోరోపైరిఫాస్
+Rabi,రబీ,Black,నల్ల మట్టి,57,15,42,8.19,35,56,38,Lemon,నిమ్మ,Vermicompost,వర్మి కంపోస్ట్,DAP,డిఏపీ,Chili Spray,మిరప స్ప్రే,Chlorpyrifos,క్లోరోపైరిఫాస్
+Rabi,రబీ,Loamy,లోమీ,115,108,98,7.01,37,66,64,Rice,వరి,Farmyard Manure,పశువుల ఎరువు,DAP,డిఏపీ,Garlic Spray,వెల్లుల్లి స్ప్రే,Chlorpyrifos,క్లోరోపైరిఫాస్
+Zaid,జైద్,Black,నల్ల మట్టి,95,24,13,7.11,36,225,62,Sorghum,జొన్న,Farmyard Manure,పశువుల ఎరువు,NPK,ఎన్‌పీకే,Garlic Spray,వెల్లుల్లి స్ప్రే,Chlorpyrifos,క్లోరోపైరిఫాస్
+Kharif,ఖరీఫ్,Sandy,మణల్,107,106,17,7.65,28,250,36,Onion,ఉల్లి,Compost,కంపోస్ట్,DAP,డిఏపీ,Neem Oil,వేప నూనె,Cypermethrin,సైపర్‌మెత్రిన్
+Rabi,రబీ,Black,నల్ల మట్టి,61,29,78,7.45,23,161,59,Garlic,వెల్లులి,Neem Cake,వేపపిండి,NPK,ఎన్‌పీకే,Neem Oil,వేప నూనె,Chlorpyrifos,క్లోరోపైరిఫాస్
+Rabi,రబీ,Clay,బంకమట్టి,117,45,70,8.04,22,261,84,Bitter Gourd,కాకరకాయ,Vermicompost,వర్మి కంపోస్ట్,MOP,పొటాష్,Neem Oil,వేప నూనె,Imidacloprid,ఇమిడాక్లోప్రిడ్
+Zaid,జైద్,Red,ఎర్ర మట్టి,20,93,111,7.1,23,209,60,Apple,సేపు,Neem Cake,వేపపిండి,MOP,పొటాష్,Neem Oil,వేప నూనె,Chlorpyrifos,క్లోరోపైరిఫాస్
+Rabi,రబీ,Red,ఎర్ర మట్టి,34,31,81,7.47,36,252,43,Groundnut,వేరుశెనగ,Compost,కంపోస్ట్,NPK,ఎన్‌పీకే,Neem Oil,వేప నూనె,Imidacloprid,ఇమిడాక్లోప్రిడ్
+Zaid,జైద్,Sandy,మణల్,77,24,85,6.62,26,167,74,Sunflower,సూర్యకాంతి,Farmyard Manure,పశువుల ఎరువు,NPK,ఎన్‌పీకే,Garlic Spray,వెల్లుల్లి స్ప్రే,Imidacloprid,ఇమిడాక్లోప్రిడ్
+Kharif,ఖరీఫ్,Clay,బంకమట్టి,57,21,47,6.84,23,134,75,Cucumber,దోసకాయ,Farmyard Manure,పశువుల ఎరువు,NPK,ఎన్‌పీకే,Chili Spray,మిరప స్ప్రే,Chlorpyrifos,క్లోరోపైరిఫాస్
+Zaid,జైద్,Loamy,లోమీ,37,88,68,8.17,30,146,76,Mango,మామిడి,Farmyard Manure,పశువుల ఎరువు,MOP,పొటాష్,Garlic Spray,వెల్లుల్లి స్ప్రే,Cypermethrin,సైపర్‌మెత్రిన్
+Kharif,ఖరీఫ్,Black,నల్ల మట్టి,117,106,24,5.74,34,118,82,Okra,బెండకాయ,Neem Cake,వేపపిండి,NPK,ఎన్‌పీకే,Garlic Spray,వెల్లుల్లి స్ప్రే,Imidacloprid,ఇమిడాక్లోప్రిడ్
+Zaid,జైద్,Black,నల్ల మట్టి,35,102,15,6.03,33,211,75,Rice,వరి,Compost,కంపోస్ట్,MOP,పొటాష్,Neem Oil,వేప నూనె,Cypermethrin,సైపర్‌మెత్రిన్
+Kharif,ఖరీఫ్,Clay,బంకమట్టి,103,109,100,5.97,38,83,46,Ginger,అల్లం,Compost,కంపోస్ట్,DAP,డిఏపీ,Neem Oil,వేప నూనె,Imidacloprid,ఇమిడాక్లోప్రిడ్
+Rabi,రబీ,Black,నల్ల మట్టి,30,38,35,8.31,33,150,64,Guava,జామ,Vermicompost,వర్మి కంపోస్ట్,DAP,డిఏపీ,Garlic Spray,వెల్లుల్లి స్ప్రే,Chlorpyrifos,క్లోరోపైరిఫాస్
+Zaid,జైద్,Loamy,లోమీ,76,94,96,7.3,29,293,41,Bottle Gourd,సొరకాయ,Neem Cake,వేపపిండి,NPK,ఎన్‌పీకే,Neem Oil,వేప నూనె,Cypermethrin,సైపర్‌మెత్రిన్
+Rabi,రబీ,Red,ఎర్ర మట్టి,74,110,60,7.08,26,105,49,Pumpkin,గుమ్మడికాయ,Vermicompost,వర్మి కంపోస్ట్,NPK,ఎన్‌పీకే,Garlic Spray,వెల్లుల్లి స్ప్రే,Chlorpyrifos,క్లోరోపైరిఫాస్
+Rabi,రబీ,Sandy,మణల్,12,114,118,7.13,39,283,76,Potato,ఆలుగడ్డ,Neem Cake,వేపపిండి,DAP,డిఏపీ,Neem Oil,వేప నూనె,Cypermethrin,సైపర్‌మెత్రిన్
+Zaid,జైద్,Black,నల్ల మట్టి,23,25,89,6.24,35,110,77,Ridge Gourd,బీరకాయ,Compost,కంపోస్ట్,DAP,డిఏపీ,Neem Oil,వేప నూనె,Cypermethrin,సైపర్‌మెత్రిన్
+Rabi,రబీ,Sandy,మణల్,83,10,111,6.64,16,293,44,Ginger,అల్లం,Compost,కంపోస్ట్,DAP,డిఏపీ,Chili Spray,మిరప స్ప్రే,Chlorpyrifos,క్లోరోపైరిఫాస్
+Rabi,రబీ,Clay,బంకమట్టి,36,80,68,8.16,29,215,36,Lemon,నిమ్మ,Farmyard Manure,పశువుల ఎరువు,NPK,ఎన్‌పీకే,Neem Oil,వేప నూనె,Imidacloprid,ఇమిడాక్లోప్రిడ్
+Zaid,జైద్,Clay,బంకమట్టి,31,99,74,7.78,33,114,36,Potato,ఆలుగడ్డ,Farmyard Manure,పశువుల ఎరువు,Urea,యూరియా,Chili Spray,మిరప స్ప్రే,Cypermethrin,సైపర్‌మెత్రిన్
+Rabi,రబీ,Sandy,మణల్,17,87,115,5.75,16,161,90,Fenugreek,మెంతికూర,Farmyard Manure,పశువుల ఎరువు,MOP,పొటాష్,Neem Oil,వేప నూనె,Imidacloprid,ఇమిడాక్లోప్రిడ్
+Zaid,జైద్,Black,నల్ల మట్టి,28,65,112,6.35,26,84,67,Barley,యవ,Vermicompost,వర్మి కంపోస్ట్,MOP,పొటాష్,Chili Spray,మిరప స్ప్రే,Cypermethrin,సైపర్‌మెత్రిన్
+Zaid,జైద్,Loamy,లోమీ,47,97,24,7.52,26,286,84,Watermelon,పుచ్చకాయ,Vermicompost,వర్మి కంపోస్ట్,MOP,పొటాష్,Neem Oil,వేప నూనె,Imidacloprid,ఇమిడాక్లోప్రిడ్
+Zaid,జైద్,Red,ఎర్ర మట్టి,110,97,20,6.23,38,79,41,Turnip,టర్నిప్,Farmyard Manure,పశువుల ఎరువు,DAP,డిఏపీ,Garlic Spray,వెల్లుల్లి స్ప్రే,Chlorpyrifos,క్లోరోపైరిఫాస్
+Kharif,ఖరీఫ్,Loamy,లోమీ,67,44,46,8.41,27,272,85,Cauliflower,కాలీఫ్లవర్,Compost,కంపోస్ట్,Urea,యూరియా,Chili Spray,మిరప స్ప్రే,Cypermethrin,సైపర్‌మెత్రిన్
+Rabi,రబీ,Sandy,మణల్,116,14,24,6.82,17,145,90,Watermelon,పుచ్చకాయ,Vermicompost,వర్మి కంపోస్ట్,NPK,ఎన్‌పీకే,Garlic Spray,వెల్లుల్లి స్ప్రే,Chlorpyrifos,క్లోరోపైరిఫాస్
+Zaid,జైద్,Loamy,లోమీ,24,85,79,6.58,19,128,77,Bitter Gourd,కాకరకాయ,Farmyard Manure,పశువుల ఎరువు,MOP,పొటాష్,Neem Oil,వేప నూనె,Imidacloprid,ఇమిడాక్లోప్రిడ్
+Zaid,జైద్,Red,ఎర్ర మట్టి,109,41,79,6.3,28,126,75,Maize,మొక్కజొన్న,Compost,కంపోస్ట్,MOP,పొటాష్,Garlic Spray,వెల్లుల్లి స్ప్రే,Cypermethrin,సైపర్‌మెత్రిన్
+Rabi,రబీ,Red,ఎర్ర మట్టి,23,28,56,7.71,21,197,80,Maize,మొక్కజొన్న,Compost,కంపోస్ట్,NPK,ఎన్‌పీకే,Neem Oil,వేప నూనె,Chlorpyrifos,క్లోరోపైరిఫాస్
+Zaid,జైద్,Red,ఎర్ర మట్టి,90,84,15,7.29,18,193,60,Cabbage,క్యాబేజీ,Vermicompost,వర్మి కంపోస్ట్,Urea,యూరియా,Chili Spray,మిరప స్ప్రే,Cypermethrin,సైపర్‌మెత్రిన్
+Kharif,ఖరీఫ్,Loamy,లోమీ,63,42,62,7.62,38,84,76,Lemon,నిమ్మ,Compost,కంపోస్ట్,MOP,పొటాష్,Neem Oil,వేప నూనె,Chlorpyrifos,క్లోరోపైరిఫాస్
+Kharif,ఖరీఫ్,Sandy,మణల్,44,55,91,5.57,21,172,81,Turnip,టర్నిప్,Vermicompost,వర్మి కంపోస్ట్,Urea,యూరియా,Neem Oil,వేప నూనె,Imidacloprid,ఇమిడాక్లోప్రిడ్
+Zaid,జైద్,Sandy,మణల్,18,14,89,5.6,39,285,33,Rice,వరి,Vermicompost,వర్మి కంపోస్ట్,DAP,డిఏపీ,Garlic Spray,వెల్లుల్లి స్ప్రే,Cypermethrin,సైపర్‌మెత్రిన్
+Kharif,ఖరీఫ్,Sandy,మణల్,63,84,84,7.86,35,65,32,Grapes,ద్రాక్ష,Compost,కంపోస్ట్,MOP,పొటాష్,Chili Spray,మిరప స్ప్రే,Imidacloprid,ఇమిడాక్లోప్రిడ్
+Zaid,జైద్,Sandy,మణల్,59,65,99,7.71,20,118,34,Tomato,టమోటా,Vermicompost,వర్మి కంపోస్ట్,DAP,డిఏపీ,Neem Oil,వేప నూనె,Imidacloprid,ఇమిడాక్లోప్రిడ్
+Rabi,రబీ,Red,ఎర్ర మట్టి,31,10,38,8.47,26,111,33,Muskmelon,ఖర్బూజ,Neem Cake,వేపపిండి,Urea,యూరియా,Neem Oil,వేప నూనె,Imidacloprid,ఇమిడాక్లోప్రిడ్
+Kharif,ఖరీఫ్,Red,ఎర్ర మట్టి,59,110,75,6.73,24,74,50,Groundnut,వేరుశెనగ,Neem Cake,వేపపిండి,NPK,ఎన్‌పీకే,Neem Oil,వేప నూనె,Chlorpyrifos,క్లోరోపైరిఫాస్
+Kharif,ఖరీఫ్,Sandy,మణల్,109,36,118,7.12,27,145,83,Groundnut,వేరుశెనగ,Neem Cake,వేపపిండి,MOP,పొటాష్,Neem Oil,వేప నూనె,Chlorpyrifos,క్లోరోపైరిఫాస్
+Rabi,రబీ,Sandy,మణల్,99,33,59,8.24,25,78,39,Pea,బఠాణి,Neem Cake,వేపపిండి,DAP,డిఏపీ,Chili Spray,మిరప స్ప్రే,Cypermethrin,సైపర్‌మెత్రిన్
+Kharif,ఖరీఫ్,Red,ఎర్ర మట్టి,69,80,113,8.4,39,111,77,Orange,నారింజ,Farmyard Manure,పశువుల ఎరువు,DAP,డిఏపీ,Neem Oil,వేప నూనె,Chlorpyrifos,క్లోరోపైరిఫాస్
+Kharif,ఖరీఫ్,Black,నల్ల మట్టి,119,90,17,7.75,24,259,50,Cotton,పత్తి,Vermicompost,వర్మి కంపోస్ట్,DAP,డిఏపీ,Chili Spray,మిరప స్ప్రే,Imidacloprid,ఇమిడాక్లోప్రిడ్
+Kharif,ఖరీఫ్,Red,ఎర్ర మట్టి,28,60,101,7.56,29,187,41,Beetroot,బీట్‌రూట్,Compost,కంపోస్ట్,Urea,యూరియా,Garlic Spray,వెల్లుల్లి స్ప్రే,Cypermethrin,సైపర్‌మెత్రిన్
+Kharif,ఖరీఫ్,Black,నల్ల మట్టి,77,85,68,6.0,28,170,54,Chilli,మిర్చి,Farmyard Manure,పశువుల ఎరువు,DAP,డిఏపీ,Chili Spray,మిరప స్ప్రే,Cypermethrin,సైపర్‌మెత్రిన్
+Rabi,రబీ,Loamy,లోమీ,49,23,100,7.85,23,245,73,Rice,వరి,Neem Cake,వేపపిండి,NPK,ఎన్‌పీకే,Chili Spray,మిరప స్ప్రే,Cypermethrin,సైపర్‌మెత్రిన్
+Kharif,ఖరీఫ్,Loamy,లోమీ,28,91,92,7.03,31,56,87,Tomato,టమోటా,Farmyard Manure,పశువుల ఎరువు,MOP,పొటాష్,Chili Spray,మిరప స్ప్రే,Imidacloprid,ఇమిడాక్లోప్రిడ్
+Kharif,ఖరీఫ్,Loamy,లోమీ,52,79,86,5.71,17,249,89,Garlic,వెల్లులి,Farmyard Manure,పశువుల ఎరువు,DAP,డిఏపీ,Neem Oil,వేప నూనె,Chlorpyrifos,క్లోరోపైరిఫాస్
+Zaid,జైద్,Red,ఎర్ర మట్టి,111,23,63,6.39,37,85,55,Sugarcane,చెరకు,Farmyard Manure,పశువుల ఎరువు,DAP,డిఏపీ,Chili Spray,మిరప స్ప్రే,Chlorpyrifos,క్లోరోపైరిఫాస్
+Kharif,ఖరీఫ్,Black,నల్ల మట్టి,12,79,94,7.41,36,70,56,Sorghum,జొన్న,Neem Cake,వేపపిండి,Urea,యూరియా,Garlic Spray,వెల్లుల్లి స్ప్రే,Imidacloprid,ఇమిడాక్లోప్రిడ్
+Kharif,ఖరీఫ్,Red,ఎర్ర మట్టి,72,63,43,7.98,39,155,39,Turmeric,పసుపు,Vermicompost,వర్మి కంపోస్ట్,Urea,యూరియా,Chili Spray,మిరప స్ప్రే,Imidacloprid,ఇమిడాక్లోప్రిడ్
+Zaid,జైద్,Clay,బంకమట్టి,100,108,94,7.3,32,189,78,Papaya,బొప్పాయి,Compost,కంపోస్ట్,DAP,డిఏపీ,Neem Oil,వేప నూనె,Imidacloprid,ఇమిడాక్లోప్రిడ్
+Kharif,ఖరీఫ్,Loamy,లోమీ,99,13,20,7.85,28,206,84,Lemon,నిమ్మ,Neem Cake,వేపపిండి,MOP,పొటాష్,Neem Oil,వేప నూనె,Chlorpyrifos,క్లోరోపైరిఫాస్
+Zaid,జైద్,Clay,బంకమట్టి,96,96,98,5.83,18,241,48,Turnip,టర్నిప్,Compost,కంపోస్ట్,NPK,ఎన్‌పీకే,Neem Oil,వేప నూనె,Cypermethrin,సైపర్‌మెత్రిన్
+Kharif,ఖరీఫ్,Black,నల్ల మట్టి,74,84,88,6.81,39,83,78,Banana,అరటి,Farmyard Manure,పశువుల ఎరువు,NPK,ఎన్‌పీకే,Chili Spray,మిరప స్ప్రే,Chlorpyrifos,క్లోరోపైరిఫాస్
+Zaid,జైద్,Loamy,లోమీ,50,114,28,7.61,22,251,63,Beetroot,బీట్‌రూట్,Neem Cake,వేపపిండి,DAP,డిఏపీ,Garlic Spray,వెల్లుల్లి స్ప్రే,Chlorpyrifos,క్లోరోపైరిఫాస్
+Rabi,రబీ,Sandy,మణల్,44,87,82,8.3,26,232,69,Mango,మామిడి,Neem Cake,వేపపిండి,Urea,యూరియా,Garlic Spray,వెల్లుల్లి స్ప్రే,Chlorpyrifos,క్లోరోపైరిఫాస్
+Rabi,రబీ,Red,ఎర్ర మట్టి,46,19,93,6.48,15,107,68,Apple,సేపు,Farmyard Manure,పశువుల ఎరువు,NPK,ఎన్‌పీకే,Neem Oil,వేప నూనె,Imidacloprid,ఇమిడాక్లోప్రిడ్
+Rabi,రబీ,Red,ఎర్ర మట్టి,80,120,95,6.22,31,288,77,Cucumber,దోసకాయ,Farmyard Manure,పశువుల ఎరువు,MOP,పొటాష్,Neem Oil,వేప నూనె,Chlorpyrifos,క్లోరోపైరిఫాస్
+Zaid,జైద్,Red,ఎర్ర మట్టి,120,55,36,6.89,21,146,54,Turnip,టర్నిప్,Farmyard Manure,పశువుల ఎరువు,Urea,యూరియా,Neem Oil,వేప నూనె,Chlorpyrifos,క్లోరోపైరిఫాస్
+Kharif,ఖరీఫ్,Black,నల్ల మట్టి,19,52,20,7.15,34,147,65,Guava,జామ,Vermicompost,వర్మి కంపోస్ట్,MOP,పొటాష్,Neem Oil,వేప నూనె,Cypermethrin,సైపర్‌మెత్రిన్
+Rabi,రబీ,Sandy,మణల్,95,74,71,8.15,15,279,86,Muskmelon,ఖర్బూజ,Vermicompost,వర్మి కంపోస్ట్,NPK,ఎన్‌పీకే,Chili Spray,మిరప స్ప్రే,Cypermethrin,సైపర్‌మెత్రిన్
+Rabi,రబీ,Clay,బంకమట్టి,36,106,46,8.11,15,264,90,Mango,మామిడి,Farmyard Manure,పశువుల ఎరువు,Urea,యూరియా,Garlic Spray,వెల్లుల్లి స్ప్రే,Imidacloprid,ఇమిడాక్లోప్రిడ్
+Zaid,జైద్,Red,ఎర్ర మట్టి,90,96,117,8.22,16,163,70,Apple,సేపు,Neem Cake,వేపపిండి,MOP,పొటాష్,Chili Spray,మిరప స్ప్రే,Cypermethrin,సైపర్‌మెత్రిన్
+Kharif,ఖరీఫ్,Loamy,లోమీ,74,75,39,6.81,20,181,38,Apple,సేపు,Neem Cake,వేపపిండి,MOP,పొటాష్,Garlic Spray,వెల్లుల్లి స్ప్రే,Imidacloprid,ఇమిడాక్లోప్రిడ్
+Kharif,ఖరీఫ్,Sandy,మణల్,116,21,58,5.66,36,102,49,Okra,బెండకాయ,Vermicompost,వర్మి కంపోస్ట్,NPK,ఎన్‌పీకే,Neem Oil,వేప నూనె,Chlorpyrifos,క్లోరోపైరిఫాస్
+Rabi,రబీ,Black,నల్ల మట్టి,113,90,99,6.27,22,227,58,Barley,యవ,Farmyard Manure,పశువుల ఎరువు,DAP,డిఏపీ,Chili Spray,మిరప స్ప్రే,Imidacloprid,ఇమిడాక్లోప్రిడ్
+Zaid,జైద్,Black,నల్ల మట్టి,40,57,53,6.1,36,94,46,Okra,బెండకాయ,Compost,కంపోస్ట్,Urea,యూరియా,Chili Spray,మిరప స్ప్రే,Imidacloprid,ఇమిడాక్లోప్రిడ్
+Zaid,జైద్,Black,నల్ల మట్టి,19,106,85,6.13,34,89,46,Ridge Gourd,బీరకాయ,Farmyard Manure,పశువుల ఎరువు,Urea,యూరియా,Neem Oil,వేప నూనె,Cypermethrin,సైపర్‌మెత్రిన్
+Kharif,ఖరీఫ్,Loamy,లోమీ,105,14,62,5.72,24,113,35,Banana,అరటి,Neem Cake,వేపపిండి,MOP,పొటాష్,Garlic Spray,వెల్లుల్లి స్ప్రే,Cypermethrin,సైపర్‌మెత్రిన్
+Rabi,రబీ,Clay,బంకమట్టి,51,22,105,6.2,37,100,55,Onion,ఉల్లి,Vermicompost,వర్మి కంపోస్ట్,Urea,యూరియా,Garlic Spray,వెల్లుల్లి స్ప్రే,Chlorpyrifos,క్లోరోపైరిఫాస్
+Zaid,జైద్,Clay,బంకమట్టి,85,53,103,6.21,31,92,59,Potato,ఆలుగడ్డ,Farmyard Manure,పశువుల ఎరువు,DAP,డిఏపీ,Chili Spray,మిరప స్ప్రే,Imidacloprid,ఇమిడాక్లోప్రిడ్
+Zaid,జైద్,Sandy,మణల్,104,20,82,8.45,35,223,65,Maize,మొక్కజొన్న,Compost,కంపోస్ట్,DAP,డిఏపీ,Garlic Spray,వెల్లుల్లి స్ప్రే,Cypermethrin,సైపర్‌మెత్రిన్
+Zaid,జైద్,Clay,బంకమట్టి,28,63,108,5.78,23,196,89,Turnip,టర్నిప్,Farmyard Manure,పశువుల ఎరువు,NPK,ఎన్‌పీకే,Neem Oil,వేప నూనె,Chlorpyrifos,క్లోరోపైరిఫాస్
+Kharif,ఖరీఫ్,Clay,బంకమట్టి,49,32,27,6.53,26,231,86,Cotton,పత్తి,Farmyard Manure,పశువుల ఎరువు,MOP,పొటాష్,Neem Oil,వేప నూనె,Cypermethrin,సైపర్‌మెత్రిన్
+Rabi,రబీ,Clay,బంకమట్టి,73,17,73,6.04,29,152,69,Grapes,ద్రాక్ష,Farmyard Manure,పశువుల ఎరువు,NPK,ఎన్‌పీకే,Chili Spray,మిరప స్ప్రే,Cypermethrin,సైపర్‌మెత్రిన్
+Kharif,ఖరీఫ్,Red,ఎర్ర మట్టి,69,67,105,6.51,27,168,57,Rice,వరి,Neem Cake,వేపపిండి,NPK,ఎన్‌పీకే,Garlic Spray,వెల్లుల్లి స్ప్రే,Imidacloprid,ఇమిడాక్లోప్రిడ్
+Kharif,ఖరీఫ్,Red,ఎర్ర మట్టి,40,54,98,6.53,31,238,88,Wheat,గోధుమ,Farmyard Manure,పశువుల ఎరువు,Urea,యూరియా,Garlic Spray,వెల్లుల్లి స్ప్రే,Chlorpyrifos,క్లోరోపైరిఫాస్
+Rabi,రబీ,Black,నల్ల మట్టి,23,73,103,6.67,34,150,74,Rice,వరి,Neem Cake,వేపపిండి,DAP,డిఏపీ,Chili Spray,మిరప స్ప్రే,Cypermethrin,సైపర్‌మెత్రిన్
+Kharif,ఖరీఫ్,Red,ఎర్ర మట్టి,25,10,63,6.87,37,217,76,Muskmelon,ఖర్బూజ,Neem Cake,వేపపిండి,NPK,ఎన్‌పీకే,Chili Spray,మిరప స్ప్రే,Cypermethrin,సైపర్‌మెత్రిన్
+Kharif,ఖరీఫ్,Loamy,లోమీ,109,24,111,6.8,32,55,76,Pea,బఠాణి,Neem Cake,వేపపిండి,DAP,డిఏపీ,Garlic Spray,వెల్లుల్లి స్ప్రే,Cypermethrin,సైపర్‌మెత్రిన్
+Zaid,జైద్,Sandy,మణల్,50,41,98,6.11,17,168,59,Gram,సెనగ,Farmyard Manure,పశువుల ఎరువు,NPK,ఎన్‌పీకే,Chili Spray,మిరప స్ప్రే,Imidacloprid,ఇమిడాక్లోప్రిడ్
+Kharif,ఖరీఫ్,Clay,బంకమట్టి,71,27,107,5.6,40,274,58,Groundnut,వేరుశెనగ,Vermicompost,వర్మి కంపోస్ట్,NPK,ఎన్‌పీకే,Garlic Spray,వెల్లుల్లి స్ప్రే,Chlorpyrifos,క్లోరోపైరిఫాస్
+Zaid,జైద్,Loamy,లోమీ,52,24,40,5.98,38,160,40,Ginger,అల్లం,Compost,కంపోస్ట్,NPK,ఎన్‌పీకే,Chili Spray,మిరప స్ప్రే,Chlorpyrifos,క్లోరోపైరిఫాస్
+Zaid,జైద్,Red,ఎర్ర మట్టి,67,37,60,7.05,32,134,84,Sorghum,జొన్న,Vermicompost,వర్మి కంపోస్ట్,MOP,పొటాష్,Neem Oil,వేప నూనె,Chlorpyrifos,క్లోరోపైరిఫాస్
+Zaid,జైద్,Clay,బంకమట్టి,46,32,57,5.75,24,291,50,Maize,మొక్కజొన్న,Neem Cake,వేపపిండి,Urea,యూరియా,Chili Spray,మిరప స్ప్రే,Imidacloprid,ఇమిడాక్లోప్రిడ్
+Kharif,ఖరీఫ్,Sandy,మణల్,16,74,28,5.82,28,165,68,Cucumber,దోసకాయ,Neem Cake,వేపపిండి,NPK,ఎన్‌పీకే,Garlic Spray,వెల్లుల్లి స్ప్రే,Imidacloprid,ఇమిడాక్లోప్రిడ్
+Rabi,రబీ,Clay,బంకమట్టి,97,84,30,5.68,17,179,39,Drumstick,మునగ,Compost,కంపోస్ట్,MOP,పొటాష్,Neem Oil,వేప నూనె,Imidacloprid,ఇమిడాక్లోప్రిడ్
+Kharif,ఖరీఫ్,Sandy,మణల్,58,101,101,6.6,17,110,50,Gram,సెనగ,Compost,కంపోస్ట్,MOP,పొటాష్,Garlic Spray,వెల్లుల్లి స్ప్రే,Chlorpyrifos,క్లోరోపైరిఫాస్
+Kharif,ఖరీఫ్,Black,నల్ల మట్టి,88,75,53,5.73,33,157,44,Spinach,పాలకూర,Compost,కంపోస్ట్,Urea,యూరియా,Neem Oil,వేప నూనె,Chlorpyrifos,క్లోరోపైరిఫాస్
+Rabi,రబీ,Loamy,లోమీ,74,40,55,5.88,17,150,46,Wheat,గోధుమ,Farmyard Manure,పశువుల ఎరువు,DAP,డిఏపీ,Garlic Spray,వెల్లుల్లి స్ప్రే,Imidacloprid,ఇమిడాక్లోప్రిడ్
+Zaid,జైద్,Loamy,లోమీ,63,98,42,8.33,39,235,42,Lemon,నిమ్మ,Vermicompost,వర్మి కంపోస్ట్,MOP,పొటాష్,Garlic Spray,వెల్లుల్లి స్ప్రే,Imidacloprid,ఇమిడాక్లోప్రిడ్
+Kharif,ఖరీఫ్,Clay,బంకమట్టి,24,13,32,6.66,15,234,49,Cauliflower,కాలీఫ్లవర్,Compost,కంపోస్ట్,NPK,ఎన్‌పీకే,Neem Oil,వేప నూనె,Cypermethrin,సైపర్‌మెత్రిన్
+Kharif,ఖరీఫ్,Sandy,మణల్,57,68,103,7.45,26,257,39,Sunflower,సూర్యకాంతి,Vermicompost,వర్మి కంపోస్ట్,DAP,డిఏపీ,Garlic Spray,వెల్లుల్లి స్ప్రే,Imidacloprid,ఇమిడాక్లోప్రిడ్
+Zaid,జైద్,Red,ఎర్ర మట్టి,80,34,108,6.26,16,220,89,Cucumber,దోసకాయ,Vermicompost,వర్మి కంపోస్ట్,NPK,ఎన్‌పీకే,Garlic Spray,వెల్లుల్లి స్ప్రే,Cypermethrin,సైపర్‌మెత్రిన్
+Zaid,జైద్,Sandy,మణల్,23,93,69,7.87,20,249,62,Sorghum,జొన్న,Farmyard Manure,పశువుల ఎరువు,Urea,యూరియా,Garlic Spray,వెల్లుల్లి స్ప్రే,Cypermethrin,సైపర్‌మెత్రిన్
+Rabi,రబీ,Clay,బంకమట్టి,51,23,59,8.41,21,125,62,Brinjal,వంకాయ,Compost,కంపోస్ట్,NPK,ఎన్‌పీకే,Neem Oil,వేప నూనె,Chlorpyrifos,క్లోరోపైరిఫాస్
+Kharif,ఖరీఫ్,Sandy,మణల్,19,101,69,6.96,36,177,65,Sorghum,జొన్న,Compost,కంపోస్ట్,DAP,డిఏపీ,Chili Spray,మిరప స్ప్రే,Chlorpyrifos,క్లోరోపైరిఫాస్
+Zaid,జైద్,Loamy,లోమీ,29,31,38,5.63,35,166,70,Bottle Gourd,సొరకాయ,Compost,కంపోస్ట్,NPK,ఎన్‌పీకే,Chili Spray,మిరప స్ప్రే,Cypermethrin,సైపర్‌మెత్రిన్
+Zaid,జైద్,Red,ఎర్ర మట్టి,97,102,42,6.35,21,174,65,Sunflower,సూర్యకాంతి,Neem Cake,వేపపిండి,MOP,పొటాష్,Chili Spray,మిరప స్ప్రే,Cypermethrin,సైపర్‌మెత్రిన్
+Zaid,జైద్,Clay,బంకమట్టి,17,58,109,7.0,20,272,69,Mustard,ఆవాలు,Vermicompost,వర్మి కంపోస్ట్,DAP,డిఏపీ,Neem Oil,వేప నూనె,Chlorpyrifos,క్లోరోపైరిఫాస్
+Rabi,రబీ,Clay,బంకమట్టి,30,57,31,6.16,38,226,58,Lemon,నిమ్మ,Vermicompost,వర్మి కంపోస్ట్,DAP,డిఏపీ,Chili Spray,మిరప స్ప్రే,Imidacloprid,ఇమిడాక్లోప్రిడ్
+Kharif,ఖరీఫ్,Sandy,మణల్,34,78,65,7.69,36,288,33,Pea,బఠాణి,Farmyard Manure,పశువుల ఎరువు,NPK,ఎన్‌పీకే,Garlic Spray,వెల్లుల్లి స్ప్రే,Imidacloprid,ఇమిడాక్లోప్రిడ్
+Rabi,రబీ,Sandy,మణల్,44,21,112,7.97,35,225,61,Okra,బెండకాయ,Neem Cake,వేపపిండి,MOP,పొటాష్,Neem Oil,వేప నూనె,Chlorpyrifos,క్లోరోపైరిఫాస్
+Rabi,రబీ,Red,ఎర్ర మట్టి,105,64,75,7.23,39,123,88,Guava,జామ,Neem Cake,వేపపిండి,Urea,యూరియా,Neem Oil,వేప నూనె,Cypermethrin,సైపర్‌మెత్రిన్
+Rabi,రబీ,Clay,బంకమట్టి,24,70,62,8.15,36,148,36,Millet,సజ్జ,Compost,కంపోస్ట్,MOP,పొటాష్,Garlic Spray,వెల్లుల్లి స్ప్రే,Cypermethrin,సైపర్‌మెత్రిన్
+Kharif,ఖరీఫ్,Clay,బంకమట్టి,82,45,20,7.39,28,247,48,Pomegranate,దానిమ్మ,Neem Cake,వేపపిండి,Urea,యూరియా,Chili Spray,మిరప స్ప్రే,Chlorpyrifos,క్లోరోపైరిఫాస్
+Rabi,రబీ,Black,నల్ల మట్టి,100,98,24,5.92,18,261,61,Mustard,ఆవాలు,Farmyard Manure,పశువుల ఎరువు,Urea,యూరియా,Chili Spray,మిరప స్ప్రే,Imidacloprid,ఇమిడాక్లోప్రిడ్
+Kharif,ఖరీఫ్,Red,ఎర్ర మట్టి,80,55,81,8.43,16,107,56,Onion,ఉల్లి,Neem Cake,వేపపిండి,DAP,డిఏపీ,Neem Oil,వేప నూనె,Cypermethrin,సైపర్‌మెత్రిన్
+Zaid,జైద్,Red,ఎర్ర మట్టి,107,54,96,7.01,23,263,53,Orange,నారింజ,Neem Cake,వేపపిండి,DAP,డిఏపీ,Garlic Spray,వెల్లుల్లి స్ప్రే,Chlorpyrifos,క్లోరోపైరిఫాస్
+Kharif,ఖరీఫ్,Clay,బంకమట్టి,103,98,75,6.72,22,263,90,Bitter Gourd,కాకరకాయ,Neem Cake,వేపపిండి,DAP,డిఏపీ,Chili Spray,మిరప స్ప్రే,Cypermethrin,సైపర్‌మెత్రిన్
+Kharif,ఖరీఫ్,Red,ఎర్ర మట్టి,103,95,98,6.83,37,203,40,Turnip,టర్నిప్,Farmyard Manure,పశువుల ఎరువు,MOP,పొటాష్,Garlic Spray,వెల్లుల్లి స్ప్రే,Chlorpyrifos,క్లోరోపైరిఫాస్
+Zaid,జైద్,Clay,బంకమట్టి,41,94,110,7.77,29,91,57,Banana,అరటి,Neem Cake,వేపపిండి,MOP,పొటాష్,Neem Oil,వేప నూనె,Cypermethrin,సైపర్‌మెత్రిన్
+Kharif,ఖరీఫ్,Sandy,మణల్,64,94,63,8.26,16,277,68,Ginger,అల్లం,Farmyard Manure,పశువుల ఎరువు,DAP,డిఏపీ,Chili Spray,మిరప స్ప్రే,Imidacloprid,ఇమిడాక్లోప్రిడ్
+Zaid,జైద్,Black,నల్ల మట్టి,88,89,34,6.25,40,54,77,Beetroot,బీట్‌రూట్,Neem Cake,వేపపిండి,MOP,పొటాష్,Chili Spray,మిరప స్ప్రే,Imidacloprid,ఇమిడాక్లోప్రిడ్
+Kharif,ఖరీఫ్,Red,ఎర్ర మట్టి,64,68,101,6.99,20,191,89,Drumstick,మునగ,Farmyard Manure,పశువుల ఎరువు,NPK,ఎన్‌పీకే,Chili Spray,మిరప స్ప్రే,Imidacloprid,ఇమిడాక్లోప్రిడ్
+Rabi,రబీ,Sandy,మణల్,51,46,34,6.71,36,209,64,Tomato,టమోటా,Neem Cake,వేపపిండి,DAP,డిఏపీ,Neem Oil,వేప నూనె,Chlorpyrifos,క్లోరోపైరిఫాస్
+Kharif,ఖరీఫ్,Red,ఎర్ర మట్టి,55,39,29,5.52,24,284,61,Sunflower,సూర్యకాంతి,Compost,కంపోస్ట్,NPK,ఎన్‌పీకే,Chili Spray,మిరప స్ప్రే,Cypermethrin,సైపర్‌మెత్రిన్
+Kharif,ఖరీఫ్,Black,నల్ల మట్టి,116,47,79,7.35,27,298,85,Beetroot,బీట్‌రూట్,Neem Cake,వేపపిండి,NPK,ఎన్‌పీకే,Garlic Spray,వెల్లుల్లి స్ప్రే,Cypermethrin,సైపర్‌మెత్రిన్
+Zaid,జైద్,Sandy,మణల్,88,79,75,7.23,28,176,89,Okra,బెండకాయ,Farmyard Manure,పశువుల ఎరువు,Urea,యూరియా,Garlic Spray,వెల్లుల్లి స్ప్రే,Imidacloprid,ఇమిడాక్లోప్రిడ్
+Rabi,రబీ,Clay,బంకమట్టి,10,84,13,7.25,25,135,90,Apple,సేపు,Farmyard Manure,పశువుల ఎరువు,Urea,యూరియా,Neem Oil,వేప నూనె,Imidacloprid,ఇమిడాక్లోప్రిడ్
+Kharif,ఖరీఫ్,Sandy,మణల్,119,56,64,7.74,36,255,87,Papaya,బొప్పాయి,Farmyard Manure,పశువుల ఎరువు,MOP,పొటాష్,Neem Oil,వేప నూనె,Cypermethrin,సైపర్‌మెత్రిన్
+Kharif,ఖరీఫ్,Loamy,లోమీ,90,82,30,7.28,24,218,70,Millet,సజ్జ,Vermicompost,వర్మి కంపోస్ట్,NPK,ఎన్‌పీకే,Neem Oil,వేప నూనె,Imidacloprid,ఇమిడాక్లోప్రిడ్
+Rabi,రబీ,Clay,బంకమట్టి,67,118,15,6.48,36,210,70,Grapes,ద్రాక్ష,Farmyard Manure,పశువుల ఎరువు,Urea,యూరియా,Garlic Spray,వెల్లుల్లి స్ప్రే,Cypermethrin,సైపర్‌మెత్రిన్
+Rabi,రబీ,Sandy,మణల్,113,29,96,6.87,24,259,61,Watermelon,పుచ్చకాయ,Farmyard Manure,పశువుల ఎరువు,NPK,ఎన్‌పీకే,Chili Spray,మిరప స్ప్రే,Chlorpyrifos,క్లోరోపైరిఫాస్
+Rabi,రబీ,Red,ఎర్ర మట్టి,107,117,90,8.46,25,159,33,Guava,జామ,Compost,కంపోస్ట్,MOP,పొటాష్,Neem Oil,వేప నూనె,Imidacloprid,ఇమిడాక్లోప్రిడ్
+Rabi,రబీ,Red,ఎర్ర మట్టి,45,40,107,6.81,21,112,34,Pomegranate,దానిమ్మ,Farmyard Manure,పశువుల ఎరువు,NPK,ఎన్‌పీకే,Chili Spray,మిరప స్ప్రే,Cypermethrin,సైపర్‌మెత్రిన్
+Kharif,ఖరీఫ్,Black,నల్ల మట్టి,100,20,17,6.83,39,153,87,Pomegranate,దానిమ్మ,Compost,కంపోస్ట్,NPK,ఎన్‌పీకే,Neem Oil,వేప నూనె,Chlorpyrifos,క్లోరోపైరిఫాస్
+Zaid,జైద్,Sandy,మణల్,55,39,88,6.12,19,169,32,Sugarcane,చెరకు,Vermicompost,వర్మి కంపోస్ట్,NPK,ఎన్‌పీకే,Neem Oil,వేప నూనె,Imidacloprid,ఇమిడాక్లోప్రిడ్
+Rabi,రబీ,Red,ఎర్ర మట్టి,65,44,58,7.84,33,108,72,Radish,ముల్లంగి,Farmyard Manure,పశువుల ఎరువు,Urea,యూరియా,Chili Spray,మిరప స్ప్రే,Imidacloprid,ఇమిడాక్లోప్రిడ్
+Rabi,రబీ,Black,నల్ల మట్టి,73,80,97,6.73,36,111,30,Pea,బఠాణి,Vermicompost,వర్మి కంపోస్ట్,DAP,డిఏపీ,Garlic Spray,వెల్లుల్లి స్ప్రే,Chlorpyrifos,క్లోరోపైరిఫాస్
+Zaid,జైద్,Loamy,లోమీ,24,108,78,7.25,24,119,70,Sugarcane,చెరకు,Farmyard Manure,పశువుల ఎరువు,MOP,పొటాష్,Garlic Spray,వెల్లుల్లి స్ప్రే,Imidacloprid,ఇమిడాక్లోప్రిడ్
+Rabi,రబీ,Red,ఎర్ర మట్టి,117,89,15,6.84,31,137,42,Tomato,టమోటా,Vermicompost,వర్మి కంపోస్ట్,Urea,యూరియా,Garlic Spray,వెల్లుల్లి స్ప్రే,Imidacloprid,ఇమిడాక్లోప్రిడ్
+Rabi,రబీ,Red,ఎర్ర మట్టి,25,32,49,8.04,30,125,61,Ridge Gourd,బీరకాయ,Neem Cake,వేపపిండి,DAP,డిఏపీ,Neem Oil,వేప నూనె,Imidacloprid,ఇమిడాక్లోప్రిడ్
+Rabi,రబీ,Sandy,మణల్,50,25,60,7.13,35,259,86,Soybean,సోయాబీన్,Neem Cake,వేపపిండి,NPK,ఎన్‌పీకే,Chili Spray,మిరప స్ప్రే,Chlorpyrifos,క్లోరోపైరిఫాస్
+Rabi,రబీ,Loamy,లోమీ,36,107,72,7.1,22,79,53,Pumpkin,గుమ్మడికాయ,Neem Cake,వేపపిండి,NPK,ఎన్‌పీకే,Chili Spray,మిరప స్ప్రే,Chlorpyrifos,క్లోరోపైరిఫాస్
+Rabi,రబీ,Loamy,లోమీ,94,16,96,5.69,33,78,48,Grapes,ద్రాక్ష,Vermicompost,వర్మి కంపోస్ట్,DAP,డిఏపీ,Garlic Spray,వెల్లుల్లి స్ప్రే,Chlorpyrifos,క్లోరోపైరిఫాస్
+Zaid,జైద్,Black,నల్ల మట్టి,10,68,94,7.57,23,157,89,Sorghum,జొన్న,Compost,కంపోస్ట్,DAP,డిఏపీ,Chili Spray,మిరప స్ప్రే,Imidacloprid,ఇమిడాక్లోప్రిడ్
+Kharif,ఖరీఫ్,Sandy,మణల్,64,80,66,5.73,25,52,58,Ginger,అల్లం,Compost,కంపోస్ట్,Urea,యూరియా,Garlic Spray,వెల్లుల్లి స్ప్రే,Imidacloprid,ఇమిడాక్లోప్రిడ్
+Kharif,ఖరీఫ్,Clay,బంకమట్టి,45,85,119,8.39,18,189,85,Bottle Gourd,సొరకాయ,Neem Cake,వేపపిండి,DAP,డిఏపీ,Neem Oil,వేప నూనె,Chlorpyrifos,క్లోరోపైరిఫాస్
+Kharif,ఖరీఫ్,Red,ఎర్ర మట్టి,102,119,28,6.19,15,103,63,Muskmelon,ఖర్బూజ,Compost,కంపోస్ట్,MOP,పొటాష్,Garlic Spray,వెల్లుల్లి స్ప్రే,Cypermethrin,సైపర్‌మెత్రిన్
+Zaid,జైద్,Black,నల్ల మట్టి,44,85,39,7.24,29,296,34,Groundnut,వేరుశెనగ,Neem Cake,వేపపిండి,MOP,పొటాష్,Neem Oil,వేప నూనె,Chlorpyrifos,క్లోరోపైరిఫాస్
+Kharif,ఖరీఫ్,Loamy,లోమీ,60,37,68,7.24,31,105,34,Spinach,పాలకూర,Neem Cake,వేపపిండి,DAP,డిఏపీ,Garlic Spray,వెల్లుల్లి స్ప్రే,Imidacloprid,ఇమిడాక్లోప్రిడ్
+Rabi,రబీ,Clay,బంకమట్టి,88,120,12,7.47,17,140,74,Apple,సేపు,Neem Cake,వేపపిండి,DAP,డిఏపీ,Neem Oil,వేప నూనె,Cypermethrin,సైపర్‌మెత్రిన్
+Zaid,జైద్,Loamy,లోమీ,94,70,63,6.44,40,184,67,Gram,సెనగ,Compost,కంపోస్ట్,NPK,ఎన్‌పీకే,Chili Spray,మిరప స్ప్రే,Cypermethrin,సైపర్‌మెత్రిన్
+Rabi,రబీ,Sandy,మణల్,46,84,86,8.36,39,155,54,Ridge Gourd,బీరకాయ,Vermicompost,వర్మి కంపోస్ట్,DAP,డిఏపీ,Chili Spray,మిరప స్ప్రే,Cypermethrin,సైపర్‌మెత్రిన్
+Zaid,జైద్,Sandy,మణల్,85,120,67,5.56,20,293,41,Lentil,పప్పు,Compost,కంపోస్ట్,MOP,పొటాష్,Garlic Spray,వెల్లుల్లి స్ప్రే,Chlorpyrifos,క్లోరోపైరిఫాస్
+Zaid,జైద్,Sandy,మణల్,21,116,15,7.37,33,61,64,Potato,ఆలుగడ్డ,Vermicompost,వర్మి కంపోస్ట్,NPK,ఎన్‌పీకే,Neem Oil,వేప నూనె,Chlorpyrifos,క్లోరోపైరిఫాస్
+Rabi,రబీ,Loamy,లోమీ,114,54,119,6.36,32,240,72,Bitter Gourd,కాకరకాయ,Farmyard Manure,పశువుల ఎరువు,MOP,పొటాష్,Garlic Spray,వెల్లుల్లి స్ప్రే,Cypermethrin,సైపర్‌మెత్రిన్
+Rabi,రబీ,Loamy,లోమీ,39,18,15,6.13,22,142,53,Groundnut,వేరుశెనగ,Farmyard Manure,పశువుల ఎరువు,MOP,పొటాష్,Neem Oil,వేప నూనె,Imidacloprid,ఇమిడాక్లోప్రిడ్
+Zaid,జైద్,Black,నల్ల మట్టి,110,48,88,8.48,22,214,88,Cucumber,దోసకాయ,Compost,కంపోస్ట్,NPK,ఎన్‌పీకే,Chili Spray,మిరప స్ప్రే,Imidacloprid,ఇమిడాక్లోప్రిడ్
+Zaid,జైద్,Loamy,లోమీ,90,116,50,7.73,23,297,78,Barley,యవ,Vermicompost,వర్మి కంపోస్ట్,DAP,డిఏపీ,Garlic Spray,వెల్లుల్లి స్ప్రే,Cypermethrin,సైపర్‌మెత్రిన్
+Kharif,ఖరీఫ్,Red,ఎర్ర మట్టి,28,69,81,6.44,33,55,79,Millet,సజ్జ,Farmyard Manure,పశువుల ఎరువు,Urea,యూరియా,Neem Oil,వేప నూనె,Chlorpyrifos,క్లోరోపైరిఫాస్
+Rabi,రబీ,Sandy,మణల్,11,65,101,8.29,17,95,79,Pumpkin,గుమ్మడికాయ,Vermicompost,వర్మి కంపోస్ట్,MOP,పొటాష్,Garlic Spray,వెల్లుల్లి స్ప్రే,Chlorpyrifos,క్లోరోపైరిఫాస్
+Kharif,ఖరీఫ్,Black,నల్ల మట్టి,48,86,43,5.64,34,283,41,Papaya,బొప్పాయి,Compost,కంపోస్ట్,MOP,పొటాష్,Neem Oil,వేప నూనె,Imidacloprid,ఇమిడాక్లోప్రిడ్
+Rabi,రబీ,Loamy,లోమీ,81,27,35,7.24,40,196,40,Pea,బఠాణి,Vermicompost,వర్మి కంపోస్ట్,Urea,యూరియా,Garlic Spray,వెల్లుల్లి స్ప్రే,Cypermethrin,సైపర్‌మెత్రిన్
+Zaid,జైద్,Red,ఎర్ర మట్టి,61,78,27,7.75,20,189,55,Barley,యవ,Neem Cake,వేపపిండి,MOP,పొటాష్,Garlic Spray,వెల్లుల్లి స్ప్రే,Imidacloprid,ఇమిడాక్లోప్రిడ్
+Kharif,ఖరీఫ్,Sandy,మణల్,75,119,25,6.56,20,242,70,Spinach,పాలకూర,Farmyard Manure,పశువుల ఎరువు,NPK,ఎన్‌పీకే,Neem Oil,వేప నూనె,Chlorpyrifos,క్లోరోపైరిఫాస్
+Zaid,జైద్,Sandy,మణల్,108,95,69,7.26,30,81,81,Banana,అరటి,Farmyard Manure,పశువుల ఎరువు,MOP,పొటాష్,Neem Oil,వేప నూనె,Cypermethrin,సైపర్‌మెత్రిన్
+Kharif,ఖరీఫ్,Clay,బంకమట్టి,104,116,33,8.16,36,86,42,Mustard,ఆవాలు,Farmyard Manure,పశువుల ఎరువు,NPK,ఎన్‌పీకే,Garlic Spray,వెల్లుల్లి స్ప్రే,Chlorpyrifos,క్లోరోపైరిఫాస్
+Kharif,ఖరీఫ్,Sandy,మణల్,55,100,98,6.86,18,185,30,Sorghum,జొన్న,Farmyard Manure,పశువుల ఎరువు,MOP,పొటాష్,Garlic Spray,వెల్లుల్లి స్ప్రే,Cypermethrin,సైపర్‌మెత్రిన్
+Zaid,జైద్,Sandy,మణల్,109,19,107,6.6,21,225,72,Bottle Gourd,సొరకాయ,Neem Cake,వేపపిండి,Urea,యూరియా,Chili Spray,మిరప స్ప్రే,Imidacloprid,ఇమిడాక్లోప్రిడ్
+Zaid,జైద్,Red,ఎర్ర మట్టి,116,52,104,6.55,22,52,84,Groundnut,వేరుశెనగ,Farmyard Manure,పశువుల ఎరువు,MOP,పొటాష్,Neem Oil,వేప నూనె,Cypermethrin,సైపర్‌మెత్రిన్
+Rabi,రబీ,Clay,బంకమట్టి,43,45,35,6.22,23,76,90,Potato,ఆలుగడ్డ,Farmyard Manure,పశువుల ఎరువు,Urea,యూరియా,Chili Spray,మిరప స్ప్రే,Imidacloprid,ఇమిడాక్లోప్రిడ్
+Zaid,జైద్,Black,నల్ల మట్టి,34,61,57,7.18,37,126,54,Turmeric,పసుపు,Compost,కంపోస్ట్,MOP,పొటాష్,Garlic Spray,వెల్లుల్లి స్ప్రే,Cypermethrin,సైపర్‌మెత్రిన్
+Kharif,ఖరీఫ్,Clay,బంకమట్టి,106,26,51,7.19,27,249,53,Gram,సెనగ,Vermicompost,వర్మి కంపోస్ట్,MOP,పొటాష్,Chili Spray,మిరప స్ప్రే,Chlorpyrifos,క్లోరోపైరిఫాస్
+Zaid,జైద్,Red,ఎర్ర మట్టి,94,30,49,6.88,27,183,43,Beetroot,బీట్‌రూట్,Vermicompost,వర్మి కంపోస్ట్,NPK,ఎన్‌పీకే,Neem Oil,వేప నూనె,Chlorpyrifos,క్లోరోపైరిఫాస్
+Kharif,ఖరీఫ్,Loamy,లోమీ,73,110,49,5.71,27,297,86,Cabbage,క్యాబేజీ,Farmyard Manure,పశువుల ఎరువు,NPK,ఎన్‌పీకే,Garlic Spray,వెల్లుల్లి స్ప్రే,Cypermethrin,సైపర్‌మెత్రిన్
+Rabi,రబీ,Sandy,మణల్,88,10,19,5.88,32,107,45,Wheat,గోధుమ,Farmyard Manure,పశువుల ఎరువు,NPK,ఎన్‌పీకే,Garlic Spray,వెల్లుల్లి స్ప్రే,Cypermethrin,సైపర్‌మెత్రిన్
+Kharif,ఖరీఫ్,Red,ఎర్ర మట్టి,94,46,117,8.34,24,234,45,Pomegranate,దానిమ్మ,Farmyard Manure,పశువుల ఎరువు,DAP,డిఏపీ,Chili Spray,మిరప స్ప్రే,Cypermethrin,సైపర్‌మెత్రిన్
+Rabi,రబీ,Black,నల్ల మట్టి,45,96,57,6.28,32,124,42,Mustard,ఆవాలు,Vermicompost,వర్మి కంపోస్ట్,DAP,డిఏపీ,Chili Spray,మిరప స్ప్రే,Imidacloprid,ఇమిడాక్లోప్రిడ్
+Kharif,ఖరీఫ్,Sandy,మణల్,46,76,111,6.23,17,262,80,Lentil,పప్పు,Farmyard Manure,పశువుల ఎరువు,MOP,పొటాష్,Garlic Spray,వెల్లుల్లి స్ప్రే,Cypermethrin,సైపర్‌మెత్రిన్
+Zaid,జైద్,Loamy,లోమీ,42,120,82,6.5,24,183,41,Wheat,గోధుమ,Neem Cake,వేపపిండి,MOP,పొటాష్,Chili Spray,మిరప స్ప్రే,Imidacloprid,ఇమిడాక్లోప్రిడ్
+Zaid,జైద్,Loamy,లోమీ,33,89,39,6.66,30,93,88,Maize,మొక్కజొన్న,Farmyard Manure,పశువుల ఎరువు,MOP,పొటాష్,Chili Spray,మిరప స్ప్రే,Chlorpyrifos,క్లోరోపైరిఫాస్
+Zaid,జైద్,Red,ఎర్ర మట్టి,82,92,71,6.66,20,274,54,Cauliflower,కాలీఫ్లవర్,Neem Cake,వేపపిండి,MOP,పొటాష్,Garlic Spray,వెల్లుల్లి స్ప్రే,Cypermethrin,సైపర్‌మెత్రిన్
+Zaid,జైద్,Red,ఎర్ర మట్టి,63,12,115,7.05,35,80,40,Barley,యవ,Farmyard Manure,పశువుల ఎరువు,NPK,ఎన్‌పీకే,Garlic Spray,వెల్లుల్లి స్ప్రే,Imidacloprid,ఇమిడాక్లోప్రిడ్
+Zaid,జైద్,Black,నల్ల మట్టి,70,23,57,5.84,21,159,87,Gram,సెనగ,Farmyard Manure,పశువుల ఎరువు,NPK,ఎన్‌పీకే,Chili Spray,మిరప స్ప్రే,Chlorpyrifos,క్లోరోపైరిఫాస్
+Kharif,ఖరీఫ్,Black,నల్ల మట్టి,88,86,35,7.01,36,144,54,Brinjal,వంకాయ,Farmyard Manure,పశువుల ఎరువు,DAP,డిఏపీ,Garlic Spray,వెల్లుల్లి స్ప్రే,Chlorpyrifos,క్లోరోపైరిఫాస్
+Zaid,జైద్,Red,ఎర్ర మట్టి,19,103,35,7.02,39,269,63,Gram,సెనగ,Neem Cake,వేపపిండి,Urea,యూరియా,Neem Oil,వేప నూనె,Imidacloprid,ఇమిడాక్లోప్రిడ్
+Rabi,రబీ,Black,నల్ల మట్టి,60,72,115,7.26,16,144,73,Guava,జామ,Compost,కంపోస్ట్,Urea,యూరియా,Neem Oil,వేప నూనె,Chlorpyrifos,క్లోరోపైరిఫాస్
+Kharif,ఖరీఫ్,Loamy,లోమీ,42,65,14,7.2,39,151,65,Mustard,ఆవాలు,Neem Cake,వేపపిండి,NPK,ఎన్‌పీకే,Neem Oil,వేప నూనె,Imidacloprid,ఇమిడాక్లోప్రిడ్
+Zaid,జైద్,Loamy,లోమీ,90,109,72,7.07,26,80,74,Orange,నారింజ,Neem Cake,వేపపిండి,NPK,ఎన్‌పీకే,Chili Spray,మిరప స్ప్రే,Cypermethrin,సైపర్‌మెత్రిన్
+Rabi,రబీ,Clay,బంకమట్టి,113,77,19,6.78,29,118,68,Turmeric,పసుపు,Neem Cake,వేపపిండి,Urea,యూరియా,Neem Oil,వేప నూనె,Cypermethrin,సైపర్‌మెత్రిన్
+Zaid,జైద్,Clay,బంకమట్టి,93,51,109,7.63,24,292,67,Grapes,ద్రాక్ష,Vermicompost,వర్మి కంపోస్ట్,Urea,యూరియా,Neem Oil,వేప నూనె,Cypermethrin,సైపర్‌మెత్రిన్
+Rabi,రబీ,Black,నల్ల మట్టి,16,99,85,6.17,34,199,55,Coriander,కొత్తిమీర,Compost,కంపోస్ట్,MOP,పొటాష్,Chili Spray,మిరప స్ప్రే,Cypermethrin,సైపర్‌మెత్రిన్
+Rabi,రబీ,Red,ఎర్ర మట్టి,98,107,115,7.75,38,145,80,Bitter Gourd,కాకరకాయ,Farmyard Manure,పశువుల ఎరువు,NPK,ఎన్‌పీకే,Neem Oil,వేప నూనె,Cypermethrin,సైపర్‌మెత్రిన్
+Zaid,జైద్,Loamy,లోమీ,78,37,63,5.89,28,205,49,Apple,సేపు,Compost,కంపోస్ట్,Urea,యూరియా,Garlic Spray,వెల్లుల్లి స్ప్రే,Imidacloprid,ఇమిడాక్లోప్రిడ్
+Rabi,రబీ,Sandy,మణల్,50,72,30,7.67,28,167,89,Drumstick,మునగ,Farmyard Manure,పశువుల ఎరువు,Urea,యూరియా,Chili Spray,మిరప స్ప్రే,Cypermethrin,సైపర్‌మెత్రిన్
+Zaid,జైద్,Loamy,లోమీ,29,112,45,6.79,15,72,68,Muskmelon,ఖర్బూజ,Vermicompost,వర్మి కంపోస్ట్,NPK,ఎన్‌పీకే,Neem Oil,వేప నూనె,Chlorpyrifos,క్లోరోపైరిఫాస్
+Zaid,జైద్,Red,ఎర్ర మట్టి,81,23,59,6.27,22,147,30,Sugarcane,చెరకు,Vermicompost,వర్మి కంపోస్ట్,DAP,డిఏపీ,Chili Spray,మిరప స్ప్రే,Imidacloprid,ఇమిడాక్లోప్రిడ్
+Kharif,ఖరీఫ్,Clay,బంకమట్టి,77,19,65,7.25,28,279,35,Banana,అరటి,Neem Cake,వేపపిండి,NPK,ఎన్‌పీకే,Neem Oil,వేప నూనె,Imidacloprid,ఇమిడాక్లోప్రిడ్
+Kharif,ఖరీఫ్,Sandy,మణల్,99,67,86,6.1,31,115,65,Cabbage,క్యాబేజీ,Vermicompost,వర్మి కంపోస్ట్,DAP,డిఏపీ,Chili Spray,మిరప స్ప్రే,Cypermethrin,సైపర్‌మెత్రిన్
+Kharif,ఖరీఫ్,Black,నల్ల మట్టి,56,42,51,8.1,16,68,80,Muskmelon,ఖర్బూజ,Vermicompost,వర్మి కంపోస్ట్,Urea,యూరియా,Chili Spray,మిరప స్ప్రే,Cypermethrin,సైపర్‌మెత్రిన్
+Zaid,జైద్,Sandy,మణల్,37,54,38,7.06,28,288,39,Fenugreek,మెంతికూర,Farmyard Manure,పశువుల ఎరువు,MOP,పొటాష్,Chili Spray,మిరప స్ప్రే,Chlorpyrifos,క్లోరోపైరిఫాస్
+Rabi,రబీ,Black,నల్ల మట్టి,21,81,68,8.08,17,191,61,Cucumber,దోసకాయ,Compost,కంపోస్ట్,DAP,డిఏపీ,Neem Oil,వేప నూనె,Chlorpyrifos,క్లోరోపైరిఫాస్
+Zaid,జైద్,Loamy,లోమీ,25,43,111,8.48,21,86,59,Sunflower,సూర్యకాంతి,Vermicompost,వర్మి కంపోస్ట్,NPK,ఎన్‌పీకే,Chili Spray,మిరప స్ప్రే,Imidacloprid,ఇమిడాక్లోప్రిడ్
+Rabi,రబీ,Loamy,లోమీ,95,117,109,8.25,22,61,49,Turnip,టర్నిప్,Compost,కంపోస్ట్,Urea,యూరియా,Neem Oil,వేప నూనె,Imidacloprid,ఇమిడాక్లోప్రిడ్
+Kharif,ఖరీఫ్,Sandy,మణల్,29,63,47,6.05,20,182,31,Cucumber,దోసకాయ,Vermicompost,వర్మి కంపోస్ట్,NPK,ఎన్‌పీకే,Chili Spray,మిరప స్ప్రే,Imidacloprid,ఇమిడాక్లోప్రిడ్
+Kharif,ఖరీఫ్,Loamy,లోమీ,28,50,66,7.95,29,202,59,Ridge Gourd,బీరకాయ,Vermicompost,వర్మి కంపోస్ట్,Urea,యూరియా,Neem Oil,వేప నూనె,Cypermethrin,సైపర్‌మెత్రిన్
+Kharif,ఖరీఫ్,Black,నల్ల మట్టి,108,83,32,6.19,15,157,78,Pea,బఠాణి,Compost,కంపోస్ట్,Urea,యూరియా,Neem Oil,వేప నూనె,Cypermethrin,సైపర్‌మెత్రిన్
+Kharif,ఖరీఫ్,Black,నల్ల మట్టి,118,39,92,5.9,33,220,60,Turmeric,పసుపు,Compost,కంపోస్ట్,Urea,యూరియా,Garlic Spray,వెల్లుల్లి స్ప్రే,Cypermethrin,సైపర్‌మెత్రిన్
+Rabi,రబీ,Sandy,మణల్,55,115,70,5.5,25,184,32,Mango,మామిడి,Neem Cake,వేపపిండి,DAP,డిఏపీ,Chili Spray,మిరప స్ప్రే,Imidacloprid,ఇమిడాక్లోప్రిడ్
+Kharif,ఖరీఫ్,Sandy,మణల్,44,13,69,8.05,31,232,32,Sorghum,జొన్న,Vermicompost,వర్మి కంపోస్ట్,DAP,డిఏపీ,Neem Oil,వేప నూనె,Imidacloprid,ఇమిడాక్లోప్రిడ్
+Zaid,జైద్,Red,ఎర్ర మట్టి,95,20,79,7.23,35,151,89,Garlic,వెల్లులి,Farmyard Manure,పశువుల ఎరువు,Urea,యూరియా,Neem Oil,వేప నూనె,Chlorpyrifos,క్లోరోపైరిఫాస్
+Zaid,జైద్,Red,ఎర్ర మట్టి,16,21,75,6.96,29,237,30,Groundnut,వేరుశెనగ,Vermicompost,వర్మి కంపోస్ట్,Urea,యూరియా,Neem Oil,వేప నూనె,Cypermethrin,సైపర్‌మెత్రిన్
+Rabi,రబీ,Clay,బంకమట్టి,37,41,88,6.64,29,152,81,Pumpkin,గుమ్మడికాయ,Compost,కంపోస్ట్,Urea,యూరియా,Neem Oil,వేప నూనె,Cypermethrin,సైపర్‌మెత్రిన్
+Rabi,రబీ,Loamy,లోమీ,105,21,73,8.43,15,60,36,Pea,బఠాణి,Compost,కంపోస్ట్,Urea,యూరియా,Neem Oil,వేప నూనె,Cypermethrin,సైపర్‌మెత్రిన్
+Rabi,రబీ,Red,ఎర్ర మట్టి,96,105,71,6.09,19,108,50,Grapes,ద్రాక్ష,Neem Cake,వేపపిండి,MOP,పొటాష్,Garlic Spray,వెల్లుల్లి స్ప్రే,Cypermethrin,సైపర్‌మెత్రిన్
+Rabi,రబీ,Black,నల్ల మట్టి,59,105,32,7.3,15,238,55,Brinjal,వంకాయ,Farmyard Manure,పశువుల ఎరువు,NPK,ఎన్‌పీకే,Chili Spray,మిరప స్ప్రే,Chlorpyrifos,క్లోరోపైరిఫాస్
+Zaid,జైద్,Loamy,లోమీ,96,101,28,7.97,34,107,85,Garlic,వెల్లులి,Vermicompost,వర్మి కంపోస్ట్,NPK,ఎన్‌పీకే,Garlic Spray,వెల్లుల్లి స్ప్రే,Cypermethrin,సైపర్‌మెత్రిన్
+Zaid,జైద్,Red,ఎర్ర మట్టి,51,112,31,5.56,31,175,32,Pea,బఠాణి,Vermicompost,వర్మి కంపోస్ట్,DAP,డిఏపీ,Chili Spray,మిరప స్ప్రే,Cypermethrin,సైపర్‌మెత్రిన్
+Rabi,రబీ,Black,నల్ల మట్టి,22,45,41,6.01,24,214,55,Sorghum,జొన్న,Compost,కంపోస్ట్,NPK,ఎన్‌పీకే,Chili Spray,మిరప స్ప్రే,Cypermethrin,సైపర్‌మెత్రిన్
+Rabi,రబీ,Red,ఎర్ర మట్టి,57,44,12,6.13,23,269,68,Millet,సజ్జ,Compost,కంపోస్ట్,Urea,యూరియా,Chili Spray,మిరప స్ప్రే,Chlorpyrifos,క్లోరోపైరిఫాస్
+Kharif,ఖరీఫ్,Sandy,మణల్,115,73,77,5.92,30,234,65,Cotton,పత్తి,Compost,కంపోస్ట్,DAP,డిఏపీ,Garlic Spray,వెల్లుల్లి స్ప్రే,Chlorpyrifos,క్లోరోపైరిఫాస్
+Rabi,రబీ,Red,ఎర్ర మట్టి,82,26,116,7.68,39,137,84,Pumpkin,గుమ్మడికాయ,Farmyard Manure,పశువుల ఎరువు,MOP,పొటాష్,Neem Oil,వేప నూనె,Imidacloprid,ఇమిడాక్లోప్రిడ్
+Rabi,రబీ,Sandy,మణల్,53,75,88,6.65,39,121,66,Grapes,ద్రాక్ష,Compost,కంపోస్ట్,MOP,పొటాష్,Chili Spray,మిరప స్ప్రే,Imidacloprid,ఇమిడాక్లోప్రిడ్
+Kharif,ఖరీఫ్,Sandy,మణల్,11,99,45,6.41,30,78,33,Fenugreek,మెంతికూర,Compost,కంపోస్ట్,DAP,డిఏపీ,Neem Oil,వేప నూనె,Chlorpyrifos,క్లోరోపైరిఫాస్
+Rabi,రబీ,Red,ఎర్ర మట్టి,62,74,77,6.15,17,269,53,Watermelon,పుచ్చకాయ,Vermicompost,వర్మి కంపోస్ట్,MOP,పొటాష్,Chili Spray,మిరప స్ప్రే,Chlorpyrifos,క్లోరోపైరిఫాస్
+Kharif,ఖరీఫ్,Loamy,లోమీ,52,27,35,6.09,37,179,73,Coriander,కొత్తిమీర,Farmyard Manure,పశువుల ఎరువు,MOP,పొటాష్,Garlic Spray,వెల్లుల్లి స్ప్రే,Cypermethrin,సైపర్‌మెత్రిన్
+Kharif,ఖరీఫ్,Black,నల్ల మట్టి,58,83,113,6.79,30,93,40,Guava,జామ,Neem Cake,వేపపిండి,DAP,డిఏపీ,Garlic Spray,వెల్లుల్లి స్ప్రే,Cypermethrin,సైపర్‌మెత్రిన్
+Zaid,జైద్,Sandy,మణల్,111,30,35,7.24,23,258,37,Cabbage,క్యాబేజీ,Vermicompost,వర్మి కంపోస్ట్,NPK,ఎన్‌పీకే,Chili Spray,మిరప స్ప్రే,Cypermethrin,సైపర్‌మెత్రిన్
+Rabi,రబీ,Sandy,మణల్,59,20,90,5.68,36,70,62,Banana,అరటి,Compost,కంపోస్ట్,NPK,ఎన్‌పీకే,Garlic Spray,వెల్లుల్లి స్ప్రే,Chlorpyrifos,క్లోరోపైరిఫాస్
+Zaid,జైద్,Clay,బంకమట్టి,44,94,19,6.91,33,259,85,Orange,నారింజ,Farmyard Manure,పశువుల ఎరువు,MOP,పొటాష్,Garlic Spray,వెల్లుల్లి స్ప్రే,Cypermethrin,సైపర్‌మెత్రిన్
+Kharif,ఖరీఫ్,Sandy,మణల్,80,36,97,6.92,37,218,30,Pomegranate,దానిమ్మ,Farmyard Manure,పశువుల ఎరువు,Urea,యూరియా,Garlic Spray,వెల్లుల్లి స్ప్రే,Imidacloprid,ఇమిడాక్లోప్రిడ్
+Rabi,రబీ,Sandy,మణల్,66,76,89,8.47,33,235,73,Turmeric,పసుపు,Compost,కంపోస్ట్,MOP,పొటాష్,Neem Oil,వేప నూనె,Chlorpyrifos,క్లోరోపైరిఫాస్
+Rabi,రబీ,Clay,బంకమట్టి,44,77,51,8.38,33,121,71,Pomegranate,దానిమ్మ,Vermicompost,వర్మి కంపోస్ట్,NPK,ఎన్‌పీకే,Neem Oil,వేప నూనె,Cypermethrin,సైపర్‌మెత్రిన్
+Zaid,జైద్,Black,నల్ల మట్టి,91,38,56,7.53,35,186,84,Sorghum,జొన్న,Vermicompost,వర్మి కంపోస్ట్,MOP,పొటాష్,Garlic Spray,వెల్లుల్లి స్ప్రే,Chlorpyrifos,క్లోరోపైరిఫాస్
+Kharif,ఖరీఫ్,Red,ఎర్ర మట్టి,95,11,111,7.21,19,99,56,Lentil,పప్పు,Compost,కంపోస్ట్,DAP,డిఏపీ,Chili Spray,మిరప స్ప్రే,Imidacloprid,ఇమిడాక్లోప్రిడ్
+Kharif,ఖరీఫ్,Loamy,లోమీ,23,11,118,6.12,35,158,69,Beetroot,బీట్‌రూట్,Vermicompost,వర్మి కంపోస్ట్,MOP,పొటాష్,Chili Spray,మిరప స్ప్రే,Cypermethrin,సైపర్‌మెత్రిన్
+Kharif,ఖరీఫ్,Loamy,లోమీ,50,39,67,7.99,18,112,79,Turmeric,పసుపు,Neem Cake,వేపపిండి,MOP,పొటాష్,Neem Oil,వేప నూనె,Cypermethrin,సైపర్‌మెత్రిన్
+Zaid,జైద్,Black,నల్ల మట్టి,94,51,62,8.44,26,270,44,Okra,బెండకాయ,Compost,కంపోస్ట్,MOP,పొటాష్,Chili Spray,మిరప స్ప్రే,Imidacloprid,ఇమిడాక్లోప్రిడ్
+Rabi,రబీ,Sandy,మణల్,15,38,78,8.28,36,184,47,Sugarcane,చెరకు,Vermicompost,వర్మి కంపోస్ట్,DAP,డిఏపీ,Neem Oil,వేప నూనె,Imidacloprid,ఇమిడాక్లోప్రిడ్
+Zaid,జైద్,Sandy,మణల్,11,27,102,5.61,19,70,81,Turmeric,పసుపు,Neem Cake,వేపపిండి,DAP,డిఏపీ,Garlic Spray,వెల్లుల్లి స్ప్రే,Imidacloprid,ఇమిడాక్లోప్రిడ్
+Rabi,రబీ,Loamy,లోమీ,13,71,38,5.84,28,244,82,Barley,యవ,Farmyard Manure,పశువుల ఎరువు,Urea,యూరియా,Neem Oil,వేప నూనె,Chlorpyrifos,క్లోరోపైరిఫాస్
+Kharif,ఖరీఫ్,Red,ఎర్ర మట్టి,94,60,43,5.56,34,223,44,Onion,ఉల్లి,Neem Cake,వేపపిండి,NPK,ఎన్‌పీకే,Chili Spray,మిరప స్ప్రే,Imidacloprid,ఇమిడాక్లోప్రిడ్
+Zaid,జైద్,Loamy,లోమీ,45,48,96,6.81,39,198,87,Garlic,వెల్లులి,Farmyard Manure,పశువుల ఎరువు,DAP,డిఏపీ,Garlic Spray,వెల్లుల్లి స్ప్రే,Imidacloprid,ఇమిడాక్లోప్రిడ్
+Zaid,జైద్,Clay,బంకమట్టి,55,98,59,5.79,19,120,31,Maize,మొక్కజొన్న,Vermicompost,వర్మి కంపోస్ట్,Urea,యూరియా,Garlic Spray,వెల్లుల్లి స్ప్రే,Cypermethrin,సైపర్‌మెత్రిన్
+Rabi,రబీ,Red,ఎర్ర మట్టి,55,31,72,6.8,39,289,86,Cucumber,దోసకాయ,Compost,కంపోస్ట్,DAP,డిఏపీ,Neem Oil,వేప నూనె,Cypermethrin,సైపర్‌మెత్రిన్
+Zaid,జైద్,Red,ఎర్ర మట్టి,28,92,86,6.56,20,238,63,Groundnut,వేరుశెనగ,Neem Cake,వేపపిండి,NPK,ఎన్‌పీకే,Garlic Spray,వెల్లుల్లి స్ప్రే,Chlorpyrifos,క్లోరోపైరిఫాస్
+Kharif,ఖరీఫ్,Clay,బంకమట్టి,73,13,26,5.55,32,71,89,Muskmelon,ఖర్బూజ,Vermicompost,వర్మి కంపోస్ట్,NPK,ఎన్‌పీకే,Neem Oil,వేప నూనె,Chlorpyrifos,క్లోరోపైరిఫాస్
+Kharif,ఖరీఫ్,Red,ఎర్ర మట్టి,19,41,56,6.08,17,62,30,Garlic,వెల్లులి,Neem Cake,వేపపిండి,Urea,యూరియా,Garlic Spray,వెల్లుల్లి స్ప్రే,Imidacloprid,ఇమిడాక్లోప్రిడ్
+Zaid,జైద్,Red,ఎర్ర మట్టి,29,38,110,7.51,39,201,51,Cauliflower,కాలీఫ్లవర్,Farmyard Manure,పశువుల ఎరువు,Urea,యూరియా,Garlic Spray,వెల్లుల్లి స్ప్రే,Chlorpyrifos,క్లోరోపైరిఫాస్
+Rabi,రబీ,Clay,బంకమట్టి,57,37,120,8.2,28,235,84,Garlic,వెల్లులి,Neem Cake,వేపపిండి,Urea,యూరియా,Chili Spray,మిరప స్ప్రే,Imidacloprid,ఇమిడాక్లోప్రిడ్
+Rabi,రబీ,Sandy,మణల్,46,38,94,7.11,37,127,37,Wheat,గోధుమ,Neem Cake,వేపపిండి,Urea,యూరియా,Chili Spray,మిరప స్ప్రే,Chlorpyrifos,క్లోరోపైరిఫాస్
+Zaid,జైద్,Sandy,మణల్,56,46,50,7.95,34,251,34,Potato,ఆలుగడ్డ,Farmyard Manure,పశువుల ఎరువు,MOP,పొటాష్,Neem Oil,వేప నూనె,Imidacloprid,ఇమిడాక్లోప్రిడ్
+Zaid,జైద్,Clay,బంకమట్టి,104,94,64,5.53,39,57,84,Lentil,పప్పు,Vermicompost,వర్మి కంపోస్ట్,DAP,డిఏపీ,Neem Oil,వేప నూనె,Imidacloprid,ఇమిడాక్లోప్రిడ్
+Zaid,జైద్,Loamy,లోమీ,72,113,12,8.02,37,211,89,Garlic,వెల్లులి,Farmyard Manure,పశువుల ఎరువు,Urea,యూరియా,Neem Oil,వేప నూనె,Cypermethrin,సైపర్‌మెత్రిన్
+Zaid,జైద్,Black,నల్ల మట్టి,77,63,57,5.81,40,286,63,Mustard,ఆవాలు,Neem Cake,వేపపిండి,DAP,డిఏపీ,Garlic Spray,వెల్లుల్లి స్ప్రే,Chlorpyrifos,క్లోరోపైరిఫాస్
+Zaid,జైద్,Loamy,లోమీ,60,53,27,7.59,26,89,44,Drumstick,మునగ,Farmyard Manure,పశువుల ఎరువు,NPK,ఎన్‌పీకే,Garlic Spray,వెల్లుల్లి స్ప్రే,Chlorpyrifos,క్లోరోపైరిఫాస్
+Kharif,ఖరీఫ్,Clay,బంకమట్టి,110,79,109,8.06,28,162,76,Papaya,బొప్పాయి,Farmyard Manure,పశువుల ఎరువు,DAP,డిఏపీ,Chili Spray,మిరప స్ప్రే,Cypermethrin,సైపర్‌మెత్రిన్
+Rabi,రబీ,Black,నల్ల మట్టి,75,65,67,5.8,31,64,30,Onion,ఉల్లి,Compost,కంపోస్ట్,MOP,పొటాష్,Chili Spray,మిరప స్ప్రే,Cypermethrin,సైపర్‌మెత్రిన్
+Rabi,రబీ,Sandy,మణల్,18,34,60,6.79,29,185,72,Maize,మొక్కజొన్న,Neem Cake,వేపపిండి,Urea,యూరియా,Chili Spray,మిరప స్ప్రే,Cypermethrin,సైపర్‌మెత్రిన్
+Rabi,రబీ,Sandy,మణల్,103,35,112,5.91,21,157,86,Carrot,గాజర్,Neem Cake,వేపపిండి,MOP,పొటాష్,Neem Oil,వేప నూనె,Chlorpyrifos,క్లోరోపైరిఫాస్
+Rabi,రబీ,Sandy,మణల్,84,84,20,5.52,35,81,53,Millet,సజ్జ,Compost,కంపోస్ట్,MOP,పొటాష్,Chili Spray,మిరప స్ప్రే,Imidacloprid,ఇమిడాక్లోప్రిడ్
+Rabi,రబీ,Sandy,మణల్,68,73,57,6.96,33,130,59,Watermelon,పుచ్చకాయ,Farmyard Manure,పశువుల ఎరువు,DAP,డిఏపీ,Garlic Spray,వెల్లుల్లి స్ప్రే,Cypermethrin,సైపర్‌మెత్రిన్
+Kharif,ఖరీఫ్,Sandy,మణల్,29,35,87,6.84,33,182,68,Brinjal,వంకాయ,Farmyard Manure,పశువుల ఎరువు,Urea,యూరియా,Garlic Spray,వెల్లుల్లి స్ప్రే,Cypermethrin,సైపర్‌మెత్రిన్
+Kharif,ఖరీఫ్,Sandy,మణల్,69,25,58,5.63,20,215,79,Turmeric,పసుపు,Neem Cake,వేపపిండి,Urea,యూరియా,Neem Oil,వేప నూనె,Imidacloprid,ఇమిడాక్లోప్రిడ్
+Kharif,ఖరీఫ్,Sandy,మణల్,14,106,62,5.96,40,64,37,Grapes,ద్రాక్ష,Vermicompost,వర్మి కంపోస్ట్,Urea,యూరియా,Garlic Spray,వెల్లుల్లి స్ప్రే,Cypermethrin,సైపర్‌మెత్రిన్
+Kharif,ఖరీఫ్,Clay,బంకమట్టి,60,71,41,6.45,16,163,44,Pomegranate,దానిమ్మ,Farmyard Manure,పశువుల ఎరువు,DAP,డిఏపీ,Neem Oil,వేప నూనె,Chlorpyrifos,క్లోరోపైరిఫాస్
+Zaid,జైద్,Black,నల్ల మట్టి,41,69,24,8.4,36,188,52,Drumstick,మునగ,Neem Cake,వేపపిండి,DAP,డిఏపీ,Neem Oil,వేప నూనె,Chlorpyrifos,క్లోరోపైరిఫాస్
+Kharif,ఖరీఫ్,Black,నల్ల మట్టి,20,100,13,7.58,37,244,64,Spinach,పాలకూర,Compost,కంపోస్ట్,NPK,ఎన్‌పీకే,Neem Oil,వేప నూనె,Chlorpyrifos,క్లోరోపైరిఫాస్
+Rabi,రబీ,Clay,బంకమట్టి,118,18,10,6.78,38,229,46,Lemon,నిమ్మ,Compost,కంపోస్ట్,DAP,డిఏపీ,Neem Oil,వేప నూనె,Cypermethrin,సైపర్‌మెత్రిన్
+Kharif,ఖరీఫ్,Loamy,లోమీ,29,26,15,5.68,25,110,69,Garlic,వెల్లులి,Compost,కంపోస్ట్,Urea,యూరియా,Chili Spray,మిరప స్ప్రే,Imidacloprid,ఇమిడాక్లోప్రిడ్
+Kharif,ఖరీఫ్,Red,ఎర్ర మట్టి,58,99,14,6.71,27,141,52,Lemon,నిమ్మ,Neem Cake,వేపపిండి,DAP,డిఏపీ,Garlic Spray,వెల్లుల్లి స్ప్రే,Chlorpyrifos,క్లోరోపైరిఫాస్
+Rabi,రబీ,Sandy,మణల్,33,74,97,6.01,32,276,40,Mango,మామిడి,Vermicompost,వర్మి కంపోస్ట్,NPK,ఎన్‌పీకే,Neem Oil,వేప నూనె,Cypermethrin,సైపర్‌మెత్రిన్
+Rabi,రబీ,Clay,బంకమట్టి,103,115,19,6.7,18,188,67,Tomato,టమోటా,Compost,కంపోస్ట్,NPK,ఎన్‌పీకే,Neem Oil,వేప నూనె,Cypermethrin,సైపర్‌మెత్రిన్
+Rabi,రబీ,Loamy,లోమీ,49,58,93,6.37,19,170,62,Soybean,సోయాబీన్,Vermicompost,వర్మి కంపోస్ట్,DAP,డిఏపీ,Neem Oil,వేప నూనె,Chlorpyrifos,క్లోరోపైరిఫాస్
+Zaid,జైద్,Sandy,మణల్,11,94,11,6.14,39,181,77,Coriander,కొత్తిమీర,Farmyard Manure,పశువుల ఎరువు,MOP,పొటాష్,Garlic Spray,వెల్లుల్లి స్ప్రే,Imidacloprid,ఇమిడాక్లోప్రిడ్
+Kharif,ఖరీఫ్,Red,ఎర్ర మట్టి,110,118,12,6.46,20,212,55,Brinjal,వంకాయ,Compost,కంపోస్ట్,DAP,డిఏపీ,Chili Spray,మిరప స్ప్రే,Cypermethrin,సైపర్‌మెత్రిన్
+Zaid,జైద్,Red,ఎర్ర మట్టి,49,56,59,7.15,20,298,53,Rice,వరి,Compost,కంపోస్ట్,NPK,ఎన్‌పీకే,Garlic Spray,వెల్లుల్లి స్ప్రే,Cypermethrin,సైపర్‌మెత్రిన్
+Zaid,జైద్,Sandy,మణల్,104,51,119,6.48,21,94,85,Brinjal,వంకాయ,Compost,కంపోస్ట్,DAP,డిఏపీ,Neem Oil,వేప నూనె,Cypermethrin,సైపర్‌మెత్రిన్
+Zaid,జైద్,Loamy,లోమీ,66,81,62,7.75,33,134,48,Pea,బఠాణి,Compost,కంపోస్ట్,MOP,పొటాష్,Chili Spray,మిరప స్ప్రే,Cypermethrin,సైపర్‌మెత్రిన్
+Kharif,ఖరీఫ్,Sandy,మణల్,21,87,65,6.59,25,187,54,Grapes,ద్రాక్ష,Neem Cake,వేపపిండి,NPK,ఎన్‌పీకే,Chili Spray,మిరప స్ప్రే,Imidacloprid,ఇమిడాక్లోప్రిడ్
+Kharif,ఖరీఫ్,Red,ఎర్ర మట్టి,67,38,19,6.38,32,211,53,Bottle Gourd,సొరకాయ,Neem Cake,వేపపిండి,Urea,యూరియా,Chili Spray,మిరప స్ప్రే,Chlorpyrifos,క్లోరోపైరిఫాస్
+Kharif,ఖరీఫ్,Sandy,మణల్,27,29,72,5.79,18,297,85,Barley,యవ,Compost,కంపోస్ట్,NPK,ఎన్‌పీకే,Neem Oil,వేప నూనె,Imidacloprid,ఇమిడాక్లోప్రిడ్
+Rabi,రబీ,Loamy,లోమీ,30,86,72,6.44,40,215,49,Ginger,అల్లం,Compost,కంపోస్ట్,NPK,ఎన్‌పీకే,Chili Spray,మిరప స్ప్రే,Cypermethrin,సైపర్‌మెత్రిన్
+Zaid,జైద్,Clay,బంకమట్టి,79,105,90,8.5,31,297,79,Lemon,నిమ్మ,Farmyard Manure,పశువుల ఎరువు,DAP,డిఏపీ,Chili Spray,మిరప స్ప్రే,Cypermethrin,సైపర్‌మెత్రిన్
+Kharif,ఖరీఫ్,Clay,బంకమట్టి,13,77,60,7.32,38,217,47,Gram,సెనగ,Vermicompost,వర్మి కంపోస్ట్,NPK,ఎన్‌పీకే,Neem Oil,వేప నూనె,Chlorpyrifos,క్లోరోపైరిఫాస్
+Rabi,రబీ,Loamy,లోమీ,18,46,114,6.42,24,294,53,Orange,నారింజ,Vermicompost,వర్మి కంపోస్ట్,NPK,ఎన్‌పీకే,Neem Oil,వేప నూనె,Cypermethrin,సైపర్‌మెత్రిన్
+Rabi,రబీ,Clay,బంకమట్టి,49,89,36,6.38,34,122,41,Beetroot,బీట్‌రూట్,Compost,కంపోస్ట్,MOP,పొటాష్,Neem Oil,వేప నూనె,Chlorpyrifos,క్లోరోపైరిఫాస్
+Kharif,ఖరీఫ్,Loamy,లోమీ,98,56,73,6.22,22,166,38,Onion,ఉల్లి,Neem Cake,వేపపిండి,Urea,యూరియా,Chili Spray,మిరప స్ప్రే,Imidacloprid,ఇమిడాక్లోప్రిడ్
+Rabi,రబీ,Black,నల్ల మట్టి,58,109,79,6.14,27,136,39,Onion,ఉల్లి,Neem Cake,వేపపిండి,Urea,యూరియా,Garlic Spray,వెల్లుల్లి స్ప్రే,Imidacloprid,ఇమిడాక్లోప్రిడ్
+Kharif,ఖరీఫ్,Sandy,మణల్,75,32,37,8.38,35,50,72,Sugarcane,చెరకు,Compost,కంపోస్ట్,DAP,డిఏపీ,Chili Spray,మిరప స్ప్రే,Chlorpyrifos,క్లోరోపైరిఫాస్
+Kharif,ఖరీఫ్,Black,నల్ల మట్టి,81,90,111,6.71,39,191,35,Pea,బఠాణి,Farmyard Manure,పశువుల ఎరువు,DAP,డిఏపీ,Chili Spray,మిరప స్ప్రే,Imidacloprid,ఇమిడాక్లోప్రిడ్
+Zaid,జైద్,Black,నల్ల మట్టి,19,19,37,7.53,30,202,66,Ginger,అల్లం,Farmyard Manure,పశువుల ఎరువు,NPK,ఎన్‌పీకే,Chili Spray,మిరప స్ప్రే,Imidacloprid,ఇమిడాక్లోప్రిడ్
+Rabi,రబీ,Loamy,లోమీ,110,110,29,7.56,17,73,77,Pea,బఠాణి,Compost,కంపోస్ట్,NPK,ఎన్‌పీకే,Chili Spray,మిరప స్ప్రే,Cypermethrin,సైపర్‌మెత్రిన్
+Rabi,రబీ,Red,ఎర్ర మట్టి,37,18,74,6.11,24,194,69,Radish,ముల్లంగి,Vermicompost,వర్మి కంపోస్ట్,DAP,డిఏపీ,Garlic Spray,వెల్లుల్లి స్ప్రే,Cypermethrin,సైపర్‌మెత్రిన్
+Rabi,రబీ,Red,ఎర్ర మట్టి,95,59,91,6.72,24,52,49,Bottle Gourd,సొరకాయ,Vermicompost,వర్మి కంపోస్ట్,DAP,డిఏపీ,Garlic Spray,వెల్లుల్లి స్ప్రే,Cypermethrin,సైపర్‌మెత్రిన్
+Kharif,ఖరీఫ్,Clay,బంకమట్టి,14,25,83,7.57,40,115,59,Beetroot,బీట్‌రూట్,Compost,కంపోస్ట్,NPK,ఎన్‌పీకే,Chili Spray,మిరప స్ప్రే,Cypermethrin,సైపర్‌మెత్రిన్
+Rabi,రబీ,Sandy,మణల్,75,20,76,5.92,27,113,37,Rice,వరి,Vermicompost,వర్మి కంపోస్ట్,DAP,డిఏపీ,Chili Spray,మిరప స్ప్రే,Cypermethrin,సైపర్‌మెత్రిన్
+Rabi,రబీ,Black,నల్ల మట్టి,90,44,37,7.27,34,202,45,Cucumber,దోసకాయ,Neem Cake,వేపపిండి,MOP,పొటాష్,Garlic Spray,వెల్లుల్లి స్ప్రే,Imidacloprid,ఇమిడాక్లోప్రిడ్
+Rabi,రబీ,Black,నల్ల మట్టి,90,105,81,8.03,25,158,75,Turnip,టర్నిప్,Compost,కంపోస్ట్,DAP,డిఏపీ,Neem Oil,వేప నూనె,Chlorpyrifos,క్లోరోపైరిఫాస్
+Zaid,జైద్,Clay,బంకమట్టి,48,38,90,6.79,19,243,86,Potato,ఆలుగడ్డ,Compost,కంపోస్ట్,NPK,ఎన్‌పీకే,Neem Oil,వేప నూనె,Imidacloprid,ఇమిడాక్లోప్రిడ్
+Rabi,రబీ,Loamy,లోమీ,16,61,61,6.46,39,234,86,Cucumber,దోసకాయ,Neem Cake,వేపపిండి,Urea,యూరియా,Chili Spray,మిరప స్ప్రే,Cypermethrin,సైపర్‌మెత్రిన్
+Rabi,రబీ,Black,నల్ల మట్టి,28,85,13,6.11,33,213,53,Gram,సెనగ,Compost,కంపోస్ట్,Urea,యూరియా,Chili Spray,మిరప స్ప్రే,Imidacloprid,ఇమిడాక్లోప్రిడ్
+Zaid,జైద్,Clay,బంకమట్టి,111,109,112,6.52,32,267,62,Garlic,వెల్లులి,Vermicompost,వర్మి కంపోస్ట్,DAP,డిఏపీ,Garlic Spray,వెల్లుల్లి స్ప్రే,Chlorpyrifos,క్లోరోపైరిఫాస్
+Kharif,ఖరీఫ్,Clay,బంకమట్టి,11,55,47,7.36,33,223,56,Brinjal,వంకాయ,Farmyard Manure,పశువుల ఎరువు,DAP,డిఏపీ,Garlic Spray,వెల్లుల్లి స్ప్రే,Imidacloprid,ఇమిడాక్లోప్రిడ్
+Rabi,రబీ,Black,నల్ల మట్టి,17,72,107,5.75,15,213,60,Drumstick,మునగ,Neem Cake,వేపపిండి,MOP,పొటాష్,Chili Spray,మిరప స్ప్రే,Chlorpyrifos,క్లోరోపైరిఫాస్
+Kharif,ఖరీఫ్,Loamy,లోమీ,66,56,108,5.52,24,57,52,Sorghum,జొన్న,Compost,కంపోస్ట్,MOP,పొటాష్,Chili Spray,మిరప స్ప్రే,Cypermethrin,సైపర్‌మెత్రిన్
+Kharif,ఖరీఫ్,Red,ఎర్ర మట్టి,54,58,101,7.72,30,72,51,Groundnut,వేరుశెనగ,Vermicompost,వర్మి కంపోస్ట్,MOP,పొటాష్,Chili Spray,మిరప స్ప్రే,Chlorpyrifos,క్లోరోపైరిఫాస్
+Zaid,జైద్,Loamy,లోమీ,13,55,37,8.2,31,202,58,Carrot,గాజర్,Compost,కంపోస్ట్,DAP,డిఏపీ,Neem Oil,వేప నూనె,Chlorpyrifos,క్లోరోపైరిఫాస్
+Rabi,రబీ,Sandy,మణల్,30,10,41,7.7,17,297,80,Barley,యవ,Farmyard Manure,పశువుల ఎరువు,DAP,డిఏపీ,Garlic Spray,వెల్లుల్లి స్ప్రే,Imidacloprid,ఇమిడాక్లోప్రిడ్
+Zaid,జైద్,Loamy,లోమీ,25,83,20,8.41,39,287,55,Muskmelon,ఖర్బూజ,Vermicompost,వర్మి కంపోస్ట్,NPK,ఎన్‌పీకే,Chili Spray,మిరప స్ప్రే,Imidacloprid,ఇమిడాక్లోప్రిడ్
+Zaid,జైద్,Black,నల్ల మట్టి,40,103,12,7.55,27,119,41,Sorghum,జొన్న,Compost,కంపోస్ట్,DAP,డిఏపీ,Neem Oil,వేప నూనె,Imidacloprid,ఇమిడాక్లోప్రిడ్
+Zaid,జైద్,Loamy,లోమీ,109,115,21,7.16,34,277,73,Sugarcane,చెరకు,Neem Cake,వేపపిండి,DAP,డిఏపీ,Chili Spray,మిరప స్ప్రే,Chlorpyrifos,క్లోరోపైరిఫాస్
+Zaid,జైద్,Black,నల్ల మట్టి,101,32,25,6.51,20,271,48,Tomato,టమోటా,Vermicompost,వర్మి కంపోస్ట్,Urea,యూరియా,Garlic Spray,వెల్లుల్లి స్ప్రే,Chlorpyrifos,క్లోరోపైరిఫాస్
+Zaid,జైద్,Loamy,లోమీ,34,25,15,6.5,24,129,56,Ridge Gourd,బీరకాయ,Farmyard Manure,పశువుల ఎరువు,DAP,డిఏపీ,Chili Spray,మిరప స్ప్రే,Imidacloprid,ఇమిడాక్లోప్రిడ్
+Kharif,ఖరీఫ్,Black,నల్ల మట్టి,19,15,45,6.01,38,117,74,Sorghum,జొన్న,Compost,కంపోస్ట్,Urea,యూరియా,Neem Oil,వేప నూనె,Chlorpyrifos,క్లోరోపైరిఫాస్
+Zaid,జైద్,Clay,బంకమట్టి,78,15,18,8.29,22,290,33,Mango,మామిడి,Compost,కంపోస్ట్,Urea,యూరియా,Chili Spray,మిరప స్ప్రే,Cypermethrin,సైపర్‌మెత్రిన్
+Rabi,రబీ,Clay,బంకమట్టి,17,108,104,8.39,34,56,56,Pumpkin,గుమ్మడికాయ,Vermicompost,వర్మి కంపోస్ట్,Urea,యూరియా,Garlic Spray,వెల్లుల్లి స్ప్రే,Imidacloprid,ఇమిడాక్లోప్రిడ్
+Zaid,జైద్,Red,ఎర్ర మట్టి,85,111,78,7.35,35,59,51,Spinach,పాలకూర,Neem Cake,వేపపిండి,MOP,పొటాష్,Neem Oil,వేప నూనె,Chlorpyrifos,క్లోరోపైరిఫాస్
+Kharif,ఖరీఫ్,Sandy,మణల్,95,35,65,8.24,36,76,50,Beetroot,బీట్‌రూట్,Farmyard Manure,పశువుల ఎరువు,MOP,పొటాష్,Chili Spray,మిరప స్ప్రే,Cypermethrin,సైపర్‌మెత్రిన్
+Rabi,రబీ,Sandy,మణల్,32,10,18,8.45,21,51,62,Banana,అరటి,Neem Cake,వేపపిండి,MOP,పొటాష్,Garlic Spray,వెల్లుల్లి స్ప్రే,Cypermethrin,సైపర్‌మెత్రిన్
+Rabi,రబీ,Loamy,లోమీ,119,113,22,6.16,29,295,70,Papaya,బొప్పాయి,Neem Cake,వేపపిండి,MOP,పొటాష్,Garlic Spray,వెల్లుల్లి స్ప్రే,Cypermethrin,సైపర్‌మెత్రిన్
+Zaid,జైద్,Black,నల్ల మట్టి,116,82,54,8.04,27,164,68,Sorghum,జొన్న,Neem Cake,వేపపిండి,MOP,పొటాష్,Neem Oil,వేప నూనె,Chlorpyrifos,క్లోరోపైరిఫాస్
+Zaid,జైద్,Clay,బంకమట్టి,88,56,26,7.85,31,258,75,Turnip,టర్నిప్,Vermicompost,వర్మి కంపోస్ట్,MOP,పొటాష్,Garlic Spray,వెల్లుల్లి స్ప్రే,Imidacloprid,ఇమిడాక్లోప్రిడ్
+Kharif,ఖరీఫ్,Clay,బంకమట్టి,69,109,105,8.25,30,174,72,Watermelon,పుచ్చకాయ,Compost,కంపోస్ట్,DAP,డిఏపీ,Garlic Spray,వెల్లుల్లి స్ప్రే,Cypermethrin,సైపర్‌మెత్రిన్
+Kharif,ఖరీఫ్,Black,నల్ల మట్టి,78,91,108,8.07,18,286,76,Onion,ఉల్లి,Vermicompost,వర్మి కంపోస్ట్,DAP,డిఏపీ,Chili Spray,మిరప స్ప్రే,Chlorpyrifos,క్లోరోపైరిఫాస్
+Rabi,రబీ,Loamy,లోమీ,19,43,89,5.98,19,271,53,Pumpkin,గుమ్మడికాయ,Neem Cake,వేపపిండి,MOP,పొటాష్,Chili Spray,మిరప స్ప్రే,Imidacloprid,ఇమిడాక్లోప్రిడ్
+Rabi,రబీ,Sandy,మణల్,10,115,87,6.71,17,242,76,Sorghum,జొన్న,Compost,కంపోస్ట్,MOP,పొటాష్,Neem Oil,వేప నూనె,Chlorpyrifos,క్లోరోపైరిఫాస్
+Zaid,జైద్,Sandy,మణల్,116,81,10,7.35,34,106,37,Bottle Gourd,సొరకాయ,Vermicompost,వర్మి కంపోస్ట్,NPK,ఎన్‌పీకే,Garlic Spray,వెల్లుల్లి స్ప్రే,Chlorpyrifos,క్లోరోపైరిఫాస్
+Rabi,రబీ,Black,నల్ల మట్టి,89,114,30,5.9,34,102,75,Onion,ఉల్లి,Vermicompost,వర్మి కంపోస్ట్,Urea,యూరియా,Neem Oil,వేప నూనె,Cypermethrin,సైపర్‌మెత్రిన్
+Zaid,జైద్,Red,ఎర్ర మట్టి,96,45,50,8.08,36,289,65,Ridge Gourd,బీరకాయ,Vermicompost,వర్మి కంపోస్ట్,NPK,ఎన్‌పీకే,Chili Spray,మిరప స్ప్రే,Cypermethrin,సైపర్‌మెత్రిన్
+Rabi,రబీ,Loamy,లోమీ,52,92,49,6.2,32,293,81,Cotton,పత్తి,Vermicompost,వర్మి కంపోస్ట్,Urea,యూరియా,Chili Spray,మిరప స్ప్రే,Cypermethrin,సైపర్‌మెత్రిన్
+Kharif,ఖరీఫ్,Black,నల్ల మట్టి,37,88,69,7.28,25,112,37,Pumpkin,గుమ్మడికాయ,Neem Cake,వేపపిండి,NPK,ఎన్‌పీకే,Chili Spray,మిరప స్ప్రే,Chlorpyrifos,క్లోరోపైరిఫాస్
+Zaid,జైద్,Loamy,లోమీ,58,119,34,7.09,33,114,42,Apple,సేపు,Farmyard Manure,పశువుల ఎరువు,Urea,యూరియా,Neem Oil,వేప నూనె,Chlorpyrifos,క్లోరోపైరిఫాస్
+Rabi,రబీ,Red,ఎర్ర మట్టి,89,21,108,5.76,24,241,39,Papaya,బొప్పాయి,Compost,కంపోస్ట్,Urea,యూరియా,Garlic Spray,వెల్లుల్లి స్ప్రే,Chlorpyrifos,క్లోరోపైరిఫాస్
+Kharif,ఖరీఫ్,Sandy,మణల్,68,29,35,6.07,31,65,56,Apple,సేపు,Vermicompost,వర్మి కంపోస్ట్,NPK,ఎన్‌పీకే,Neem Oil,వేప నూనె,Chlorpyrifos,క్లోరోపైరిఫాస్
+Zaid,జైద్,Sandy,మణల్,80,120,120,7.58,19,219,76,Papaya,బొప్పాయి,Neem Cake,వేపపిండి,Urea,యూరియా,Garlic Spray,వెల్లుల్లి స్ప్రే,Cypermethrin,సైపర్‌మెత్రిన్
+Zaid,జైద్,Loamy,లోమీ,43,47,84,7.49,28,226,37,Okra,బెండకాయ,Vermicompost,వర్మి కంపోస్ట్,DAP,డిఏపీ,Chili Spray,మిరప స్ప్రే,Chlorpyrifos,క్లోరోపైరిఫాస్
+Zaid,జైద్,Sandy,మణల్,67,95,40,8.36,24,222,90,Watermelon,పుచ్చకాయ,Compost,కంపోస్ట్,MOP,పొటాష్,Chili Spray,మిరప స్ప్రే,Imidacloprid,ఇమిడాక్లోప్రిడ్
+Rabi,రబీ,Sandy,మణల్,24,108,37,7.58,34,203,65,Bitter Gourd,కాకరకాయ,Farmyard Manure,పశువుల ఎరువు,MOP,పొటాష్,Neem Oil,వేప నూనె,Cypermethrin,సైపర్‌మెత్రిన్
+Rabi,రబీ,Sandy,మణల్,77,17,38,5.96,34,77,57,Barley,యవ,Farmyard Manure,పశువుల ఎరువు,DAP,డిఏపీ,Garlic Spray,వెల్లుల్లి స్ప్రే,Imidacloprid,ఇమిడాక్లోప్రిడ్
+Rabi,రబీ,Red,ఎర్ర మట్టి,11,83,26,7.34,20,244,57,Ginger,అల్లం,Vermicompost,వర్మి కంపోస్ట్,NPK,ఎన్‌పీకే,Neem Oil,వేప నూనె,Chlorpyrifos,క్లోరోపైరిఫాస్
+Kharif,ఖరీఫ్,Loamy,లోమీ,43,40,48,7.25,19,269,51,Sugarcane,చెరకు,Compost,కంపోస్ట్,Urea,యూరియా,Garlic Spray,వెల్లుల్లి స్ప్రే,Imidacloprid,ఇమిడాక్లోప్రిడ్
+Rabi,రబీ,Clay,బంకమట్టి,66,49,112,6.34,21,284,39,Cucumber,దోసకాయ,Compost,కంపోస్ట్,Urea,యూరియా,Neem Oil,వేప నూనె,Imidacloprid,ఇమిడాక్లోప్రిడ్
+Zaid,జైద్,Clay,బంకమట్టి,71,96,84,8.42,35,182,36,Guava,జామ,Neem Cake,వేపపిండి,Urea,యూరియా,Neem Oil,వేప నూనె,Cypermethrin,సైపర్‌మెత్రిన్
+Zaid,జైద్,Black,నల్ల మట్టి,18,101,50,8.26,34,152,31,Millet,సజ్జ,Compost,కంపోస్ట్,NPK,ఎన్‌పీకే,Garlic Spray,వెల్లుల్లి స్ప్రే,Imidacloprid,ఇమిడాక్లోప్రిడ్
+Zaid,జైద్,Black,నల్ల మట్టి,48,27,114,7.42,38,240,77,Orange,నారింజ,Neem Cake,వేపపిండి,MOP,పొటాష్,Garlic Spray,వెల్లుల్లి స్ప్రే,Cypermethrin,సైపర్‌మెత్రిన్
+Kharif,ఖరీఫ్,Loamy,లోమీ,44,90,74,7.34,38,60,82,Ridge Gourd,బీరకాయ,Vermicompost,వర్మి కంపోస్ట్,NPK,ఎన్‌పీకే,Chili Spray,మిరప స్ప్రే,Cypermethrin,సైపర్‌మెత్రిన్
+Zaid,జైద్,Loamy,లోమీ,25,33,79,7.64,33,173,48,Groundnut,వేరుశెనగ,Compost,కంపోస్ట్,MOP,పొటాష్,Chili Spray,మిరప స్ప్రే,Imidacloprid,ఇమిడాక్లోప్రిడ్
+Rabi,రబీ,Black,నల్ల మట్టి,81,19,76,6.37,24,107,39,Orange,నారింజ,Vermicompost,వర్మి కంపోస్ట్,DAP,డిఏపీ,Garlic Spray,వెల్లుల్లి స్ప్రే,Cypermethrin,సైపర్‌మెత్రిన్
+Rabi,రబీ,Sandy,మణల్,39,40,25,6.92,28,164,36,Gram,సెనగ,Neem Cake,వేపపిండి,Urea,యూరియా,Chili Spray,మిరప స్ప్రే,Cypermethrin,సైపర్‌మెత్రిన్
+Kharif,ఖరీఫ్,Clay,బంకమట్టి,55,89,50,7.7,21,195,84,Fenugreek,మెంతికూర,Neem Cake,వేపపిండి,DAP,డిఏపీ,Neem Oil,వేప నూనె,Cypermethrin,సైపర్‌మెత్రిన్
+Rabi,రబీ,Red,ఎర్ర మట్టి,31,57,89,6.0,24,155,66,Chilli,మిర్చి,Farmyard Manure,పశువుల ఎరువు,Urea,యూరియా,Garlic Spray,వెల్లుల్లి స్ప్రే,Cypermethrin,సైపర్‌మెత్రిన్
+Rabi,రబీ,Loamy,లోమీ,85,10,60,8.46,40,209,41,Coriander,కొత్తిమీర,Compost,కంపోస్ట్,DAP,డిఏపీ,Chili Spray,మిరప స్ప్రే,Cypermethrin,సైపర్‌మెత్రిన్
+Rabi,రబీ,Loamy,లోమీ,39,32,33,6.7,16,281,78,Carrot,గాజర్,Neem Cake,వేపపిండి,Urea,యూరియా,Garlic Spray,వెల్లుల్లి స్ప్రే,Chlorpyrifos,క్లోరోపైరిఫాస్
+Zaid,జైద్,Red,ఎర్ర మట్టి,97,88,78,7.22,16,57,40,Cauliflower,కాలీఫ్లవర్,Farmyard Manure,పశువుల ఎరువు,NPK,ఎన్‌పీకే,Chili Spray,మిరప స్ప్రే,Imidacloprid,ఇమిడాక్లోప్రిడ్
+Kharif,ఖరీఫ్,Loamy,లోమీ,60,114,92,8.45,33,94,71,Pea,బఠాణి,Farmyard Manure,పశువుల ఎరువు,NPK,ఎన్‌పీకే,Chili Spray,మిరప స్ప్రే,Imidacloprid,ఇమిడాక్లోప్రిడ్
+Kharif,ఖరీఫ్,Loamy,లోమీ,117,74,55,6.58,22,257,30,Bitter Gourd,కాకరకాయ,Vermicompost,వర్మి కంపోస్ట్,MOP,పొటాష్,Chili Spray,మిరప స్ప్రే,Imidacloprid,ఇమిడాక్లోప్రిడ్
+Zaid,జైద్,Loamy,లోమీ,57,21,77,7.0,27,205,34,Wheat,గోధుమ,Farmyard Manure,పశువుల ఎరువు,DAP,డిఏపీ,Chili Spray,మిరప స్ప్రే,Imidacloprid,ఇమిడాక్లోప్రిడ్
+Zaid,జైద్,Sandy,మణల్,56,46,46,6.64,20,180,39,Soybean,సోయాబీన్,Compost,కంపోస్ట్,MOP,పొటాష్,Neem Oil,వేప నూనె,Imidacloprid,ఇమిడాక్లోప్రిడ్
+Kharif,ఖరీఫ్,Sandy,మణల్,35,25,76,5.9,32,227,40,Radish,ముల్లంగి,Neem Cake,వేపపిండి,MOP,పొటాష్,Garlic Spray,వెల్లుల్లి స్ప్రే,Chlorpyrifos,క్లోరోపైరిఫాస్
+Kharif,ఖరీఫ్,Loamy,లోమీ,15,55,87,5.95,35,58,40,Fenugreek,మెంతికూర,Compost,కంపోస్ట్,DAP,డిఏపీ,Neem Oil,వేప నూనె,Chlorpyrifos,క్లోరోపైరిఫాస్
+Kharif,ఖరీఫ్,Loamy,లోమీ,11,118,82,6.01,32,175,71,Spinach,పాలకూర,Compost,కంపోస్ట్,DAP,డిఏపీ,Neem Oil,వేప నూనె,Imidacloprid,ఇమిడాక్లోప్రిడ్
+Kharif,ఖరీఫ్,Red,ఎర్ర మట్టి,119,120,37,7.4,31,226,44,Radish,ముల్లంగి,Farmyard Manure,పశువుల ఎరువు,Urea,యూరియా,Garlic Spray,వెల్లుల్లి స్ప్రే,Imidacloprid,ఇమిడాక్లోప్రిడ్
+Zaid,జైద్,Red,ఎర్ర మట్టి,48,19,21,6.97,27,257,72,Watermelon,పుచ్చకాయ,Neem Cake,వేపపిండి,NPK,ఎన్‌పీకే,Garlic Spray,వెల్లుల్లి స్ప్రే,Chlorpyrifos,క్లోరోపైరిఫాస్
+Zaid,జైద్,Sandy,మణల్,72,61,107,5.9,25,130,68,Spinach,పాలకూర,Farmyard Manure,పశువుల ఎరువు,Urea,యూరియా,Chili Spray,మిరప స్ప్రే,Imidacloprid,ఇమిడాక్లోప్రిడ్
+Kharif,ఖరీఫ్,Loamy,లోమీ,41,31,96,6.72,21,267,32,Onion,ఉల్లి,Neem Cake,వేపపిండి,MOP,పొటాష్,Chili Spray,మిరప స్ప్రే,Cypermethrin,సైపర్‌మెత్రిన్
+Kharif,ఖరీఫ్,Clay,బంకమట్టి,44,37,112,5.55,29,200,65,Turnip,టర్నిప్,Farmyard Manure,పశువుల ఎరువు,MOP,పొటాష్,Garlic Spray,వెల్లుల్లి స్ప్రే,Imidacloprid,ఇమిడాక్లోప్రిడ్
+Rabi,రబీ,Sandy,మణల్,101,105,52,6.93,32,53,83,Turmeric,పసుపు,Neem Cake,వేపపిండి,Urea,యూరియా,Garlic Spray,వెల్లుల్లి స్ప్రే,Chlorpyrifos,క్లోరోపైరిఫాస్
+Kharif,ఖరీఫ్,Black,నల్ల మట్టి,75,118,64,8.36,24,103,50,Garlic,వెల్లులి,Compost,కంపోస్ట్,Urea,యూరియా,Chili Spray,మిరప స్ప్రే,Chlorpyrifos,క్లోరోపైరిఫాస్
+Zaid,జైద్,Clay,బంకమట్టి,99,36,43,5.71,31,79,36,Cucumber,దోసకాయ,Farmyard Manure,పశువుల ఎరువు,DAP,డిఏపీ,Garlic Spray,వెల్లుల్లి స్ప్రే,Cypermethrin,సైపర్‌మెత్రిన్
+Rabi,రబీ,Black,నల్ల మట్టి,115,44,16,6.15,26,274,31,Okra,బెండకాయ,Farmyard Manure,పశువుల ఎరువు,Urea,యూరియా,Chili Spray,మిరప స్ప్రే,Imidacloprid,ఇమిడాక్లోప్రిడ్
+Kharif,ఖరీఫ్,Black,నల్ల మట్టి,92,63,109,7.08,26,211,76,Cauliflower,కాలీఫ్లవర్,Neem Cake,వేపపిండి,Urea,యూరియా,Garlic Spray,వెల్లుల్లి స్ప్రే,Cypermethrin,సైపర్‌మెత్రిన్
+Rabi,రబీ,Red,ఎర్ర మట్టి,109,26,28,5.96,21,122,73,Spinach,పాలకూర,Vermicompost,వర్మి కంపోస్ట్,NPK,ఎన్‌పీకే,Chili Spray,మిరప స్ప్రే,Imidacloprid,ఇమిడాక్లోప్రిడ్
+Rabi,రబీ,Black,నల్ల మట్టి,65,84,101,7.93,32,77,72,Brinjal,వంకాయ,Neem Cake,వేపపిండి,NPK,ఎన్‌పీకే,Garlic Spray,వెల్లుల్లి స్ప్రే,Cypermethrin,సైపర్‌మెత్రిన్
+Kharif,ఖరీఫ్,Loamy,లోమీ,106,115,95,6.05,32,202,42,Rice,వరి,Compost,కంపోస్ట్,MOP,పొటాష్,Neem Oil,వేప నూనె,Chlorpyrifos,క్లోరోపైరిఫాస్
+Zaid,జైద్,Clay,బంకమట్టి,119,17,84,7.02,19,287,47,Pomegranate,దానిమ్మ,Farmyard Manure,పశువుల ఎరువు,MOP,పొటాష్,Garlic Spray,వెల్లుల్లి స్ప్రే,Imidacloprid,ఇమిడాక్లోప్రిడ్
+Rabi,రబీ,Sandy,మణల్,80,57,115,7.1,18,93,85,Sorghum,జొన్న,Vermicompost,వర్మి కంపోస్ట్,MOP,పొటాష్,Chili Spray,మిరప స్ప్రే,Cypermethrin,సైపర్‌మెత్రిన్
+Kharif,ఖరీఫ్,Clay,బంకమట్టి,59,93,101,7.82,40,286,55,Sorghum,జొన్న,Vermicompost,వర్మి కంపోస్ట్,DAP,డిఏపీ,Neem Oil,వేప నూనె,Chlorpyrifos,క్లోరోపైరిఫాస్
+Rabi,రబీ,Loamy,లోమీ,44,91,63,8.28,35,253,64,Mustard,ఆవాలు,Farmyard Manure,పశువుల ఎరువు,MOP,పొటాష్,Neem Oil,వేప నూనె,Chlorpyrifos,క్లోరోపైరిఫాస్
+Kharif,ఖరీఫ్,Sandy,మణల్,72,22,49,8.07,36,278,58,Sugarcane,చెరకు,Neem Cake,వేపపిండి,DAP,డిఏపీ,Neem Oil,వేప నూనె,Cypermethrin,సైపర్‌మెత్రిన్
+Kharif,ఖరీఫ్,Red,ఎర్ర మట్టి,70,15,94,6.32,35,129,70,Bitter Gourd,కాకరకాయ,Neem Cake,వేపపిండి,MOP,పొటాష్,Garlic Spray,వెల్లుల్లి స్ప్రే,Imidacloprid,ఇమిడాక్లోప్రిడ్
+Kharif,ఖరీఫ్,Clay,బంకమట్టి,100,65,40,7.75,35,177,47,Banana,అరటి,Compost,కంపోస్ట్,DAP,డిఏపీ,Chili Spray,మిరప స్ప్రే,Chlorpyrifos,క్లోరోపైరిఫాస్
+Kharif,ఖరీఫ్,Sandy,మణల్,63,58,62,7.3,15,244,57,Lentil,పప్పు,Farmyard Manure,పశువుల ఎరువు,Urea,యూరియా,Chili Spray,మిరప స్ప్రే,Chlorpyrifos,క్లోరోపైరిఫాస్
+Kharif,ఖరీఫ్,Clay,బంకమట్టి,58,20,79,6.82,21,174,32,Potato,ఆలుగడ్డ,Compost,కంపోస్ట్,DAP,డిఏపీ,Chili Spray,మిరప స్ప్రే,Imidacloprid,ఇమిడాక్లోప్రిడ్
+Rabi,రబీ,Clay,బంకమట్టి,59,98,62,8.21,37,251,90,Maize,మొక్కజొన్న,Neem Cake,వేపపిండి,NPK,ఎన్‌పీకే,Garlic Spray,వెల్లుల్లి స్ప్రే,Chlorpyrifos,క్లోరోపైరిఫాస్
+Zaid,జైద్,Loamy,లోమీ,66,12,98,7.97,21,139,31,Turnip,టర్నిప్,Neem Cake,వేపపిండి,Urea,యూరియా,Neem Oil,వేప నూనె,Chlorpyrifos,క్లోరోపైరిఫాస్
+Rabi,రబీ,Sandy,మణల్,87,53,82,8.4,37,216,53,Groundnut,వేరుశెనగ,Vermicompost,వర్మి కంపోస్ట్,DAP,డిఏపీ,Neem Oil,వేప నూనె,Cypermethrin,సైపర్‌మెత్రిన్
+Rabi,రబీ,Red,ఎర్ర మట్టి,107,17,68,8.28,24,114,43,Fenugreek,మెంతికూర,Compost,కంపోస్ట్,DAP,డిఏపీ,Neem Oil,వేప నూనె,Chlorpyrifos,క్లోరోపైరిఫాస్
+Rabi,రబీ,Red,ఎర్ర మట్టి,56,61,12,7.08,18,63,68,Papaya,బొప్పాయి,Farmyard Manure,పశువుల ఎరువు,Urea,యూరియా,Chili Spray,మిరప స్ప్రే,Cypermethrin,సైపర్‌మెత్రిన్
+Zaid,జైద్,Sandy,మణల్,56,82,84,6.31,23,146,42,Beetroot,బీట్‌రూట్,Compost,కంపోస్ట్,MOP,పొటాష్,Garlic Spray,వెల్లుల్లి స్ప్రే,Imidacloprid,ఇమిడాక్లోప్రిడ్
+Kharif,ఖరీఫ్,Sandy,మణల్,111,108,36,6.37,37,288,88,Grapes,ద్రాక్ష,Neem Cake,వేపపిండి,NPK,ఎన్‌పీకే,Chili Spray,మిరప స్ప్రే,Imidacloprid,ఇమిడాక్లోప్రిడ్
+Rabi,రబీ,Sandy,మణల్,73,49,78,7.94,15,98,89,Drumstick,మునగ,Neem Cake,వేపపిండి,DAP,డిఏపీ,Neem Oil,వేప నూనె,Chlorpyrifos,క్లోరోపైరిఫాస్
+Kharif,ఖరీఫ్,Loamy,లోమీ,58,69,79,6.91,38,210,70,Lemon,నిమ్మ,Compost,కంపోస్ట్,Urea,యూరియా,Neem Oil,వేప నూనె,Chlorpyrifos,క్లోరోపైరిఫాస్
+Kharif,ఖరీఫ్,Clay,బంకమట్టి,75,68,119,6.41,16,108,69,Cucumber,దోసకాయ,Neem Cake,వేపపిండి,DAP,డిఏపీ,Neem Oil,వేప నూనె,Imidacloprid,ఇమిడాక్లోప్రిడ్
+Zaid,జైద్,Red,ఎర్ర మట్టి,74,26,31,6.09,34,188,45,Guava,జామ,Vermicompost,వర్మి కంపోస్ట్,DAP,డిఏపీ,Chili Spray,మిరప స్ప్రే,Chlorpyrifos,క్లోరోపైరిఫాస్
+Rabi,రబీ,Sandy,మణల్,90,96,61,7.45,17,255,42,Cotton,పత్తి,Neem Cake,వేపపిండి,DAP,డిఏపీ,Neem Oil,వేప నూనె,Imidacloprid,ఇమిడాక్లోప్రిడ్
+Rabi,రబీ,Red,ఎర్ర మట్టి,92,72,20,5.81,40,277,47,Rice,వరి,Vermicompost,వర్మి కంపోస్ట్,DAP,డిఏపీ,Chili Spray,మిరప స్ప్రే,Chlorpyrifos,క్లోరోపైరిఫాస్
+Kharif,ఖరీఫ్,Sandy,మణల్,114,49,84,7.67,17,197,82,Chilli,మిర్చి,Neem Cake,వేపపిండి,DAP,డిఏపీ,Chili Spray,మిరప స్ప్రే,Imidacloprid,ఇమిడాక్లోప్రిడ్
+Zaid,జైద్,Loamy,లోమీ,32,32,95,7.12,27,280,64,Banana,అరటి,Neem Cake,వేపపిండి,MOP,పొటాష్,Garlic Spray,వెల్లుల్లి స్ప్రే,Cypermethrin,సైపర్‌మెత్రిన్
+Zaid,జైద్,Red,ఎర్ర మట్టి,28,72,107,7.36,20,119,53,Carrot,గాజర్,Vermicompost,వర్మి కంపోస్ట్,DAP,డిఏపీ,Garlic Spray,వెల్లుల్లి స్ప్రే,Cypermethrin,సైపర్‌మెత్రిన్
+Zaid,జైద్,Red,ఎర్ర మట్టి,78,28,120,6.78,16,178,56,Lentil,పప్పు,Vermicompost,వర్మి కంపోస్ట్,DAP,డిఏపీ,Chili Spray,మిరప స్ప్రే,Cypermethrin,సైపర్‌మెత్రిన్
+Kharif,ఖరీఫ్,Black,నల్ల మట్టి,70,68,85,7.8,36,100,33,Watermelon,పుచ్చకాయ,Vermicompost,వర్మి కంపోస్ట్,Urea,యూరియా,Garlic Spray,వెల్లుల్లి స్ప్రే,Cypermethrin,సైపర్‌మెత్రిన్
+Zaid,జైద్,Sandy,మణల్,70,98,62,7.94,21,175,39,Carrot,గాజర్,Compost,కంపోస్ట్,NPK,ఎన్‌పీకే,Garlic Spray,వెల్లుల్లి స్ప్రే,Cypermethrin,సైపర్‌మెత్రిన్
+Zaid,జైద్,Sandy,మణల్,28,48,33,6.51,17,188,52,Tomato,టమోటా,Neem Cake,వేపపిండి,MOP,పొటాష్,Chili Spray,మిరప స్ప్రే,Imidacloprid,ఇమిడాక్లోప్రిడ్
+Zaid,జైద్,Loamy,లోమీ,102,105,71,6.78,25,55,72,Soybean,సోయాబీన్,Farmyard Manure,పశువుల ఎరువు,NPK,ఎన్‌పీకే,Garlic Spray,వెల్లుల్లి స్ప్రే,Chlorpyrifos,క్లోరోపైరిఫాస్
+Rabi,రబీ,Loamy,లోమీ,39,59,87,7.13,21,257,50,Cucumber,దోసకాయ,Neem Cake,వేపపిండి,MOP,పొటాష్,Garlic Spray,వెల్లుల్లి స్ప్రే,Cypermethrin,సైపర్‌మెత్రిన్
+Kharif,ఖరీఫ్,Sandy,మణల్,42,119,105,5.52,16,70,74,Lemon,నిమ్మ,Compost,కంపోస్ట్,MOP,పొటాష్,Garlic Spray,వెల్లుల్లి స్ప్రే,Cypermethrin,సైపర్‌మెత్రిన్
+Rabi,రబీ,Loamy,లోమీ,60,83,68,6.54,28,215,38,Sorghum,జొన్న,Vermicompost,వర్మి కంపోస్ట్,MOP,పొటాష్,Chili Spray,మిరప స్ప్రే,Cypermethrin,సైపర్‌మెత్రిన్
+Kharif,ఖరీఫ్,Black,నల్ల మట్టి,35,106,88,6.06,19,226,46,Lemon,నిమ్మ,Compost,కంపోస్ట్,MOP,పొటాష్,Garlic Spray,వెల్లుల్లి స్ప్రే,Cypermethrin,సైపర్‌మెత్రిన్
+Kharif,ఖరీఫ్,Clay,బంకమట్టి,59,40,93,7.38,38,125,89,Brinjal,వంకాయ,Neem Cake,వేపపిండి,Urea,యూరియా,Chili Spray,మిరప స్ప్రే,Cypermethrin,సైపర్‌మెత్రిన్
+Rabi,రబీ,Black,నల్ల మట్టి,97,98,70,6.43,20,67,72,Papaya,బొప్పాయి,Farmyard Manure,పశువుల ఎరువు,DAP,డిఏపీ,Neem Oil,వేప నూనె,Chlorpyrifos,క్లోరోపైరిఫాస్
+Kharif,ఖరీఫ్,Red,ఎర్ర మట్టి,79,58,105,7.44,24,241,75,Orange,నారింజ,Compost,కంపోస్ట్,MOP,పొటాష్,Chili Spray,మిరప స్ప్రే,Cypermethrin,సైపర్‌మెత్రిన్
+Zaid,జైద్,Clay,బంకమట్టి,10,38,31,6.81,36,71,41,Cauliflower,కాలీఫ్లవర్,Neem Cake,వేపపిండి,NPK,ఎన్‌పీకే,Chili Spray,మిరప స్ప్రే,Chlorpyrifos,క్లోరోపైరిఫాస్
+Zaid,జైద్,Sandy,మణల్,56,70,106,7.31,33,92,71,Watermelon,పుచ్చకాయ,Farmyard Manure,పశువుల ఎరువు,NPK,ఎన్‌పీకే,Garlic Spray,వెల్లుల్లి స్ప్రే,Imidacloprid,ఇమిడాక్లోప్రిడ్
+Kharif,ఖరీఫ్,Loamy,లోమీ,34,29,56,6.17,20,267,37,Chilli,మిర్చి,Compost,కంపోస్ట్,DAP,డిఏపీ,Neem Oil,వేప నూనె,Imidacloprid,ఇమిడాక్లోప్రిడ్
+Kharif,ఖరీఫ్,Red,ఎర్ర మట్టి,82,88,113,8.09,18,66,48,Watermelon,పుచ్చకాయ,Compost,కంపోస్ట్,Urea,యూరియా,Garlic Spray,వెల్లుల్లి స్ప్రే,Imidacloprid,ఇమిడాక్లోప్రిడ్
+Zaid,జైద్,Clay,బంకమట్టి,44,81,112,6.64,34,58,89,Rice,వరి,Farmyard Manure,పశువుల ఎరువు,DAP,డిఏపీ,Neem Oil,వేప నూనె,Chlorpyrifos,క్లోరోపైరిఫాస్
+Zaid,జైద్,Clay,బంకమట్టి,88,43,59,6.21,35,89,57,Cabbage,క్యాబేజీ,Neem Cake,వేపపిండి,DAP,డిఏపీ,Chili Spray,మిరప స్ప్రే,Imidacloprid,ఇమిడాక్లోప్రిడ్
+Rabi,రబీ,Clay,బంకమట్టి,115,24,48,6.09,40,155,37,Fenugreek,మెంతికూర,Vermicompost,వర్మి కంపోస్ట్,DAP,డిఏపీ,Neem Oil,వేప నూనె,Chlorpyrifos,క్లోరోపైరిఫాస్
+Zaid,జైద్,Black,నల్ల మట్టి,55,49,41,7.18,28,272,81,Potato,ఆలుగడ్డ,Farmyard Manure,పశువుల ఎరువు,DAP,డిఏపీ,Garlic Spray,వెల్లుల్లి స్ప్రే,Cypermethrin,సైపర్‌మెత్రిన్
+Kharif,ఖరీఫ్,Clay,బంకమట్టి,108,113,58,8.26,23,72,57,Watermelon,పుచ్చకాయ,Farmyard Manure,పశువుల ఎరువు,Urea,యూరియా,Neem Oil,వేప నూనె,Cypermethrin,సైపర్‌మెత్రిన్
+Zaid,జైద్,Black,నల్ల మట్టి,113,40,25,5.61,35,81,69,Lentil,పప్పు,Neem Cake,వేపపిండి,MOP,పొటాష్,Neem Oil,వేప నూనె,Cypermethrin,సైపర్‌మెత్రిన్
+Kharif,ఖరీఫ్,Red,ఎర్ర మట్టి,24,89,104,7.66,34,201,56,Mustard,ఆవాలు,Vermicompost,వర్మి కంపోస్ట్,Urea,యూరియా,Neem Oil,వేప నూనె,Cypermethrin,సైపర్‌మెత్రిన్
+Kharif,ఖరీఫ్,Sandy,మణల్,71,33,85,6.54,36,242,34,Pomegranate,దానిమ్మ,Vermicompost,వర్మి కంపోస్ట్,Urea,యూరియా,Chili Spray,మిరప స్ప్రే,Cypermethrin,సైపర్‌మెత్రిన్
+Kharif,ఖరీఫ్,Clay,బంకమట్టి,63,29,30,6.59,27,140,87,Millet,సజ్జ,Compost,కంపోస్ట్,DAP,డిఏపీ,Chili Spray,మిరప స్ప్రే,Cypermethrin,సైపర్‌మెత్రిన్
+Zaid,జైద్,Clay,బంకమట్టి,65,16,115,7.84,21,245,85,Cotton,పత్తి,Vermicompost,వర్మి కంపోస్ట్,Urea,యూరియా,Neem Oil,వేప నూనె,Imidacloprid,ఇమిడాక్లోప్రిడ్
+Zaid,జైద్,Sandy,మణల్,18,34,23,8.22,29,159,86,Apple,సేపు,Farmyard Manure,పశువుల ఎరువు,DAP,డిఏపీ,Garlic Spray,వెల్లుల్లి స్ప్రే,Imidacloprid,ఇమిడాక్లోప్రిడ్
+Kharif,ఖరీఫ్,Black,నల్ల మట్టి,69,102,27,7.02,36,238,32,Garlic,వెల్లులి,Neem Cake,వేపపిండి,MOP,పొటాష్,Neem Oil,వేప నూనె,Cypermethrin,సైపర్‌మెత్రిన్
+Rabi,రబీ,Red,ఎర్ర మట్టి,83,70,18,6.0,15,263,43,Soybean,సోయాబీన్,Vermicompost,వర్మి కంపోస్ట్,Urea,యూరియా,Neem Oil,వేప నూనె,Cypermethrin,సైపర్‌మెత్రిన్
+Rabi,రబీ,Red,ఎర్ర మట్టి,117,58,98,7.75,39,72,41,Papaya,బొప్పాయి,Vermicompost,వర్మి కంపోస్ట్,Urea,యూరియా,Neem Oil,వేప నూనె,Chlorpyrifos,క్లోరోపైరిఫాస్
+Kharif,ఖరీఫ్,Clay,బంకమట్టి,118,115,36,8.32,23,58,43,Rice,వరి,Vermicompost,వర్మి కంపోస్ట్,Urea,యూరియా,Chili Spray,మిరప స్ప్రే,Chlorpyrifos,క్లోరోపైరిఫాస్
+Kharif,ఖరీఫ్,Clay,బంకమట్టి,96,12,73,7.4,38,250,49,Cabbage,క్యాబేజీ,Vermicompost,వర్మి కంపోస్ట్,NPK,ఎన్‌పీకే,Neem Oil,వేప నూనె,Cypermethrin,సైపర్‌మెత్రిన్
+Rabi,రబీ,Black,నల్ల మట్టి,104,112,51,5.88,24,74,46,Soybean,సోయాబీన్,Farmyard Manure,పశువుల ఎరువు,MOP,పొటాష్,Chili Spray,మిరప స్ప్రే,Chlorpyrifos,క్లోరోపైరిఫాస్
+Kharif,ఖరీఫ్,Black,నల్ల మట్టి,62,81,106,7.8,36,180,37,Banana,అరటి,Farmyard Manure,పశువుల ఎరువు,Urea,యూరియా,Garlic Spray,వెల్లుల్లి స్ప్రే,Cypermethrin,సైపర్‌మెత్రిన్
+Zaid,జైద్,Clay,బంకమట్టి,104,105,27,6.97,31,260,42,Carrot,గాజర్,Vermicompost,వర్మి కంపోస్ట్,MOP,పొటాష్,Chili Spray,మిరప స్ప్రే,Cypermethrin,సైపర్‌మెత్రిన్
+Kharif,ఖరీఫ్,Sandy,మణల్,54,61,111,5.68,31,158,39,Onion,ఉల్లి,Vermicompost,వర్మి కంపోస్ట్,DAP,డిఏపీ,Garlic Spray,వెల్లుల్లి స్ప్రే,Imidacloprid,ఇమిడాక్లోప్రిడ్
+Zaid,జైద్,Sandy,మణల్,19,68,65,7.24,36,273,67,Cucumber,దోసకాయ,Neem Cake,వేపపిండి,NPK,ఎన్‌పీకే,Neem Oil,వేప నూనె,Chlorpyrifos,క్లోరోపైరిఫాస్
+Kharif,ఖరీఫ్,Red,ఎర్ర మట్టి,34,71,67,8.1,33,202,76,Gram,సెనగ,Compost,కంపోస్ట్,NPK,ఎన్‌పీకే,Chili Spray,మిరప స్ప్రే,Chlorpyrifos,క్లోరోపైరిఫాస్
+Zaid,జైద్,Black,నల్ల మట్టి,71,23,47,6.99,18,58,32,Sorghum,జొన్న,Farmyard Manure,పశువుల ఎరువు,MOP,పొటాష్,Chili Spray,మిరప స్ప్రే,Chlorpyrifos,క్లోరోపైరిఫాస్
+Kharif,ఖరీఫ్,Sandy,మణల్,115,104,43,8.23,35,231,38,Spinach,పాలకూర,Vermicompost,వర్మి కంపోస్ట్,MOP,పొటాష్,Chili Spray,మిరప స్ప్రే,Imidacloprid,ఇమిడాక్లోప్రిడ్
+Zaid,జైద్,Sandy,మణల్,120,15,37,8.32,26,250,37,Okra,బెండకాయ,Neem Cake,వేపపిండి,MOP,పొటాష్,Garlic Spray,వెల్లుల్లి స్ప్రే,Chlorpyrifos,క్లోరోపైరిఫాస్
+Zaid,జైద్,Loamy,లోమీ,71,60,15,6.24,15,134,69,Garlic,వెల్లులి,Neem Cake,వేపపిండి,MOP,పొటాష్,Chili Spray,మిరప స్ప్రే,Chlorpyrifos,క్లోరోపైరిఫాస్
+Kharif,ఖరీఫ్,Black,నల్ల మట్టి,68,60,108,8.0,27,75,60,Maize,మొక్కజొన్న,Compost,కంపోస్ట్,NPK,ఎన్‌పీకే,Garlic Spray,వెల్లుల్లి స్ప్రే,Chlorpyrifos,క్లోరోపైరిఫాస్
+Zaid,జైద్,Sandy,మణల్,25,11,101,6.5,35,174,33,Cauliflower,కాలీఫ్లవర్,Neem Cake,వేపపిండి,Urea,యూరియా,Neem Oil,వేప నూనె,Chlorpyrifos,క్లోరోపైరిఫాస్
+Zaid,జైద్,Clay,బంకమట్టి,115,55,112,6.47,29,201,58,Coriander,కొత్తిమీర,Compost,కంపోస్ట్,DAP,డిఏపీ,Chili Spray,మిరప స్ప్రే,Chlorpyrifos,క్లోరోపైరిఫాస్
+Kharif,ఖరీఫ్,Loamy,లోమీ,88,108,79,7.88,23,234,39,Mango,మామిడి,Neem Cake,వేపపిండి,Urea,యూరియా,Garlic Spray,వెల్లుల్లి స్ప్రే,Imidacloprid,ఇమిడాక్లోప్రిడ్
+Zaid,జైద్,Red,ఎర్ర మట్టి,22,34,84,7.97,37,225,72,Cucumber,దోసకాయ,Neem Cake,వేపపిండి,Urea,యూరియా,Chili Spray,మిరప స్ప్రే,Chlorpyrifos,క్లోరోపైరిఫాస్
+Zaid,జైద్,Sandy,మణల్,64,102,64,6.47,34,285,60,Bitter Gourd,కాకరకాయ,Vermicompost,వర్మి కంపోస్ట్,Urea,యూరియా,Neem Oil,వేప నూనె,Imidacloprid,ఇమిడాక్లోప్రిడ్
+Rabi,రబీ,Sandy,మణల్,12,73,24,6.54,34,118,50,Groundnut,వేరుశెనగ,Compost,కంపోస్ట్,Urea,యూరియా,Neem Oil,వేప నూనె,Chlorpyrifos,క్లోరోపైరిఫాస్
+Kharif,ఖరీఫ్,Red,ఎర్ర మట్టి,15,13,94,5.8,36,189,90,Guava,జామ,Farmyard Manure,పశువుల ఎరువు,DAP,డిఏపీ,Garlic Spray,వెల్లుల్లి స్ప్రే,Imidacloprid,ఇమిడాక్లోప్రిడ్
+Zaid,జైద్,Clay,బంకమట్టి,18,88,85,7.21,28,227,68,Orange,నారింజ,Neem Cake,వేపపిండి,NPK,ఎన్‌పీకే,Garlic Spray,వెల్లుల్లి స్ప్రే,Chlorpyrifos,క్లోరోపైరిఫాస్
+Zaid,జైద్,Sandy,మణల్,107,89,19,7.56,20,284,81,Onion,ఉల్లి,Neem Cake,వేపపిండి,Urea,యూరియా,Chili Spray,మిరప స్ప్రే,Imidacloprid,ఇమిడాక్లోప్రిడ్
+Rabi,రబీ,Sandy,మణల్,52,97,91,8.31,28,62,43,Onion,ఉల్లి,Farmyard Manure,పశువుల ఎరువు,DAP,డిఏపీ,Garlic Spray,వెల్లుల్లి స్ప్రే,Chlorpyrifos,క్లోరోపైరిఫాస్
+Zaid,జైద్,Sandy,మణల్,42,12,71,5.58,21,287,34,Watermelon,పుచ్చకాయ,Farmyard Manure,పశువుల ఎరువు,DAP,డిఏపీ,Garlic Spray,వెల్లుల్లి స్ప్రే,Imidacloprid,ఇమిడాక్లోప్రిడ్
+Rabi,రబీ,Loamy,లోమీ,75,110,104,8.24,40,242,70,Chilli,మిర్చి,Neem Cake,వేపపిండి,MOP,పొటాష్,Neem Oil,వేప నూనె,Cypermethrin,సైపర్‌మెత్రిన్
+Zaid,జైద్,Sandy,మణల్,65,93,68,6.94,39,55,62,Rice,వరి,Vermicompost,వర్మి కంపోస్ట్,DAP,డిఏపీ,Garlic Spray,వెల్లుల్లి స్ప్రే,Chlorpyrifos,క్లోరోపైరిఫాస్
+Rabi,రబీ,Loamy,లోమీ,79,38,85,7.18,34,292,57,Cucumber,దోసకాయ,Vermicompost,వర్మి కంపోస్ట్,DAP,డిఏపీ,Garlic Spray,వెల్లుల్లి స్ప్రే,Chlorpyrifos,క్లోరోపైరిఫాస్
+Zaid,జైద్,Red,ఎర్ర మట్టి,104,65,41,6.11,38,187,51,Sugarcane,చెరకు,Neem Cake,వేపపిండి,NPK,ఎన్‌పీకే,Chili Spray,మిరప స్ప్రే,Cypermethrin,సైపర్‌మెత్రిన్
+Kharif,ఖరీఫ్,Clay,బంకమట్టి,78,109,29,6.52,18,159,45,Okra,బెండకాయ,Neem Cake,వేపపిండి,DAP,డిఏపీ,Garlic Spray,వెల్లుల్లి స్ప్రే,Imidacloprid,ఇమిడాక్లోప్రిడ్
+Rabi,రబీ,Sandy,మణల్,46,65,37,8.33,24,271,56,Mustard,ఆవాలు,Compost,కంపోస్ట్,DAP,డిఏపీ,Garlic Spray,వెల్లుల్లి స్ప్రే,Chlorpyrifos,క్లోరోపైరిఫాస్
+Kharif,ఖరీఫ్,Red,ఎర్ర మట్టి,103,25,22,7.92,34,229,64,Mustard,ఆవాలు,Farmyard Manure,పశువుల ఎరువు,Urea,యూరియా,Garlic Spray,వెల్లుల్లి స్ప్రే,Chlorpyrifos,క్లోరోపైరిఫాస్
+Kharif,ఖరీఫ్,Red,ఎర్ర మట్టి,48,112,102,6.57,30,81,57,Radish,ముల్లంగి,Neem Cake,వేపపిండి,Urea,యూరియా,Chili Spray,మిరప స్ప్రే,Cypermethrin,సైపర్‌మెత్రిన్
+Rabi,రబీ,Loamy,లోమీ,88,78,114,7.65,35,201,65,Mango,మామిడి,Farmyard Manure,పశువుల ఎరువు,DAP,డిఏపీ,Garlic Spray,వెల్లుల్లి స్ప్రే,Cypermethrin,సైపర్‌మెత్రిన్
+Rabi,రబీ,Sandy,మణల్,47,77,16,5.83,22,52,78,Apple,సేపు,Farmyard Manure,పశువుల ఎరువు,NPK,ఎన్‌పీకే,Neem Oil,వేప నూనె,Chlorpyrifos,క్లోరోపైరిఫాస్
+Kharif,ఖరీఫ్,Sandy,మణల్,73,19,10,6.67,28,222,63,Cabbage,క్యాబేజీ,Farmyard Manure,పశువుల ఎరువు,NPK,ఎన్‌పీకే,Neem Oil,వేప నూనె,Imidacloprid,ఇమిడాక్లోప్రిడ్
+Kharif,ఖరీఫ్,Red,ఎర్ర మట్టి,92,53,71,7.85,17,72,73,Papaya,బొప్పాయి,Vermicompost,వర్మి కంపోస్ట్,Urea,యూరియా,Neem Oil,వేప నూనె,Chlorpyrifos,క్లోరోపైరిఫాస్
+Rabi,రబీ,Loamy,లోమీ,38,120,76,8.14,38,66,60,Coriander,కొత్తిమీర,Compost,కంపోస్ట్,NPK,ఎన్‌పీకే,Chili Spray,మిరప స్ప్రే,Imidacloprid,ఇమిడాక్లోప్రిడ్
+Zaid,జైద్,Red,ఎర్ర మట్టి,62,77,84,7.41,21,67,30,Carrot,గాజర్,Compost,కంపోస్ట్,NPK,ఎన్‌పీకే,Neem Oil,వేప నూనె,Cypermethrin,సైపర్‌మెత్రిన్
+Zaid,జైద్,Sandy,మణల్,54,95,101,8.05,35,134,74,Ridge Gourd,బీరకాయ,Neem Cake,వేపపిండి,DAP,డిఏపీ,Garlic Spray,వెల్లుల్లి స్ప్రే,Chlorpyrifos,క్లోరోపైరిఫాస్
+Zaid,జైద్,Clay,బంకమట్టి,60,42,10,5.69,40,141,80,Pea,బఠాణి,Farmyard Manure,పశువుల ఎరువు,MOP,పొటాష్,Neem Oil,వేప నూనె,Imidacloprid,ఇమిడాక్లోప్రిడ్
+Kharif,ఖరీఫ్,Black,నల్ల మట్టి,62,106,100,7.35,37,86,83,Potato,ఆలుగడ్డ,Vermicompost,వర్మి కంపోస్ట్,Urea,యూరియా,Chili Spray,మిరప స్ప్రే,Imidacloprid,ఇమిడాక్లోప్రిడ్
+Rabi,రబీ,Loamy,లోమీ,44,23,108,7.32,16,165,30,Turmeric,పసుపు,Vermicompost,వర్మి కంపోస్ట్,MOP,పొటాష్,Garlic Spray,వెల్లుల్లి స్ప్రే,Cypermethrin,సైపర్‌మెత్రిన్
+Zaid,జైద్,Loamy,లోమీ,68,19,55,7.98,33,241,57,Mustard,ఆవాలు,Vermicompost,వర్మి కంపోస్ట్,Urea,యూరియా,Garlic Spray,వెల్లుల్లి స్ప్రే,Imidacloprid,ఇమిడాక్లోప్రిడ్
+Rabi,రబీ,Red,ఎర్ర మట్టి,55,116,116,5.95,32,163,41,Mustard,ఆవాలు,Compost,కంపోస్ట్,Urea,యూరియా,Chili Spray,మిరప స్ప్రే,Chlorpyrifos,క్లోరోపైరిఫాస్
+Zaid,జైద్,Sandy,మణల్,35,64,28,6.78,35,55,79,Apple,సేపు,Neem Cake,వేపపిండి,DAP,డిఏపీ,Chili Spray,మిరప స్ప్రే,Chlorpyrifos,క్లోరోపైరిఫాస్
+Kharif,ఖరీఫ్,Loamy,లోమీ,48,23,80,6.56,34,268,59,Muskmelon,ఖర్బూజ,Farmyard Manure,పశువుల ఎరువు,DAP,డిఏపీ,Neem Oil,వేప నూనె,Cypermethrin,సైపర్‌మెత్రిన్
+Zaid,జైద్,Sandy,మణల్,74,106,19,7.06,35,200,49,Pea,బఠాణి,Neem Cake,వేపపిండి,MOP,పొటాష్,Chili Spray,మిరప స్ప్రే,Chlorpyrifos,క్లోరోపైరిఫాస్
+Kharif,ఖరీఫ్,Sandy,మణల్,92,63,13,5.67,15,50,40,Fenugreek,మెంతికూర,Neem Cake,వేపపిండి,NPK,ఎన్‌పీకే,Chili Spray,మిరప స్ప్రే,Cypermethrin,సైపర్‌మెత్రిన్
+Rabi,రబీ,Sandy,మణల్,82,114,33,6.87,16,216,69,Turmeric,పసుపు,Compost,కంపోస్ట్,Urea,యూరియా,Garlic Spray,వెల్లుల్లి స్ప్రే,Cypermethrin,సైపర్‌మెత్రిన్
+Kharif,ఖరీఫ్,Clay,బంకమట్టి,43,61,39,7.33,39,245,57,Millet,సజ్జ,Compost,కంపోస్ట్,Urea,యూరియా,Neem Oil,వేప నూనె,Imidacloprid,ఇమిడాక్లోప్రిడ్
+Rabi,రబీ,Red,ఎర్ర మట్టి,37,40,47,8.48,20,78,81,Okra,బెండకాయ,Farmyard Manure,పశువుల ఎరువు,DAP,డిఏపీ,Chili Spray,మిరప స్ప్రే,Imidacloprid,ఇమిడాక్లోప్రిడ్
+Kharif,ఖరీఫ్,Loamy,లోమీ,15,94,57,6.55,18,234,58,Pomegranate,దానిమ్మ,Neem Cake,వేపపిండి,Urea,యూరియా,Chili Spray,మిరప స్ప్రే,Cypermethrin,సైపర్‌మెత్రిన్
+Kharif,ఖరీఫ్,Clay,బంకమట్టి,73,56,10,7.64,34,258,84,Cotton,పత్తి,Neem Cake,వేపపిండి,Urea,యూరియా,Chili Spray,మిరప స్ప్రే,Imidacloprid,ఇమిడాక్లోప్రిడ్
+Rabi,రబీ,Red,ఎర్ర మట్టి,98,109,67,7.81,25,253,84,Bitter Gourd,కాకరకాయ,Vermicompost,వర్మి కంపోస్ట్,Urea,యూరియా,Garlic Spray,వెల్లుల్లి స్ప్రే,Cypermethrin,సైపర్‌మెత్రిన్
+Rabi,రబీ,Black,నల్ల మట్టి,46,26,93,7.53,24,137,31,Bottle Gourd,సొరకాయ,Neem Cake,వేపపిండి,NPK,ఎన్‌పీకే,Garlic Spray,వెల్లుల్లి స్ప్రే,Imidacloprid,ఇమిడాక్లోప్రిడ్
+Zaid,జైద్,Black,నల్ల మట్టి,45,50,83,5.78,28,171,66,Carrot,గాజర్,Compost,కంపోస్ట్,Urea,యూరియా,Neem Oil,వేప నూనె,Cypermethrin,సైపర్‌మెత్రిన్
+Kharif,ఖరీఫ్,Loamy,లోమీ,50,97,67,7.58,28,287,90,Beetroot,బీట్‌రూట్,Neem Cake,వేపపిండి,NPK,ఎన్‌పీకే,Neem Oil,వేప నూనె,Chlorpyrifos,క్లోరోపైరిఫాస్
+Zaid,జైద్,Sandy,మణల్,73,42,93,6.42,15,275,41,Apple,సేపు,Compost,కంపోస్ట్,DAP,డిఏపీ,Neem Oil,వేప నూనె,Chlorpyrifos,క్లోరోపైరిఫాస్
+Kharif,ఖరీఫ్,Sandy,మణల్,78,73,45,8.28,19,140,53,Gram,సెనగ,Vermicompost,వర్మి కంపోస్ట్,MOP,పొటాష్,Chili Spray,మిరప స్ప్రే,Chlorpyrifos,క్లోరోపైరిఫాస్
+Zaid,జైద్,Loamy,లోమీ,95,100,25,5.88,24,224,82,Garlic,వెల్లులి,Farmyard Manure,పశువుల ఎరువు,DAP,డిఏపీ,Garlic Spray,వెల్లుల్లి స్ప్రే,Imidacloprid,ఇమిడాక్లోప్రిడ్
+Kharif,ఖరీఫ్,Loamy,లోమీ,107,30,116,5.71,16,207,62,Spinach,పాలకూర,Compost,కంపోస్ట్,MOP,పొటాష్,Garlic Spray,వెల్లుల్లి స్ప్రే,Chlorpyrifos,క్లోరోపైరిఫాస్
+Zaid,జైద్,Sandy,మణల్,54,77,49,7.51,26,159,34,Turnip,టర్నిప్,Farmyard Manure,పశువుల ఎరువు,NPK,ఎన్‌పీకే,Chili Spray,మిరప స్ప్రే,Cypermethrin,సైపర్‌మెత్రిన్
+Zaid,జైద్,Black,నల్ల మట్టి,19,88,21,7.49,23,264,38,Groundnut,వేరుశెనగ,Neem Cake,వేపపిండి,DAP,డిఏపీ,Neem Oil,వేప నూనె,Imidacloprid,ఇమిడాక్లోప్రిడ్
+Rabi,రబీ,Sandy,మణల్,84,94,95,7.0,38,129,84,Onion,ఉల్లి,Neem Cake,వేపపిండి,MOP,పొటాష్,Garlic Spray,వెల్లుల్లి స్ప్రే,Chlorpyrifos,క్లోరోపైరిఫాస్
+Zaid,జైద్,Loamy,లోమీ,80,100,95,5.94,38,143,39,Bitter Gourd,కాకరకాయ,Compost,కంపోస్ట్,DAP,డిఏపీ,Chili Spray,మిరప స్ప్రే,Imidacloprid,ఇమిడాక్లోప్రిడ్
+Rabi,రబీ,Clay,బంకమట్టి,78,96,49,6.15,23,52,36,Coriander,కొత్తిమీర,Compost,కంపోస్ట్,NPK,ఎన్‌పీకే,Neem Oil,వేప నూనె,Imidacloprid,ఇమిడాక్లోప్రిడ్
+Zaid,జైద్,Sandy,మణల్,92,75,31,6.75,34,241,63,Millet,సజ్జ,Compost,కంపోస్ట్,NPK,ఎన్‌పీకే,Garlic Spray,వెల్లుల్లి స్ప్రే,Chlorpyrifos,క్లోరోపైరిఫాస్
+Zaid,జైద్,Black,నల్ల మట్టి,112,16,97,7.14,19,56,39,Sunflower,సూర్యకాంతి,Neem Cake,వేపపిండి,MOP,పొటాష్,Neem Oil,వేప నూనె,Chlorpyrifos,క్లోరోపైరిఫాస్
+Zaid,జైద్,Black,నల్ల మట్టి,53,78,108,6.89,39,80,30,Banana,అరటి,Farmyard Manure,పశువుల ఎరువు,NPK,ఎన్‌పీకే,Chili Spray,మిరప స్ప్రే,Cypermethrin,సైపర్‌మెత్రిన్
+Zaid,జైద్,Sandy,మణల్,88,15,12,6.48,18,126,38,Groundnut,వేరుశెనగ,Compost,కంపోస్ట్,DAP,డిఏపీ,Neem Oil,వేప నూనె,Imidacloprid,ఇమిడాక్లోప్రిడ్
+Rabi,రబీ,Clay,బంకమట్టి,104,119,18,8.33,38,155,38,Fenugreek,మెంతికూర,Vermicompost,వర్మి కంపోస్ట్,DAP,డిఏపీ,Garlic Spray,వెల్లుల్లి స్ప్రే,Imidacloprid,ఇమిడాక్లోప్రిడ్
+Zaid,జైద్,Sandy,మణల్,51,85,117,7.29,25,253,79,Pumpkin,గుమ్మడికాయ,Neem Cake,వేపపిండి,NPK,ఎన్‌పీకే,Neem Oil,వేప నూనె,Imidacloprid,ఇమిడాక్లోప్రిడ్
+Kharif,ఖరీఫ్,Loamy,లోమీ,12,37,87,7.79,16,288,87,Mango,మామిడి,Vermicompost,వర్మి కంపోస్ట్,Urea,యూరియా,Neem Oil,వేప నూనె,Imidacloprid,ఇమిడాక్లోప్రిడ్
+Rabi,రబీ,Clay,బంకమట్టి,11,92,32,7.07,33,249,68,Turmeric,పసుపు,Vermicompost,వర్మి కంపోస్ట్,NPK,ఎన్‌పీకే,Garlic Spray,వెల్లుల్లి స్ప్రే,Chlorpyrifos,క్లోరోపైరిఫాస్
+Kharif,ఖరీఫ్,Loamy,లోమీ,75,112,81,7.45,31,80,46,Pomegranate,దానిమ్మ,Compost,కంపోస్ట్,MOP,పొటాష్,Garlic Spray,వెల్లుల్లి స్ప్రే,Chlorpyrifos,క్లోరోపైరిఫాస్
+Zaid,జైద్,Clay,బంకమట్టి,90,75,119,7.94,27,295,68,Guava,జామ,Farmyard Manure,పశువుల ఎరువు,NPK,ఎన్‌పీకే,Neem Oil,వేప నూనె,Imidacloprid,ఇమిడాక్లోప్రిడ్
+Kharif,ఖరీఫ్,Black,నల్ల మట్టి,103,81,58,7.39,18,108,65,Sorghum,జొన్న,Compost,కంపోస్ట్,Urea,యూరియా,Chili Spray,మిరప స్ప్రే,Chlorpyrifos,క్లోరోపైరిఫాస్
+Zaid,జైద్,Red,ఎర్ర మట్టి,73,65,58,7.14,39,156,35,Sorghum,జొన్న,Vermicompost,వర్మి కంపోస్ట్,DAP,డిఏపీ,Neem Oil,వేప నూనె,Chlorpyrifos,క్లోరోపైరిఫాస్
+Rabi,రబీ,Clay,బంకమట్టి,16,107,43,6.48,36,183,31,Fenugreek,మెంతికూర,Neem Cake,వేపపిండి,NPK,ఎన్‌పీకే,Garlic Spray,వెల్లుల్లి స్ప్రే,Cypermethrin,సైపర్‌మెత్రిన్
+Zaid,జైద్,Sandy,మణల్,100,66,13,8.21,27,55,50,Wheat,గోధుమ,Neem Cake,వేపపిండి,NPK,ఎన్‌పీకే,Neem Oil,వేప నూనె,Cypermethrin,సైపర్‌మెత్రిన్
+Rabi,రబీ,Loamy,లోమీ,115,38,100,7.82,40,237,79,Potato,ఆలుగడ్డ,Compost,కంపోస్ట్,NPK,ఎన్‌పీకే,Garlic Spray,వెల్లుల్లి స్ప్రే,Imidacloprid,ఇమిడాక్లోప్రిడ్
+Rabi,రబీ,Sandy,మణల్,92,93,115,7.28,24,204,72,Brinjal,వంకాయ,Farmyard Manure,పశువుల ఎరువు,MOP,పొటాష్,Garlic Spray,వెల్లుల్లి స్ప్రే,Imidacloprid,ఇమిడాక్లోప్రిడ్
+Rabi,రబీ,Red,ఎర్ర మట్టి,59,81,87,5.81,16,86,85,Sugarcane,చెరకు,Neem Cake,వేపపిండి,Urea,యూరియా,Garlic Spray,వెల్లుల్లి స్ప్రే,Imidacloprid,ఇమిడాక్లోప్రిడ్
+Zaid,జైద్,Sandy,మణల్,51,103,13,6.98,25,67,80,Potato,ఆలుగడ్డ,Compost,కంపోస్ట్,Urea,యూరియా,Chili Spray,మిరప స్ప్రే,Chlorpyrifos,క్లోరోపైరిఫాస్
+Kharif,ఖరీఫ్,Black,నల్ల మట్టి,76,50,74,5.92,34,229,57,Turmeric,పసుపు,Vermicompost,వర్మి కంపోస్ట్,DAP,డిఏపీ,Garlic Spray,వెల్లుల్లి స్ప్రే,Cypermethrin,సైపర్‌మెత్రిన్
+Zaid,జైద్,Sandy,మణల్,36,86,78,7.61,19,253,86,Sorghum,జొన్న,Farmyard Manure,పశువుల ఎరువు,MOP,పొటాష్,Chili Spray,మిరప స్ప్రే,Cypermethrin,సైపర్‌మెత్రిన్
+Zaid,జైద్,Red,ఎర్ర మట్టి,58,40,16,6.35,36,80,84,Cotton,పత్తి,Farmyard Manure,పశువుల ఎరువు,MOP,పొటాష్,Garlic Spray,వెల్లుల్లి స్ప్రే,Cypermethrin,సైపర్‌మెత్రిన్
+Zaid,జైద్,Clay,బంకమట్టి,119,108,15,7.34,29,120,67,Bitter Gourd,కాకరకాయ,Compost,కంపోస్ట్,MOP,పొటాష్,Chili Spray,మిరప స్ప్రే,Imidacloprid,ఇమిడాక్లోప్రిడ్
+Zaid,జైద్,Clay,బంకమట్టి,91,86,40,8.39,18,56,56,Radish,ముల్లంగి,Farmyard Manure,పశువుల ఎరువు,NPK,ఎన్‌పీకే,Chili Spray,మిరప స్ప్రే,Chlorpyrifos,క్లోరోపైరిఫాస్
+Kharif,ఖరీఫ్,Clay,బంకమట్టి,70,30,28,7.01,30,120,75,Muskmelon,ఖర్బూజ,Neem Cake,వేపపిండి,Urea,యూరియా,Neem Oil,వేప నూనె,Chlorpyrifos,క్లోరోపైరిఫాస్
+Zaid,జైద్,Loamy,లోమీ,116,18,91,7.04,32,211,84,Gram,సెనగ,Vermicompost,వర్మి కంపోస్ట్,NPK,ఎన్‌పీకే,Neem Oil,వేప నూనె,Imidacloprid,ఇమిడాక్లోప్రిడ్
+Kharif,ఖరీఫ్,Red,ఎర్ర మట్టి,104,93,80,7.47,33,245,69,Coriander,కొత్తిమీర,Farmyard Manure,పశువుల ఎరువు,Urea,యూరియా,Chili Spray,మిరప స్ప్రే,Chlorpyrifos,క్లోరోపైరిఫాస్
+Zaid,జైద్,Sandy,మణల్,62,55,41,5.6,38,144,56,Beetroot,బీట్‌రూట్,Neem Cake,వేపపిండి,MOP,పొటాష్,Neem Oil,వేప నూనె,Cypermethrin,సైపర్‌మెత్రిన్
+Rabi,రబీ,Sandy,మణల్,46,31,76,8.22,27,98,66,Cotton,పత్తి,Farmyard Manure,పశువుల ఎరువు,Urea,యూరియా,Neem Oil,వేప నూనె,Chlorpyrifos,క్లోరోపైరిఫాస్
+Zaid,జైద్,Red,ఎర్ర మట్టి,117,32,30,8.43,24,92,43,Banana,అరటి,Neem Cake,వేపపిండి,Urea,యూరియా,Garlic Spray,వెల్లుల్లి స్ప్రే,Chlorpyrifos,క్లోరోపైరిఫాస్
+Kharif,ఖరీఫ్,Loamy,లోమీ,23,18,82,6.97,17,104,55,Muskmelon,ఖర్బూజ,Farmyard Manure,పశువుల ఎరువు,NPK,ఎన్‌పీకే,Chili Spray,మిరప స్ప్రే,Imidacloprid,ఇమిడాక్లోప్రిడ్
+Kharif,ఖరీఫ్,Clay,బంకమట్టి,59,68,97,7.51,15,152,83,Maize,మొక్కజొన్న,Vermicompost,వర్మి కంపోస్ట్,MOP,పొటాష్,Neem Oil,వేప నూనె,Cypermethrin,సైపర్‌మెత్రిన్
+Zaid,జైద్,Red,ఎర్ర మట్టి,75,51,59,8.4,19,272,80,Papaya,బొప్పాయి,Farmyard Manure,పశువుల ఎరువు,DAP,డిఏపీ,Chili Spray,మిరప స్ప్రే,Chlorpyrifos,క్లోరోపైరిఫాస్
+Kharif,ఖరీఫ్,Loamy,లోమీ,37,26,78,7.4,18,220,90,Ginger,అల్లం,Neem Cake,వేపపిండి,DAP,డిఏపీ,Neem Oil,వేప నూనె,Cypermethrin,సైపర్‌మెత్రిన్
+Rabi,రబీ,Sandy,మణల్,88,37,98,7.43,20,261,55,Sorghum,జొన్న,Farmyard Manure,పశువుల ఎరువు,NPK,ఎన్‌పీకే,Neem Oil,వేప నూనె,Imidacloprid,ఇమిడాక్లోప్రిడ్
+Rabi,రబీ,Sandy,మణల్,100,63,95,6.09,19,85,82,Cotton,పత్తి,Neem Cake,వేపపిండి,NPK,ఎన్‌పీకే,Garlic Spray,వెల్లుల్లి స్ప్రే,Chlorpyrifos,క్లోరోపైరిఫాస్
+Kharif,ఖరీఫ్,Black,నల్ల మట్టి,22,76,115,6.0,22,209,75,Grapes,ద్రాక్ష,Compost,కంపోస్ట్,Urea,యూరియా,Neem Oil,వేప నూనె,Imidacloprid,ఇమిడాక్లోప్రిడ్
+Kharif,ఖరీఫ్,Clay,బంకమట్టి,16,93,65,8.36,37,149,58,Turnip,టర్నిప్,Neem Cake,వేపపిండి,DAP,డిఏపీ,Chili Spray,మిరప స్ప్రే,Chlorpyrifos,క్లోరోపైరిఫాస్
+Zaid,జైద్,Loamy,లోమీ,97,110,51,5.74,38,245,67,Fenugreek,మెంతికూర,Vermicompost,వర్మి కంపోస్ట్,DAP,డిఏపీ,Neem Oil,వేప నూనె,Chlorpyrifos,క్లోరోపైరిఫాస్
+Rabi,రబీ,Red,ఎర్ర మట్టి,43,50,57,5.61,34,113,87,Garlic,వెల్లులి,Vermicompost,వర్మి కంపోస్ట్,NPK,ఎన్‌పీకే,Neem Oil,వేప నూనె,Cypermethrin,సైపర్‌మెత్రిన్
+Zaid,జైద్,Red,ఎర్ర మట్టి,37,73,120,6.83,31,85,51,Wheat,గోధుమ,Compost,కంపోస్ట్,MOP,పొటాష్,Chili Spray,మిరప స్ప్రే,Imidacloprid,ఇమిడాక్లోప్రిడ్
+Kharif,ఖరీఫ్,Clay,బంకమట్టి,78,36,117,7.07,23,103,51,Sunflower,సూర్యకాంతి,Farmyard Manure,పశువుల ఎరువు,MOP,పొటాష్,Neem Oil,వేప నూనె,Chlorpyrifos,క్లోరోపైరిఫాస్
+Rabi,రబీ,Loamy,లోమీ,57,24,98,7.54,39,57,42,Fenugreek,మెంతికూర,Vermicompost,వర్మి కంపోస్ట్,Urea,యూరియా,Garlic Spray,వెల్లుల్లి స్ప్రే,Chlorpyrifos,క్లోరోపైరిఫాస్
+Zaid,జైద్,Red,ఎర్ర మట్టి,56,60,21,8.26,31,81,31,Muskmelon,ఖర్బూజ,Farmyard Manure,పశువుల ఎరువు,MOP,పొటాష్,Neem Oil,వేప నూనె,Imidacloprid,ఇమిడాక్లోప్రిడ్
+Zaid,జైద్,Red,ఎర్ర మట్టి,29,66,33,7.92,25,283,33,Soybean,సోయాబీన్,Farmyard Manure,పశువుల ఎరువు,Urea,యూరియా,Chili Spray,మిరప స్ప్రే,Cypermethrin,సైపర్‌మెత్రిన్
+Rabi,రబీ,Sandy,మణల్,30,118,73,5.66,40,292,69,Spinach,పాలకూర,Farmyard Manure,పశువుల ఎరువు,DAP,డిఏపీ,Chili Spray,మిరప స్ప్రే,Imidacloprid,ఇమిడాక్లోప్రిడ్
+Rabi,రబీ,Red,ఎర్ర మట్టి,16,58,90,6.24,15,63,37,Gram,సెనగ,Neem Cake,వేపపిండి,NPK,ఎన్‌పీకే,Garlic Spray,వెల్లుల్లి స్ప్రే,Chlorpyrifos,క్లోరోపైరిఫాస్
+Rabi,రబీ,Clay,బంకమట్టి,27,95,19,8.39,20,222,64,Banana,అరటి,Farmyard Manure,పశువుల ఎరువు,MOP,పొటాష్,Neem Oil,వేప నూనె,Imidacloprid,ఇమిడాక్లోప్రిడ్
+Kharif,ఖరీఫ్,Black,నల్ల మట్టి,94,95,84,7.78,34,188,86,Tomato,టమోటా,Compost,కంపోస్ట్,NPK,ఎన్‌పీకే,Garlic Spray,వెల్లుల్లి స్ప్రే,Cypermethrin,సైపర్‌మెత్రిన్
+Zaid,జైద్,Red,ఎర్ర మట్టి,21,96,76,6.98,39,270,63,Gram,సెనగ,Neem Cake,వేపపిండి,NPK,ఎన్‌పీకే,Neem Oil,వేప నూనె,Cypermethrin,సైపర్‌మెత్రిన్
+Rabi,రబీ,Loamy,లోమీ,59,97,99,8.31,28,125,51,Lentil,పప్పు,Farmyard Manure,పశువుల ఎరువు,Urea,యూరియా,Chili Spray,మిరప స్ప్రే,Imidacloprid,ఇమిడాక్లోప్రిడ్
+Kharif,ఖరీఫ్,Clay,బంకమట్టి,14,57,110,7.0,28,280,61,Chilli,మిర్చి,Farmyard Manure,పశువుల ఎరువు,Urea,యూరియా,Chili Spray,మిరప స్ప్రే,Cypermethrin,సైపర్‌మెత్రిన్
+Zaid,జైద్,Clay,బంకమట్టి,107,47,105,7.71,28,63,49,Sunflower,సూర్యకాంతి,Farmyard Manure,పశువుల ఎరువు,NPK,ఎన్‌పీకే,Garlic Spray,వెల్లుల్లి స్ప్రే,Imidacloprid,ఇమిడాక్లోప్రిడ్
+Rabi,రబీ,Red,ఎర్ర మట్టి,89,61,58,5.93,29,204,79,Grapes,ద్రాక్ష,Neem Cake,వేపపిండి,DAP,డిఏపీ,Chili Spray,మిరప స్ప్రే,Imidacloprid,ఇమిడాక్లోప్రిడ్
+Rabi,రబీ,Sandy,మణల్,93,57,76,7.93,36,175,74,Watermelon,పుచ్చకాయ,Compost,కంపోస్ట్,MOP,పొటాష్,Garlic Spray,వెల్లుల్లి స్ప్రే,Chlorpyrifos,క్లోరోపైరిఫాస్
+Zaid,జైద్,Clay,బంకమట్టి,54,80,117,5.73,40,161,72,Wheat,గోధుమ,Compost,కంపోస్ట్,Urea,యూరియా,Chili Spray,మిరప స్ప్రే,Imidacloprid,ఇమిడాక్లోప్రిడ్
+Zaid,జైద్,Sandy,మణల్,39,53,24,6.06,35,239,33,Tomato,టమోటా,Neem Cake,వేపపిండి,Urea,యూరియా,Chili Spray,మిరప స్ప్రే,Cypermethrin,సైపర్‌మెత్రిన్
+Rabi,రబీ,Loamy,లోమీ,108,40,116,8.25,34,189,65,Pumpkin,గుమ్మడికాయ,Compost,కంపోస్ట్,MOP,పొటాష్,Neem Oil,వేప నూనె,Imidacloprid,ఇమిడాక్లోప్రిడ్
+Rabi,రబీ,Black,నల్ల మట్టి,117,87,28,7.51,37,184,55,Cabbage,క్యాబేజీ,Neem Cake,వేపపిండి,NPK,ఎన్‌పీకే,Neem Oil,వేప నూనె,Chlorpyrifos,క్లోరోపైరిఫాస్
+Zaid,జైద్,Loamy,లోమీ,55,29,106,7.11,24,289,38,Sorghum,జొన్న,Farmyard Manure,పశువుల ఎరువు,Urea,యూరియా,Neem Oil,వేప నూనె,Chlorpyrifos,క్లోరోపైరిఫాస్
+Kharif,ఖరీఫ్,Sandy,మణల్,57,103,113,8.49,31,116,79,Potato,ఆలుగడ్డ,Vermicompost,వర్మి కంపోస్ట్,NPK,ఎన్‌పీకే,Chili Spray,మిరప స్ప్రే,Chlorpyrifos,క్లోరోపైరిఫాస్
+Zaid,జైద్,Black,నల్ల మట్టి,90,53,44,6.1,33,158,53,Mustard,ఆవాలు,Vermicompost,వర్మి కంపోస్ట్,NPK,ఎన్‌పీకే,Garlic Spray,వెల్లుల్లి స్ప్రే,Cypermethrin,సైపర్‌మెత్రిన్
+Kharif,ఖరీఫ్,Red,ఎర్ర మట్టి,80,11,53,5.71,20,70,58,Drumstick,మునగ,Vermicompost,వర్మి కంపోస్ట్,NPK,ఎన్‌పీకే,Garlic Spray,వెల్లుల్లి స్ప్రే,Chlorpyrifos,క్లోరోపైరిఫాస్
+Zaid,జైద్,Loamy,లోమీ,67,89,52,8.44,18,112,34,Rice,వరి,Neem Cake,వేపపిండి,NPK,ఎన్‌పీకే,Neem Oil,వేప నూనె,Cypermethrin,సైపర్‌మెత్రిన్
+Zaid,జైద్,Red,ఎర్ర మట్టి,91,45,81,6.31,26,220,90,Coriander,కొత్తిమీర,Compost,కంపోస్ట్,Urea,యూరియా,Neem Oil,వేప నూనె,Chlorpyrifos,క్లోరోపైరిఫాస్
+Rabi,రబీ,Sandy,మణల్,100,35,113,7.72,22,158,46,Potato,ఆలుగడ్డ,Compost,కంపోస్ట్,MOP,పొటాష్,Chili Spray,మిరప స్ప్రే,Cypermethrin,సైపర్‌మెత్రిన్
+Rabi,రబీ,Loamy,లోమీ,74,11,110,7.35,33,218,88,Onion,ఉల్లి,Neem Cake,వేపపిండి,NPK,ఎన్‌పీకే,Garlic Spray,వెల్లుల్లి స్ప్రే,Imidacloprid,ఇమిడాక్లోప్రిడ్
+Zaid,జైద్,Red,ఎర్ర మట్టి,55,87,117,5.9,16,210,41,Radish,ముల్లంగి,Vermicompost,వర్మి కంపోస్ట్,DAP,డిఏపీ,Neem Oil,వేప నూనె,Chlorpyrifos,క్లోరోపైరిఫాస్
+Zaid,జైద్,Red,ఎర్ర మట్టి,59,107,21,6.9,30,76,84,Sorghum,జొన్న,Neem Cake,వేపపిండి,NPK,ఎన్‌పీకే,Chili Spray,మిరప స్ప్రే,Imidacloprid,ఇమిడాక్లోప్రిడ్
+Kharif,ఖరీఫ్,Loamy,లోమీ,74,14,12,7.29,15,189,35,Pomegranate,దానిమ్మ,Neem Cake,వేపపిండి,NPK,ఎన్‌పీకే,Neem Oil,వేప నూనె,Imidacloprid,ఇమిడాక్లోప్రిడ్
+Zaid,జైద్,Loamy,లోమీ,42,87,56,6.94,37,231,45,Ginger,అల్లం,Vermicompost,వర్మి కంపోస్ట్,NPK,ఎన్‌పీకే,Garlic Spray,వెల్లుల్లి స్ప్రే,Cypermethrin,సైపర్‌మెత్రిన్
+Rabi,రబీ,Sandy,మణల్,35,107,46,6.75,25,138,68,Mustard,ఆవాలు,Farmyard Manure,పశువుల ఎరువు,Urea,యూరియా,Garlic Spray,వెల్లుల్లి స్ప్రే,Chlorpyrifos,క్లోరోపైరిఫాస్
+Kharif,ఖరీఫ్,Loamy,లోమీ,77,33,53,7.64,19,285,33,Onion,ఉల్లి,Farmyard Manure,పశువుల ఎరువు,Urea,యూరియా,Garlic Spray,వెల్లుల్లి స్ప్రే,Chlorpyrifos,క్లోరోపైరిఫాస్
+Zaid,జైద్,Sandy,మణల్,87,32,45,6.99,22,163,85,Pea,బఠాణి,Neem Cake,వేపపిండి,Urea,యూరియా,Neem Oil,వేప నూనె,Imidacloprid,ఇమిడాక్లోప్రిడ్
+Kharif,ఖరీఫ్,Red,ఎర్ర మట్టి,42,86,120,7.57,38,166,53,Sorghum,జొన్న,Compost,కంపోస్ట్,DAP,డిఏపీ,Garlic Spray,వెల్లుల్లి స్ప్రే,Chlorpyrifos,క్లోరోపైరిఫాస్
+Zaid,జైద్,Red,ఎర్ర మట్టి,52,61,57,6.06,19,300,40,Garlic,వెల్లులి,Vermicompost,వర్మి కంపోస్ట్,NPK,ఎన్‌పీకే,Garlic Spray,వెల్లుల్లి స్ప్రే,Chlorpyrifos,క్లోరోపైరిఫాస్
+Kharif,ఖరీఫ్,Black,నల్ల మట్టి,66,46,79,6.56,34,103,82,Turnip,టర్నిప్,Compost,కంపోస్ట్,Urea,యూరియా,Garlic Spray,వెల్లుల్లి స్ప్రే,Imidacloprid,ఇమిడాక్లోప్రిడ్
+Zaid,జైద్,Red,ఎర్ర మట్టి,60,75,105,6.15,21,179,30,Soybean,సోయాబీన్,Neem Cake,వేపపిండి,DAP,డిఏపీ,Garlic Spray,వెల్లుల్లి స్ప్రే,Imidacloprid,ఇమిడాక్లోప్రిడ్
+Kharif,ఖరీఫ్,Red,ఎర్ర మట్టి,26,119,53,6.01,39,251,63,Mango,మామిడి,Compost,కంపోస్ట్,Urea,యూరియా,Garlic Spray,వెల్లుల్లి స్ప్రే,Imidacloprid,ఇమిడాక్లోప్రిడ్
+Kharif,ఖరీఫ్,Red,ఎర్ర మట్టి,69,45,105,7.66,31,283,82,Garlic,వెల్లులి,Compost,కంపోస్ట్,Urea,యూరియా,Chili Spray,మిరప స్ప్రే,Cypermethrin,సైపర్‌మెత్రిన్
+Zaid,జైద్,Red,ఎర్ర మట్టి,52,59,18,8.46,20,175,72,Cotton,పత్తి,Compost,కంపోస్ట్,MOP,పొటాష్,Garlic Spray,వెల్లుల్లి స్ప్రే,Chlorpyrifos,క్లోరోపైరిఫాస్
+Kharif,ఖరీఫ్,Red,ఎర్ర మట్టి,115,53,78,8.41,35,244,59,Wheat,గోధుమ,Compost,కంపోస్ట్,DAP,డిఏపీ,Neem Oil,వేప నూనె,Cypermethrin,సైపర్‌మెత్రిన్
+Kharif,ఖరీఫ్,Clay,బంకమట్టి,99,91,114,8.01,19,189,48,Drumstick,మునగ,Vermicompost,వర్మి కంపోస్ట్,DAP,డిఏపీ,Neem Oil,వేప నూనె,Chlorpyrifos,క్లోరోపైరిఫాస్
+Kharif,ఖరీఫ్,Black,నల్ల మట్టి,22,110,112,6.31,29,230,79,Bitter Gourd,కాకరకాయ,Vermicompost,వర్మి కంపోస్ట్,MOP,పొటాష్,Chili Spray,మిరప స్ప్రే,Chlorpyrifos,క్లోరోపైరిఫాస్
+Kharif,ఖరీఫ్,Clay,బంకమట్టి,104,91,18,6.02,18,52,38,Cauliflower,కాలీఫ్లవర్,Vermicompost,వర్మి కంపోస్ట్,NPK,ఎన్‌పీకే,Chili Spray,మిరప స్ప్రే,Chlorpyrifos,క్లోరోపైరిఫాస్
+Rabi,రబీ,Sandy,మణల్,87,38,88,6.65,34,266,58,Sorghum,జొన్న,Compost,కంపోస్ట్,Urea,యూరియా,Chili Spray,మిరప స్ప్రే,Cypermethrin,సైపర్‌మెత్రిన్
+Zaid,జైద్,Red,ఎర్ర మట్టి,105,12,105,8.49,40,140,58,Watermelon,పుచ్చకాయ,Compost,కంపోస్ట్,NPK,ఎన్‌పీకే,Chili Spray,మిరప స్ప్రే,Imidacloprid,ఇమిడాక్లోప్రిడ్
+Kharif,ఖరీఫ్,Clay,బంకమట్టి,101,17,120,8.0,16,152,70,Watermelon,పుచ్చకాయ,Vermicompost,వర్మి కంపోస్ట్,NPK,ఎన్‌పీకే,Neem Oil,వేప నూనె,Cypermethrin,సైపర్‌మెత్రిన్
+Rabi,రబీ,Sandy,మణల్,81,11,115,7.63,17,278,62,Orange,నారింజ,Compost,కంపోస్ట్,MOP,పొటాష్,Neem Oil,వేప నూనె,Imidacloprid,ఇమిడాక్లోప్రిడ్
+Kharif,ఖరీఫ్,Clay,బంకమట్టి,79,115,74,6.17,17,98,51,Sunflower,సూర్యకాంతి,Neem Cake,వేపపిండి,MOP,పొటాష్,Chili Spray,మిరప స్ప్రే,Imidacloprid,ఇమిడాక్లోప్రిడ్
+Kharif,ఖరీఫ్,Loamy,లోమీ,107,28,114,5.95,36,57,72,Rice,వరి,Farmyard Manure,పశువుల ఎరువు,DAP,డిఏపీ,Neem Oil,వేప నూనె,Chlorpyrifos,క్లోరోపైరిఫాస్
+Kharif,ఖరీఫ్,Loamy,లోమీ,47,85,113,7.06,31,131,57,Potato,ఆలుగడ్డ,Compost,కంపోస్ట్,DAP,డిఏపీ,Chili Spray,మిరప స్ప్రే,Cypermethrin,సైపర్‌మెత్రిన్
+Zaid,జైద్,Loamy,లోమీ,32,86,118,7.67,38,229,79,Barley,యవ,Vermicompost,వర్మి కంపోస్ట్,DAP,డిఏపీ,Chili Spray,మిరప స్ప్రే,Chlorpyrifos,క్లోరోపైరిఫాస్
+Rabi,రబీ,Loamy,లోమీ,118,92,119,7.61,24,210,59,Cauliflower,కాలీఫ్లవర్,Farmyard Manure,పశువుల ఎరువు,DAP,డిఏపీ,Neem Oil,వేప నూనె,Imidacloprid,ఇమిడాక్లోప్రిడ్
+Zaid,జైద్,Loamy,లోమీ,46,63,59,6.78,25,85,46,Pumpkin,గుమ్మడికాయ,Compost,కంపోస్ట్,DAP,డిఏపీ,Neem Oil,వేప నూనె,Cypermethrin,సైపర్‌మెత్రిన్
+Kharif,ఖరీఫ్,Loamy,లోమీ,81,37,120,7.41,36,285,81,Ginger,అల్లం,Compost,కంపోస్ట్,NPK,ఎన్‌పీకే,Neem Oil,వేప నూనె,Imidacloprid,ఇమిడాక్లోప్రిడ్
+Kharif,ఖరీఫ్,Sandy,మణల్,95,105,21,6.53,21,165,58,Rice,వరి,Compost,కంపోస్ట్,Urea,యూరియా,Garlic Spray,వెల్లుల్లి స్ప్రే,Imidacloprid,ఇమిడాక్లోప్రిడ్
+Zaid,జైద్,Sandy,మణల్,20,104,26,8.48,15,244,77,Muskmelon,ఖర్బూజ,Vermicompost,వర్మి కంపోస్ట్,NPK,ఎన్‌పీకే,Chili Spray,మిరప స్ప్రే,Cypermethrin,సైపర్‌మెత్రిన్
+Kharif,ఖరీఫ్,Black,నల్ల మట్టి,96,42,93,7.17,36,66,35,Coriander,కొత్తిమీర,Neem Cake,వేపపిండి,MOP,పొటాష్,Chili Spray,మిరప స్ప్రే,Chlorpyrifos,క్లోరోపైరిఫాస్
+Zaid,జైద్,Sandy,మణల్,27,116,28,6.42,26,62,77,Papaya,బొప్పాయి,Vermicompost,వర్మి కంపోస్ట్,Urea,యూరియా,Neem Oil,వేప నూనె,Cypermethrin,సైపర్‌మెత్రిన్
+Kharif,ఖరీఫ్,Loamy,లోమీ,20,46,20,6.41,35,51,49,Radish,ముల్లంగి,Vermicompost,వర్మి కంపోస్ట్,Urea,యూరియా,Garlic Spray,వెల్లుల్లి స్ప్రే,Imidacloprid,ఇమిడాక్లోప్రిడ్
+Zaid,జైద్,Sandy,మణల్,111,16,69,6.65,24,222,65,Wheat,గోధుమ,Compost,కంపోస్ట్,Urea,యూరియా,Neem Oil,వేప నూనె,Cypermethrin,సైపర్‌మెత్రిన్
+Zaid,జైద్,Red,ఎర్ర మట్టి,102,73,90,6.9,17,223,32,Lentil,పప్పు,Farmyard Manure,పశువుల ఎరువు,Urea,యూరియా,Neem Oil,వేప నూనె,Cypermethrin,సైపర్‌మెత్రిన్
+Rabi,రబీ,Sandy,మణల్,102,120,61,8.43,34,194,36,Radish,ముల్లంగి,Vermicompost,వర్మి కంపోస్ట్,MOP,పొటాష్,Garlic Spray,వెల్లుల్లి స్ప్రే,Chlorpyrifos,క్లోరోపైరిఫాస్
+Zaid,జైద్,Black,నల్ల మట్టి,48,22,34,6.51,18,162,83,Sugarcane,చెరకు,Farmyard Manure,పశువుల ఎరువు,Urea,యూరియా,Chili Spray,మిరప స్ప్రే,Cypermethrin,సైపర్‌మెత్రిన్
+Zaid,జైద్,Red,ఎర్ర మట్టి,87,97,49,7.05,40,281,90,Lentil,పప్పు,Vermicompost,వర్మి కంపోస్ట్,Urea,యూరియా,Neem Oil,వేప నూనె,Chlorpyrifos,క్లోరోపైరిఫాస్
+Zaid,జైద్,Black,నల్ల మట్టి,70,19,99,7.52,24,168,85,Soybean,సోయాబీన్,Neem Cake,వేపపిండి,Urea,యూరియా,Neem Oil,వేప నూనె,Imidacloprid,ఇమిడాక్లోప్రిడ్
+Kharif,ఖరీఫ్,Loamy,లోమీ,104,62,72,7.53,15,142,34,Okra,బెండకాయ,Farmyard Manure,పశువుల ఎరువు,Urea,యూరియా,Garlic Spray,వెల్లుల్లి స్ప్రే,Imidacloprid,ఇమిడాక్లోప్రిడ్
+Rabi,రబీ,Sandy,మణల్,24,29,12,5.99,16,96,38,Pumpkin,గుమ్మడికాయ,Farmyard Manure,పశువుల ఎరువు,Urea,యూరియా,Chili Spray,మిరప స్ప్రే,Chlorpyrifos,క్లోరోపైరిఫాస్
+Kharif,ఖరీఫ్,Black,నల్ల మట్టి,18,84,40,7.33,26,158,51,Watermelon,పుచ్చకాయ,Compost,కంపోస్ట్,Urea,యూరియా,Chili Spray,మిరప స్ప్రే,Cypermethrin,సైపర్‌మెత్రిన్
+Kharif,ఖరీఫ్,Sandy,మణల్,86,104,42,7.72,37,248,32,Sorghum,జొన్న,Farmyard Manure,పశువుల ఎరువు,NPK,ఎన్‌పీకే,Chili Spray,మిరప స్ప్రే,Chlorpyrifos,క్లోరోపైరిఫాస్
+Rabi,రబీ,Red,ఎర్ర మట్టి,84,43,100,7.96,19,77,49,Millet,సజ్జ,Neem Cake,వేపపిండి,MOP,పొటాష్,Neem Oil,వేప నూనె,Cypermethrin,సైపర్‌మెత్రిన్
+Rabi,రబీ,Clay,బంకమట్టి,61,106,104,5.7,30,188,48,Chilli,మిర్చి,Neem Cake,వేపపిండి,NPK,ఎన్‌పీకే,Garlic Spray,వెల్లుల్లి స్ప్రే,Cypermethrin,సైపర్‌మెత్రిన్
+Zaid,జైద్,Red,ఎర్ర మట్టి,87,93,89,5.51,33,195,38,Potato,ఆలుగడ్డ,Farmyard Manure,పశువుల ఎరువు,Urea,యూరియా,Garlic Spray,వెల్లుల్లి స్ప్రే,Chlorpyrifos,క్లోరోపైరిఫాస్
+Rabi,రబీ,Clay,బంకమట్టి,72,118,64,7.97,40,194,88,Tomato,టమోటా,Neem Cake,వేపపిండి,NPK,ఎన్‌పీకే,Neem Oil,వేప నూనె,Imidacloprid,ఇమిడాక్లోప్రిడ్
+Zaid,జైద్,Clay,బంకమట్టి,58,31,110,5.67,15,149,79,Ridge Gourd,బీరకాయ,Neem Cake,వేపపిండి,Urea,యూరియా,Garlic Spray,వెల్లుల్లి స్ప్రే,Chlorpyrifos,క్లోరోపైరిఫాస్
+Kharif,ఖరీఫ్,Loamy,లోమీ,119,26,94,8.39,16,147,59,Soybean,సోయాబీన్,Neem Cake,వేపపిండి,MOP,పొటాష్,Chili Spray,మిరప స్ప్రే,Cypermethrin,సైపర్‌మెత్రిన్
+Zaid,జైద్,Sandy,మణల్,83,71,12,6.86,39,251,88,Bottle Gourd,సొరకాయ,Neem Cake,వేపపిండి,NPK,ఎన్‌పీకే,Chili Spray,మిరప స్ప్రే,Chlorpyrifos,క్లోరోపైరిఫాస్
+Zaid,జైద్,Sandy,మణల్,119,111,88,5.88,22,82,67,Wheat,గోధుమ,Farmyard Manure,పశువుల ఎరువు,Urea,యూరియా,Chili Spray,మిరప స్ప్రే,Imidacloprid,ఇమిడాక్లోప్రిడ్
+Kharif,ఖరీఫ్,Clay,బంకమట్టి,114,111,98,6.9,27,247,82,Bitter Gourd,కాకరకాయ,Neem Cake,వేపపిండి,NPK,ఎన్‌పీకే,Garlic Spray,వెల్లుల్లి స్ప్రే,Imidacloprid,ఇమిడాక్లోప్రిడ్
+Rabi,రబీ,Clay,బంకమట్టి,27,105,95,7.56,24,244,60,Wheat,గోధుమ,Farmyard Manure,పశువుల ఎరువు,DAP,డిఏపీ,Neem Oil,వేప నూనె,Cypermethrin,సైపర్‌మెత్రిన్
+Zaid,జైద్,Clay,బంకమట్టి,90,45,67,6.9,29,52,31,Chilli,మిర్చి,Neem Cake,వేపపిండి,NPK,ఎన్‌పీకే,Garlic Spray,వెల్లుల్లి స్ప్రే,Cypermethrin,సైపర్‌మెత్రిన్
+Zaid,జైద్,Black,నల్ల మట్టి,73,101,76,7.72,29,139,80,Tomato,టమోటా,Neem Cake,వేపపిండి,Urea,యూరియా,Neem Oil,వేప నూనె,Cypermethrin,సైపర్‌మెత్రిన్
+Rabi,రబీ,Loamy,లోమీ,61,16,79,7.44,15,153,36,Pomegranate,దానిమ్మ,Neem Cake,వేపపిండి,DAP,డిఏపీ,Garlic Spray,వెల్లుల్లి స్ప్రే,Imidacloprid,ఇమిడాక్లోప్రిడ్
+Zaid,జైద్,Loamy,లోమీ,120,39,18,7.93,30,262,43,Lentil,పప్పు,Farmyard Manure,పశువుల ఎరువు,DAP,డిఏపీ,Garlic Spray,వెల్లుల్లి స్ప్రే,Chlorpyrifos,క్లోరోపైరిఫాస్
+Rabi,రబీ,Loamy,లోమీ,93,23,112,7.01,27,158,38,Garlic,వెల్లులి,Compost,కంపోస్ట్,MOP,పొటాష్,Neem Oil,వేప నూనె,Cypermethrin,సైపర్‌మెత్రిన్
+Rabi,రబీ,Clay,బంకమట్టి,47,118,114,5.52,28,232,53,Sunflower,సూర్యకాంతి,Farmyard Manure,పశువుల ఎరువు,NPK,ఎన్‌పీకే,Chili Spray,మిరప స్ప్రే,Chlorpyrifos,క్లోరోపైరిఫాస్
+Rabi,రబీ,Black,నల్ల మట్టి,115,81,15,8.33,23,196,47,Mustard,ఆవాలు,Vermicompost,వర్మి కంపోస్ట్,DAP,డిఏపీ,Garlic Spray,వెల్లుల్లి స్ప్రే,Imidacloprid,ఇమిడాక్లోప్రిడ్
+Rabi,రబీ,Red,ఎర్ర మట్టి,89,56,98,6.24,16,286,56,Gram,సెనగ,Farmyard Manure,పశువుల ఎరువు,Urea,యూరియా,Neem Oil,వేప నూనె,Chlorpyrifos,క్లోరోపైరిఫాస్
+Kharif,ఖరీఫ్,Red,ఎర్ర మట్టి,24,42,110,8.05,27,226,89,Ridge Gourd,బీరకాయ,Vermicompost,వర్మి కంపోస్ట్,NPK,ఎన్‌పీకే,Garlic Spray,వెల్లుల్లి స్ప్రే,Chlorpyrifos,క్లోరోపైరిఫాస్
+Zaid,జైద్,Clay,బంకమట్టి,21,68,31,6.97,38,289,90,Cauliflower,కాలీఫ్లవర్,Neem Cake,వేపపిండి,NPK,ఎన్‌పీకే,Garlic Spray,వెల్లుల్లి స్ప్రే,Cypermethrin,సైపర్‌మెత్రిన్
+Zaid,జైద్,Black,నల్ల మట్టి,114,25,84,5.65,30,161,86,Garlic,వెల్లులి,Compost,కంపోస్ట్,DAP,డిఏపీ,Neem Oil,వేప నూనె,Chlorpyrifos,క్లోరోపైరిఫాస్
+Kharif,ఖరీఫ్,Sandy,మణల్,84,79,77,7.34,22,200,46,Papaya,బొప్పాయి,Compost,కంపోస్ట్,DAP,డిఏపీ,Chili Spray,మిరప స్ప్రే,Cypermethrin,సైపర్‌మెత్రిన్
+Zaid,జైద్,Loamy,లోమీ,50,24,103,5.63,28,193,67,Ridge Gourd,బీరకాయ,Vermicompost,వర్మి కంపోస్ట్,MOP,పొటాష్,Chili Spray,మిరప స్ప్రే,Chlorpyrifos,క్లోరోపైరిఫాస్
+Rabi,రబీ,Black,నల్ల మట్టి,15,119,50,7.65,21,207,81,Bitter Gourd,కాకరకాయ,Neem Cake,వేపపిండి,NPK,ఎన్‌పీకే,Garlic Spray,వెల్లుల్లి స్ప్రే,Chlorpyrifos,క్లోరోపైరిఫాస్
+Zaid,జైద్,Loamy,లోమీ,34,16,112,7.8,19,266,75,Tomato,టమోటా,Compost,కంపోస్ట్,NPK,ఎన్‌పీకే,Garlic Spray,వెల్లుల్లి స్ప్రే,Imidacloprid,ఇమిడాక్లోప్రిడ్
+Zaid,జైద్,Red,ఎర్ర మట్టి,93,44,66,6.67,22,241,48,Mango,మామిడి,Farmyard Manure,పశువుల ఎరువు,Urea,యూరియా,Chili Spray,మిరప స్ప్రే,Imidacloprid,ఇమిడాక్లోప్రిడ్
+Kharif,ఖరీఫ్,Sandy,మణల్,76,14,12,7.98,27,97,89,Fenugreek,మెంతికూర,Vermicompost,వర్మి కంపోస్ట్,NPK,ఎన్‌పీకే,Neem Oil,వేప నూనె,Imidacloprid,ఇమిడాక్లోప్రిడ్
+Rabi,రబీ,Red,ఎర్ర మట్టి,107,97,113,7.94,34,250,38,Tomato,టమోటా,Neem Cake,వేపపిండి,DAP,డిఏపీ,Neem Oil,వేప నూనె,Cypermethrin,సైపర్‌మెత్రిన్
+Kharif,ఖరీఫ్,Black,నల్ల మట్టి,60,71,59,7.04,19,133,76,Carrot,గాజర్,Compost,కంపోస్ట్,DAP,డిఏపీ,Chili Spray,మిరప స్ప్రే,Imidacloprid,ఇమిడాక్లోప్రిడ్
+Rabi,రబీ,Sandy,మణల్,95,119,49,5.98,25,192,63,Rice,వరి,Compost,కంపోస్ట్,NPK,ఎన్‌పీకే,Chili Spray,మిరప స్ప్రే,Cypermethrin,సైపర్‌మెత్రిన్
+Zaid,జైద్,Red,ఎర్ర మట్టి,24,95,27,6.57,21,276,75,Bottle Gourd,సొరకాయ,Vermicompost,వర్మి కంపోస్ట్,Urea,యూరియా,Garlic Spray,వెల్లుల్లి స్ప్రే,Cypermethrin,సైపర్‌మెత్రిన్
+Kharif,ఖరీఫ్,Sandy,మణల్,70,71,80,8.38,31,143,72,Ginger,అల్లం,Compost,కంపోస్ట్,Urea,యూరియా,Chili Spray,మిరప స్ప్రే,Chlorpyrifos,క్లోరోపైరిఫాస్
+Rabi,రబీ,Loamy,లోమీ,24,108,22,5.66,39,182,73,Turnip,టర్నిప్,Compost,కంపోస్ట్,NPK,ఎన్‌పీకే,Chili Spray,మిరప స్ప్రే,Chlorpyrifos,క్లోరోపైరిఫాస్
+Rabi,రబీ,Sandy,మణల్,82,42,63,8.22,33,181,32,Pumpkin,గుమ్మడికాయ,Neem Cake,వేపపిండి,Urea,యూరియా,Neem Oil,వేప నూనె,Chlorpyrifos,క్లోరోపైరిఫాస్
+Kharif,ఖరీఫ్,Sandy,మణల్,47,52,67,8.12,37,212,68,Muskmelon,ఖర్బూజ,Neem Cake,వేపపిండి,DAP,డిఏపీ,Chili Spray,మిరప స్ప్రే,Imidacloprid,ఇమిడాక్లోప్రిడ్
+Rabi,రబీ,Loamy,లోమీ,74,57,44,7.5,26,269,88,Orange,నారింజ,Neem Cake,వేపపిండి,MOP,పొటాష్,Garlic Spray,వెల్లుల్లి స్ప్రే,Chlorpyrifos,క్లోరోపైరిఫాస్
+Kharif,ఖరీఫ్,Sandy,మణల్,79,15,27,7.39,25,140,90,Groundnut,వేరుశెనగ,Neem Cake,వేపపిండి,DAP,డిఏపీ,Neem Oil,వేప నూనె,Chlorpyrifos,క్లోరోపైరిఫాస్
+Rabi,రబీ,Loamy,లోమీ,84,72,37,5.86,31,108,89,Ginger,అల్లం,Farmyard Manure,పశువుల ఎరువు,MOP,పొటాష్,Garlic Spray,వెల్లుల్లి స్ప్రే,Imidacloprid,ఇమిడాక్లోప్రిడ్
+Kharif,ఖరీఫ్,Sandy,మణల్,120,17,27,7.23,16,211,66,Radish,ముల్లంగి,Vermicompost,వర్మి కంపోస్ట్,NPK,ఎన్‌పీకే,Neem Oil,వేప నూనె,Chlorpyrifos,క్లోరోపైరిఫాస్
+Zaid,జైద్,Clay,బంకమట్టి,10,21,59,8.24,22,127,71,Bitter Gourd,కాకరకాయ,Compost,కంపోస్ట్,MOP,పొటాష్,Neem Oil,వేప నూనె,Imidacloprid,ఇమిడాక్లోప్రిడ్
+Rabi,రబీ,Sandy,మణల్,42,102,20,6.08,18,78,62,Guava,జామ,Compost,కంపోస్ట్,MOP,పొటాష్,Garlic Spray,వెల్లుల్లి స్ప్రే,Chlorpyrifos,క్లోరోపైరిఫాస్
+Kharif,ఖరీఫ్,Loamy,లోమీ,42,71,64,7.92,34,186,53,Millet,సజ్జ,Neem Cake,వేపపిండి,NPK,ఎన్‌పీకే,Chili Spray,మిరప స్ప్రే,Chlorpyrifos,క్లోరోపైరిఫాస్
+Rabi,రబీ,Clay,బంకమట్టి,45,58,92,8.1,24,90,52,Lentil,పప్పు,Farmyard Manure,పశువుల ఎరువు,NPK,ఎన్‌పీకే,Chili Spray,మిరప స్ప్రే,Chlorpyrifos,క్లోరోపైరిఫాస్
+Kharif,ఖరీఫ్,Clay,బంకమట్టి,93,54,100,6.29,33,249,85,Groundnut,వేరుశెనగ,Farmyard Manure,పశువుల ఎరువు,Urea,యూరియా,Neem Oil,వేప నూనె,Chlorpyrifos,క్లోరోపైరిఫాస్
+Kharif,ఖరీఫ్,Red,ఎర్ర మట్టి,53,73,14,7.45,16,222,64,Guava,జామ,Vermicompost,వర్మి కంపోస్ట్,DAP,డిఏపీ,Neem Oil,వేప నూనె,Imidacloprid,ఇమిడాక్లోప్రిడ్
+Zaid,జైద్,Sandy,మణల్,84,59,51,6.18,37,255,35,Cotton,పత్తి,Vermicompost,వర్మి కంపోస్ట్,Urea,యూరియా,Chili Spray,మిరప స్ప్రే,Chlorpyrifos,క్లోరోపైరిఫాస్
+Zaid,జైద్,Red,ఎర్ర మట్టి,25,14,40,6.16,33,117,40,Cabbage,క్యాబేజీ,Compost,కంపోస్ట్,DAP,డిఏపీ,Garlic Spray,వెల్లుల్లి స్ప్రే,Cypermethrin,సైపర్‌మెత్రిన్
+Zaid,జైద్,Clay,బంకమట్టి,24,27,75,6.47,17,128,81,Muskmelon,ఖర్బూజ,Farmyard Manure,పశువుల ఎరువు,NPK,ఎన్‌పీకే,Garlic Spray,వెల్లుల్లి స్ప్రే,Cypermethrin,సైపర్‌మెత్రిన్
+Zaid,జైద్,Loamy,లోమీ,50,99,56,7.57,36,87,68,Apple,సేపు,Compost,కంపోస్ట్,NPK,ఎన్‌పీకే,Chili Spray,మిరప స్ప్రే,Imidacloprid,ఇమిడాక్లోప్రిడ్
+Kharif,ఖరీఫ్,Red,ఎర్ర మట్టి,42,101,118,6.14,23,76,75,Brinjal,వంకాయ,Vermicompost,వర్మి కంపోస్ట్,NPK,ఎన్‌పీకే,Garlic Spray,వెల్లుల్లి స్ప్రే,Chlorpyrifos,క్లోరోపైరిఫాస్
+Zaid,జైద్,Loamy,లోమీ,101,90,49,6.46,15,222,78,Sunflower,సూర్యకాంతి,Compost,కంపోస్ట్,DAP,డిఏపీ,Garlic Spray,వెల్లుల్లి స్ప్రే,Cypermethrin,సైపర్‌మెత్రిన్
+Rabi,రబీ,Loamy,లోమీ,77,49,38,7.2,24,178,84,Sorghum,జొన్న,Farmyard Manure,పశువుల ఎరువు,NPK,ఎన్‌పీకే,Neem Oil,వేప నూనె,Chlorpyrifos,క్లోరోపైరిఫాస్
+Zaid,జైద్,Sandy,మణల్,11,98,84,7.81,30,173,86,Soybean,సోయాబీన్,Neem Cake,వేపపిండి,MOP,పొటాష్,Neem Oil,వేప నూనె,Cypermethrin,సైపర్‌మెత్రిన్
+Kharif,ఖరీఫ్,Sandy,మణల్,100,94,43,6.32,28,84,86,Sorghum,జొన్న,Compost,కంపోస్ట్,DAP,డిఏపీ,Garlic Spray,వెల్లుల్లి స్ప్రే,Chlorpyrifos,క్లోరోపైరిఫాస్
+Kharif,ఖరీఫ్,Loamy,లోమీ,55,114,62,8.4,20,119,50,Turmeric,పసుపు,Farmyard Manure,పశువుల ఎరువు,MOP,పొటాష్,Chili Spray,మిరప స్ప్రే,Imidacloprid,ఇమిడాక్లోప్రిడ్
